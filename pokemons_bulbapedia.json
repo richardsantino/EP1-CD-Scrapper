@@ -1,0 +1,10922 @@
+[
+  {
+    "Num": "#011",
+    "Nome": "Metapod",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Bug",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": null,
+    "Nome": null,
+    "TamM": null,
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": null,
+    "Tipos": [
+      null,
+      null
+    ]
+  },
+  {
+    "Num": "#005",
+    "Nome": "Charmeleon",
+    "TamM": "1.1 m\n",
+    "PesoLb": "41.9 lbs.\n",
+    "PesoKg": "19.0 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Fire",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#010",
+    "Nome": "Caterpie",
+    "TamM": "0.3 m\n",
+    "PesoLb": "6.4 lbs.\n",
+    "PesoKg": "2.9 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Bug",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#009",
+    "Nome": "Blastoise",
+    "TamM": "1.6 m\n",
+    "PesoLb": "188.5 lbs.\n",
+    "PesoKg": "85.5 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Water",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#007",
+    "Nome": "Squirtle",
+    "TamM": "0.5 m\n",
+    "PesoLb": "19.8 lbs.\n",
+    "PesoKg": "9.0 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Water",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#008",
+    "Nome": "Wartortle",
+    "TamM": "1.0 m\n",
+    "PesoLb": "49.6 lbs.\n",
+    "PesoKg": "22.5 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Water",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#006",
+    "Nome": "Charizard",
+    "TamM": "1.7 m\n",
+    "PesoLb": "199.5 lbs.\n",
+    "PesoKg": "90.5 kg\n",
+    "Cor": " Red",
+    "Tipos": [
+      "Fire",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#003",
+    "Nome": "Venusaur",
+    "TamM": "2.0 m\n",
+    "PesoLb": "220.5 lbs.\n",
+    "PesoKg": "100.0 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Grass",
+      "Poison"
+    ]
+  },
+  {
+    "Num": "#002",
+    "Nome": "Ivysaur",
+    "TamM": "1.0 m\n",
+    "PesoLb": "28.7 lbs.\n",
+    "PesoKg": "13.0 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Grass",
+      "Poison"
+    ]
+  },
+  {
+    "Num": "#001",
+    "Nome": "Bulbasaur",
+    "TamM": "0.7 m\n",
+    "PesoLb": "15.2 lbs.\n",
+    "PesoKg": "6.9 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Grass",
+      "Poison"
+    ]
+  },
+  {
+    "Num": "#034",
+    "Nome": "Nidoking",
+    "TamM": "1.4 m\n",
+    "PesoLb": "136.7 lbs.\n",
+    "PesoKg": "62.0 kg\n",
+    "Cor": " Purple\n",
+    "Tipos": [
+      "Poison",
+      "Ground"
+    ]
+  },
+  {
+    "Num": "#033",
+    "Nome": "Nidorino",
+    "TamM": "0.9 m\n",
+    "PesoLb": "43.0 lbs.\n",
+    "PesoKg": "19.5 kg\n",
+    "Cor": " Purple\n",
+    "Tipos": [
+      "Poison",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#032",
+    "Nome": "Nidoran\u2642",
+    "TamM": "0.5 m\n",
+    "PesoLb": "19.8 lbs.\n",
+    "PesoKg": "9.0 kg\n",
+    "Cor": " Purple\n",
+    "Tipos": [
+      "Poison",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#031",
+    "Nome": "Nidoqueen",
+    "TamM": "1.3 m\n",
+    "PesoLb": "132.3 lbs.\n",
+    "PesoKg": "60.0 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Poison",
+      "Ground"
+    ]
+  },
+  {
+    "Num": "#004",
+    "Nome": "Charmander",
+    "TamM": "0.6 m\n",
+    "PesoLb": "18.7 lbs.\n",
+    "PesoKg": "8.5 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Fire",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": null,
+    "Nome": null,
+    "TamM": null,
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": null,
+    "Tipos": [
+      null,
+      null
+    ]
+  },
+  {
+    "Num": null,
+    "Nome": null,
+    "TamM": null,
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": null,
+    "Tipos": [
+      null,
+      null
+    ]
+  },
+  {
+    "Num": null,
+    "Nome": null,
+    "TamM": null,
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": null,
+    "Tipos": [
+      null,
+      null
+    ]
+  },
+  {
+    "Num": null,
+    "Nome": null,
+    "TamM": null,
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": null,
+    "Tipos": [
+      null,
+      null
+    ]
+  },
+  {
+    "Num": null,
+    "Nome": null,
+    "TamM": null,
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": null,
+    "Tipos": [
+      null,
+      null
+    ]
+  },
+  {
+    "Num": null,
+    "Nome": null,
+    "TamM": null,
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": null,
+    "Tipos": [
+      null,
+      null
+    ]
+  },
+  {
+    "Num": null,
+    "Nome": null,
+    "TamM": null,
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": null,
+    "Tipos": [
+      null,
+      null
+    ]
+  },
+  {
+    "Num": null,
+    "Nome": null,
+    "TamM": null,
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": null,
+    "Tipos": [
+      null,
+      null
+    ]
+  },
+  {
+    "Num": null,
+    "Nome": "Wyrdeer",
+    "TamM": null,
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": null,
+    "Tipos": [
+      null,
+      null
+    ]
+  },
+  {
+    "Num": null,
+    "Nome": "Basculegion",
+    "TamM": null,
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": null,
+    "Tipos": [
+      null,
+      null
+    ]
+  },
+  {
+    "Num": "#898",
+    "Nome": "Calyrex",
+    "TamM": "1.1 m\n",
+    "PesoLb": "17.0 lbs.\n",
+    "PesoKg": "7.7 kg\n",
+    "Cor": " Green",
+    "Tipos": [
+      "Psychic",
+      "Grass"
+    ]
+  },
+  {
+    "Num": "#897",
+    "Nome": "Spectrier",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Ghost",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#896",
+    "Nome": "Glastrier",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Ice",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#895",
+    "Nome": "Regidrago",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Dragon",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": null,
+    "Nome": null,
+    "TamM": null,
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": null,
+    "Tipos": [
+      null,
+      null
+    ]
+  },
+  {
+    "Num": "#894",
+    "Nome": "Regieleki",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Electric",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#893",
+    "Nome": "Zarude",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Dark",
+      "Grass"
+    ]
+  },
+  {
+    "Num": "#891",
+    "Nome": "Kubfu",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Fighting",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#890",
+    "Nome": "Eternatus",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Poison",
+      "Dragon"
+    ]
+  },
+  {
+    "Num": "#892",
+    "Nome": "Urshifu",
+    "TamM": "1.9 m\n",
+    "PesoLb": "231.5 lbs.\n",
+    "PesoKg": "105.0 kg\n",
+    "Cor": " Gray\n",
+    "Tipos": [
+      "Fighting",
+      "Dark"
+    ]
+  },
+  {
+    "Num": "#889",
+    "Nome": "Zamazenta",
+    "TamM": "2.9 m\n",
+    "PesoLb": "463.0 lbs.\n",
+    "PesoKg": "210.0 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Fighting",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#888",
+    "Nome": "Zacian",
+    "TamM": "2.8 m\n",
+    "PesoLb": "242.5 lbs.\n",
+    "PesoKg": "110.0 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Fairy",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#887",
+    "Nome": "Dragapult",
+    "TamM": "3.0 m\n",
+    "PesoLb": "110.2 lbs.\n",
+    "PesoKg": "50.0 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Dragon",
+      "Ghost"
+    ]
+  },
+  {
+    "Num": "#886",
+    "Nome": "Drakloak",
+    "TamM": "1.4 m\n",
+    "PesoLb": "24.3 lbs.\n",
+    "PesoKg": "11.0 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Dragon",
+      "Ghost"
+    ]
+  },
+  {
+    "Num": "#885",
+    "Nome": "Dreepy",
+    "TamM": "0.5 m\n",
+    "PesoLb": "4.4 lbs.\n",
+    "PesoKg": "2.0 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Dragon",
+      "Ghost"
+    ]
+  },
+  {
+    "Num": "#884",
+    "Nome": "Duraludon",
+    "TamM": "1.8 m\n",
+    "PesoLb": "88.2 lbs.\n",
+    "PesoKg": "40.0 kg\n",
+    "Cor": " White\n",
+    "Tipos": [
+      "Steel",
+      "Dragon"
+    ]
+  },
+  {
+    "Num": "#883",
+    "Nome": "Arctovish",
+    "TamM": "2.0 m\n",
+    "PesoLb": "385.8 lbs.\n",
+    "PesoKg": "175.0 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Water",
+      "Ice"
+    ]
+  },
+  {
+    "Num": "#882",
+    "Nome": "Dracovish",
+    "TamM": "2.3 m\n",
+    "PesoLb": "474.0 lbs.\n",
+    "PesoKg": "215.0 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Water",
+      "Dragon"
+    ]
+  },
+  {
+    "Num": "#881",
+    "Nome": "Arctozolt",
+    "TamM": "2.3 m\n",
+    "PesoLb": "330.7 lbs.\n",
+    "PesoKg": "150.0 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Electric",
+      "Ice"
+    ]
+  },
+  {
+    "Num": "#880",
+    "Nome": "Dracozolt",
+    "TamM": "1.8 m\n",
+    "PesoLb": "418.9 lbs.\n",
+    "PesoKg": "190.0 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Electric",
+      "Dragon"
+    ]
+  },
+  {
+    "Num": "#879",
+    "Nome": "Copperajah",
+    "TamM": "3.0 m\n",
+    "PesoLb": "1433.0 lbs.\n",
+    "PesoKg": "650.0 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Steel",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#878",
+    "Nome": "Cufant",
+    "TamM": "1.2 m\n",
+    "PesoLb": "220.5 lbs.\n",
+    "PesoKg": "100.0 kg\n",
+    "Cor": " Yellow\n",
+    "Tipos": [
+      "Steel",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#877",
+    "Nome": "Morpeko",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Electric",
+      "Dark"
+    ]
+  },
+  {
+    "Num": "#876",
+    "Nome": "Indeedee",
+    "TamM": "0.9 m\n",
+    "PesoLb": "61.7 lbs.\n",
+    "PesoKg": "28.0 kg\n",
+    "Cor": " Purple\n",
+    "Tipos": [
+      "Psychic",
+      "Normal"
+    ]
+  },
+  {
+    "Num": "#875",
+    "Nome": "Eiscue",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Ice",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#873",
+    "Nome": "Frosmoth",
+    "TamM": "1.3 m\n",
+    "PesoLb": "92.6 lbs.\n",
+    "PesoKg": "42.0 kg\n",
+    "Cor": " White\n",
+    "Tipos": [
+      "Ice",
+      "Bug"
+    ]
+  },
+  {
+    "Num": "#872",
+    "Nome": "Snom",
+    "TamM": "0.3 m\n",
+    "PesoLb": "8.4 lbs.\n",
+    "PesoKg": "3.8 kg\n",
+    "Cor": " White\n",
+    "Tipos": [
+      "Ice",
+      "Bug"
+    ]
+  },
+  {
+    "Num": "#874",
+    "Nome": "Stonjourner",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Rock",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#871",
+    "Nome": "Pincurchin",
+    "TamM": "0.3 m\n",
+    "PesoLb": "2.2 lbs.\n",
+    "PesoKg": "1.0 kg\n",
+    "Cor": " Purple\n",
+    "Tipos": [
+      "Electric",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#870",
+    "Nome": "Falinks",
+    "TamM": "3.0 m\n",
+    "PesoLb": "136.7 lbs.\n",
+    "PesoKg": "62.0 kg\n",
+    "Cor": " Yellow\n",
+    "Tipos": [
+      "Fighting",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#868",
+    "Nome": "Milcery",
+    "TamM": "0.2 m\n",
+    "PesoLb": "0.7 lbs.\n",
+    "PesoKg": "0.3 kg\n",
+    "Cor": " White\n",
+    "Tipos": [
+      "Fairy",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#867",
+    "Nome": "Runerigus",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Ground",
+      "Ghost"
+    ]
+  },
+  {
+    "Num": "#866",
+    "Nome": "Mr. Rime",
+    "TamM": "1.5 m\n",
+    "PesoLb": "128.3 lbs.\n",
+    "PesoKg": "58.2 kg\n",
+    "Cor": " Purple\n",
+    "Tipos": [
+      "Ice",
+      "Psychic"
+    ]
+  },
+  {
+    "Num": "#864",
+    "Nome": "Cursola",
+    "TamM": "1.0 m\n",
+    "PesoLb": "0.9 lbs.\n",
+    "PesoKg": "0.4 kg\n",
+    "Cor": " White\n",
+    "Tipos": [
+      "Ghost",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#865",
+    "Nome": "Sirfetch'd",
+    "TamM": "0.8 m\n",
+    "PesoLb": "257.9 lbs.\n",
+    "PesoKg": "117.0 kg\n",
+    "Cor": " White\n",
+    "Tipos": [
+      "Fighting",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#869",
+    "Nome": "Alcremie",
+    "TamM": "0.3 m\n",
+    "PesoLb": "1.1 lbs.\n",
+    "PesoKg": "0.5 kg\n",
+    "Cor": " White",
+    "Tipos": [
+      "Fairy",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#862",
+    "Nome": "Obstagoon",
+    "TamM": "1.6 m\n",
+    "PesoLb": "101.4 lbs.\n",
+    "PesoKg": "46.0 kg\n",
+    "Cor": " Gray\n",
+    "Tipos": [
+      "Dark",
+      "Normal"
+    ]
+  },
+  {
+    "Num": "#860",
+    "Nome": "Morgrem",
+    "TamM": "0.8 m\n",
+    "PesoLb": "27.6 lbs.\n",
+    "PesoKg": "12.5 kg\n",
+    "Cor": " Pink\n",
+    "Tipos": [
+      "Dark",
+      "Fairy"
+    ]
+  },
+  {
+    "Num": "#863",
+    "Nome": "Perrserker",
+    "TamM": "0.8 m\n",
+    "PesoLb": "61.7 lbs.\n",
+    "PesoKg": "28.0 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Steel",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#859",
+    "Nome": "Impidimp",
+    "TamM": "0.4 m\n",
+    "PesoLb": "12.1 lbs.\n",
+    "PesoKg": "5.5 kg\n",
+    "Cor": " Pink\n",
+    "Tipos": [
+      "Dark",
+      "Fairy"
+    ]
+  },
+  {
+    "Num": "#858",
+    "Nome": "Hatterene",
+    "TamM": "2.1 m\n",
+    "PesoLb": "11.2 lbs.\n",
+    "PesoKg": "5.1 kg\n",
+    "Cor": " Pink\n",
+    "Tipos": [
+      "Psychic",
+      "Fairy"
+    ]
+  },
+  {
+    "Num": "#861",
+    "Nome": "Grimmsnarl",
+    "TamM": "1.5 m\n",
+    "PesoLb": "134.5 lbs.\n",
+    "PesoKg": "61.0 kg\n",
+    "Cor": " Purple\n",
+    "Tipos": [
+      "Dark",
+      "Fairy"
+    ]
+  },
+  {
+    "Num": "#856",
+    "Nome": "Hatenna",
+    "TamM": "0.4 m\n",
+    "PesoLb": "7.5 lbs.\n",
+    "PesoKg": "3.4 kg\n",
+    "Cor": " Pink\n",
+    "Tipos": [
+      "Psychic",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#857",
+    "Nome": "Hattrem",
+    "TamM": "0.6 m\n",
+    "PesoLb": "10.6 lbs.\n",
+    "PesoKg": "4.8 kg\n",
+    "Cor": " Pink\n",
+    "Tipos": [
+      "Psychic",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#854",
+    "Nome": "Sinistea",
+    "TamM": "0.1 m\n",
+    "PesoLb": "0.4 lbs.\n",
+    "PesoKg": "0.2 kg\n",
+    "Cor": " Purple\n",
+    "Tipos": [
+      "Ghost",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": null,
+    "Nome": "Polteageist",
+    "TamM": null,
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": null,
+    "Tipos": [
+      null,
+      null
+    ]
+  },
+  {
+    "Num": "#852",
+    "Nome": "Clobbopus",
+    "TamM": "0.6 m\n",
+    "PesoLb": "8.8 lbs.\n",
+    "PesoKg": "4.0 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Fighting",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#853",
+    "Nome": "Grapploct",
+    "TamM": "1.6 m\n",
+    "PesoLb": "86.0 lbs.\n",
+    "PesoKg": "39.0 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Fighting",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#850",
+    "Nome": "Sizzlipede",
+    "TamM": "0.7 m\n",
+    "PesoLb": "2.2 lbs.\n",
+    "PesoKg": "1.0 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Fire",
+      "Bug"
+    ]
+  },
+  {
+    "Num": "#851",
+    "Nome": "Centiskorch",
+    "TamM": "3.0 m\n",
+    "PesoLb": "264.6 lbs.\n",
+    "PesoKg": "120.0 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Fire",
+      "Bug"
+    ]
+  },
+  {
+    "Num": "#849",
+    "Nome": "Toxtricity",
+    "TamM": "1.6 m\n",
+    "PesoLb": "88.2 lbs.\n",
+    "PesoKg": "40.0 kg\n",
+    "Cor": " Purple\n",
+    "Tipos": [
+      "Electric",
+      "Poison"
+    ]
+  },
+  {
+    "Num": "#848",
+    "Nome": "Toxel",
+    "TamM": "0.4 m\n",
+    "PesoLb": "24.3 lbs.\n",
+    "PesoKg": "11.0 kg\n",
+    "Cor": " Purple\n",
+    "Tipos": [
+      "Electric",
+      "Poison"
+    ]
+  },
+  {
+    "Num": "#847",
+    "Nome": "Barraskewda",
+    "TamM": "1.3 m\n",
+    "PesoLb": "66.1 lbs.\n",
+    "PesoKg": "30.0 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Water",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#846",
+    "Nome": "Arrokuda",
+    "TamM": "0.5 m\n",
+    "PesoLb": "2.2 lbs.\n",
+    "PesoKg": "1.0 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Water",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#845",
+    "Nome": "Cramorant",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Flying",
+      "Water"
+    ]
+  },
+  {
+    "Num": "#844",
+    "Nome": "Sandaconda",
+    "TamM": "3.8 m\n",
+    "PesoLb": "144.4 lbs.\n",
+    "PesoKg": "65.5 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Ground",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#841",
+    "Nome": "Flapple",
+    "TamM": "0.3 m\n",
+    "PesoLb": "2.2 lbs.\n",
+    "PesoKg": "1.0 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Grass",
+      "Dragon"
+    ]
+  },
+  {
+    "Num": "#843",
+    "Nome": "Silicobra",
+    "TamM": "2.2 m\n",
+    "PesoLb": "16.8 lbs.\n",
+    "PesoKg": "7.6 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Ground",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#840",
+    "Nome": "Applin",
+    "TamM": "0.2 m\n",
+    "PesoLb": "1.1 lbs.\n",
+    "PesoKg": "0.5 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Grass",
+      "Dragon"
+    ]
+  },
+  {
+    "Num": "#839",
+    "Nome": "Coalossal",
+    "TamM": "2.8 m\n",
+    "PesoLb": "684.5 lbs.\n",
+    "PesoKg": "310.5 kg\n",
+    "Cor": " Black\n",
+    "Tipos": [
+      "Rock",
+      "Fire"
+    ]
+  },
+  {
+    "Num": "#842",
+    "Nome": "Appletun",
+    "TamM": "0.4 m\n",
+    "PesoLb": "28.7 lbs.\n",
+    "PesoKg": "13.0 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Grass",
+      "Dragon"
+    ]
+  },
+  {
+    "Num": "#838",
+    "Nome": "Carkol",
+    "TamM": "1.1 m\n",
+    "PesoLb": "172.0 lbs.\n",
+    "PesoKg": "78.0 kg\n",
+    "Cor": " Black\n",
+    "Tipos": [
+      "Rock",
+      "Fire"
+    ]
+  },
+  {
+    "Num": "#837",
+    "Nome": "Rolycoly",
+    "TamM": "0.3 m\n",
+    "PesoLb": "26.5 lbs.\n",
+    "PesoKg": "12.0 kg\n",
+    "Cor": " Black\n",
+    "Tipos": [
+      "Rock",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#836",
+    "Nome": "Boltund",
+    "TamM": "1.0 m\n",
+    "PesoLb": "75.0 lbs.\n",
+    "PesoKg": "34.0 kg\n",
+    "Cor": " Yellow\n",
+    "Tipos": [
+      "Electric",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#835",
+    "Nome": "Yamper",
+    "TamM": "0.3 m\n",
+    "PesoLb": "29.8 lbs.\n",
+    "PesoKg": "13.5 kg\n",
+    "Cor": " Yellow\n",
+    "Tipos": [
+      "Electric",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#831",
+    "Nome": "Wooloo",
+    "TamM": "0.6 m\n",
+    "PesoLb": "13.2 lbs.\n",
+    "PesoKg": "6.0 kg\n",
+    "Cor": " White\n",
+    "Tipos": [
+      "Normal",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#834",
+    "Nome": "Drednaw",
+    "TamM": "1.0 m\n",
+    "PesoLb": "254.6 lbs.\n",
+    "PesoKg": "115.5 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Water",
+      "Rock"
+    ]
+  },
+  {
+    "Num": "#832",
+    "Nome": "Dubwool",
+    "TamM": "1.3 m\n",
+    "PesoLb": "94.8 lbs.\n",
+    "PesoKg": "43.0 kg\n",
+    "Cor": " White\n",
+    "Tipos": [
+      "Normal",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#830",
+    "Nome": "Eldegoss",
+    "TamM": "0.5 m\n",
+    "PesoLb": "5.5 lbs.\n",
+    "PesoKg": "2.5 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Grass",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#828",
+    "Nome": "Thievul",
+    "TamM": "1.2 m\n",
+    "PesoLb": "43.9 lbs.\n",
+    "PesoKg": "19.9 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Dark",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#833",
+    "Nome": "Chewtle",
+    "TamM": "0.3 m\n",
+    "PesoLb": "18.7 lbs.\n",
+    "PesoKg": "8.5 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Water",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#829",
+    "Nome": "Gossifleur",
+    "TamM": "0.4 m\n",
+    "PesoLb": "4.9 lbs.\n",
+    "PesoKg": "2.2 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Grass",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#827",
+    "Nome": "Nickit",
+    "TamM": "0.6 m\n",
+    "PesoLb": "19.6 lbs.\n",
+    "PesoKg": "8.9 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Dark",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#826",
+    "Nome": "Orbeetle",
+    "TamM": "0.4 m\n",
+    "PesoLb": "89.9 lbs.\n",
+    "PesoKg": "40.8 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Bug",
+      "Psychic"
+    ]
+  },
+  {
+    "Num": "#824",
+    "Nome": "Blipbug",
+    "TamM": "0.4 m\n",
+    "PesoLb": "17.6 lbs.\n",
+    "PesoKg": "8.0 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Bug",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#825",
+    "Nome": "Dottler",
+    "TamM": "0.4 m\n",
+    "PesoLb": "43.0 lbs.\n",
+    "PesoKg": "19.5 kg\n",
+    "Cor": " Yellow\n",
+    "Tipos": [
+      "Bug",
+      "Psychic"
+    ]
+  },
+  {
+    "Num": "#822",
+    "Nome": "Corvisquire",
+    "TamM": "0.8 m\n",
+    "PesoLb": "35.3 lbs.\n",
+    "PesoKg": "16.0 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Flying",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#823",
+    "Nome": "Corviknight",
+    "TamM": "2.2 m\n",
+    "PesoLb": "165.3 lbs.\n",
+    "PesoKg": "75.0 kg\n",
+    "Cor": " Purple\n",
+    "Tipos": [
+      "Flying",
+      "Steel"
+    ]
+  },
+  {
+    "Num": "#819",
+    "Nome": "Skwovet",
+    "TamM": "0.3 m\n",
+    "PesoLb": "5.5 lbs.\n",
+    "PesoKg": "2.5 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Normal",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#821",
+    "Nome": "Rookidee",
+    "TamM": "0.2 m\n",
+    "PesoLb": "4.0 lbs.\n",
+    "PesoKg": "1.8 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Flying",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#816",
+    "Nome": "Sobble",
+    "TamM": "0.3 m\n",
+    "PesoLb": "8.8 lbs.\n",
+    "PesoKg": "4.0 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Water",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#815",
+    "Nome": "Cinderace",
+    "TamM": "1.4 m\n",
+    "PesoLb": "72.8 lbs.\n",
+    "PesoKg": "33.0 kg\n",
+    "Cor": " White\n",
+    "Tipos": [
+      "Fire",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#817",
+    "Nome": "Drizzile",
+    "TamM": "0.7 m\n",
+    "PesoLb": "25.4 lbs.\n",
+    "PesoKg": "11.5 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Water",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#820",
+    "Nome": "Greedent",
+    "TamM": "0.6 m\n",
+    "PesoLb": "13.2 lbs.\n",
+    "PesoKg": "6.0 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Normal",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#814",
+    "Nome": "Raboot",
+    "TamM": "0.6 m\n",
+    "PesoLb": "19.8 lbs.\n",
+    "PesoKg": "9.0 kg\n",
+    "Cor": " Gray\n",
+    "Tipos": [
+      "Fire",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#818",
+    "Nome": "Inteleon",
+    "TamM": "1.9 m\n",
+    "PesoLb": "99.6 lbs.\n",
+    "PesoKg": "45.2 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Water",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#806",
+    "Nome": "Blacephalon",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Fire",
+      "Ghost"
+    ]
+  },
+  {
+    "Num": "#812",
+    "Nome": "Rillaboom",
+    "TamM": "2.1 m\n",
+    "PesoLb": "198.4 lbs.\n",
+    "PesoKg": "90.0 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Grass",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#813",
+    "Nome": "Scorbunny",
+    "TamM": "0.3 m\n",
+    "PesoLb": "9.9 lbs.\n",
+    "PesoKg": "4.5 kg\n",
+    "Cor": " White\n",
+    "Tipos": [
+      "Fire",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#811",
+    "Nome": "Thwackey",
+    "TamM": "0.7 m\n",
+    "PesoLb": "30.9 lbs.\n",
+    "PesoKg": "14.0 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Grass",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#810",
+    "Nome": "Grookey",
+    "TamM": "0.3 m\n",
+    "PesoLb": "11.0 lbs.\n",
+    "PesoKg": "5.0 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Grass",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#809",
+    "Nome": "Melmetal",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Steel",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#808",
+    "Nome": "Meltan",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Steel",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#807",
+    "Nome": "Zeraora",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Electric",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#804",
+    "Nome": "Naganadel",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Poison",
+      "Dragon"
+    ]
+  },
+  {
+    "Num": "#805",
+    "Nome": "Stakataka",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Rock",
+      "Steel"
+    ]
+  },
+  {
+    "Num": "#803",
+    "Nome": "Poipole",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Poison",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#802",
+    "Nome": "Marshadow",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Fighting",
+      "Ghost"
+    ]
+  },
+  {
+    "Num": "#801",
+    "Nome": "Magearna",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Steel",
+      "Fairy"
+    ]
+  },
+  {
+    "Num": "#800",
+    "Nome": "Necrozma",
+    "TamM": "2.4 m\n",
+    "PesoLb": "507.1 lbs.\n",
+    "PesoKg": "230.0 kg\n",
+    "Cor": " Black",
+    "Tipos": [
+      "Psychic",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#799",
+    "Nome": "Guzzlord",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Dark",
+      "Dragon"
+    ]
+  },
+  {
+    "Num": null,
+    "Nome": "Kartana",
+    "TamM": null,
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": null,
+    "Tipos": [
+      null,
+      null
+    ]
+  },
+  {
+    "Num": "#796",
+    "Nome": "Xurkitree",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Electric",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#797",
+    "Nome": "Celesteela",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Steel",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#795",
+    "Nome": "Pheromosa",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Bug",
+      "Fighting"
+    ]
+  },
+  {
+    "Num": "#794",
+    "Nome": "Buzzwole",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Bug",
+      "Fighting"
+    ]
+  },
+  {
+    "Num": "#792",
+    "Nome": "Lunala",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Psychic",
+      "Ghost"
+    ]
+  },
+  {
+    "Num": "#793",
+    "Nome": "Nihilego",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Rock",
+      "Poison"
+    ]
+  },
+  {
+    "Num": "#791",
+    "Nome": "Solgaleo",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Psychic",
+      "Steel"
+    ]
+  },
+  {
+    "Num": "#790",
+    "Nome": "Cosmoem",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Psychic",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#789",
+    "Nome": "Cosmog",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Psychic",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#787",
+    "Nome": "Tapu Bulu",
+    "TamM": "1.9 m\n",
+    "PesoLb": "100.3 lbs.\n",
+    "PesoKg": "45.5 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Grass",
+      "Fairy"
+    ]
+  },
+  {
+    "Num": "#788",
+    "Nome": "Tapu Fini",
+    "TamM": "1.3 m\n",
+    "PesoLb": "46.7 lbs.\n",
+    "PesoKg": "21.2 kg\n",
+    "Cor": " Purple\n",
+    "Tipos": [
+      "Water",
+      "Fairy"
+    ]
+  },
+  {
+    "Num": "#786",
+    "Nome": "Tapu Lele",
+    "TamM": "1.2 m\n",
+    "PesoLb": "41.0 lbs.\n",
+    "PesoKg": "18.6 kg\n",
+    "Cor": " Pink\n",
+    "Tipos": [
+      "Psychic",
+      "Fairy"
+    ]
+  },
+  {
+    "Num": "#785",
+    "Nome": "Tapu Koko",
+    "TamM": "1.8 m\n",
+    "PesoLb": "45.2 lbs.\n",
+    "PesoKg": "20.5 kg\n",
+    "Cor": " Yellow\n",
+    "Tipos": [
+      "Electric",
+      "Fairy"
+    ]
+  },
+  {
+    "Num": "#784",
+    "Nome": "Kommo-o",
+    "TamM": "1.6 m\n",
+    "PesoLb": "172.4 lbs.\n",
+    "PesoKg": "78.2 kg\n",
+    "Cor": " Gray\n",
+    "Tipos": [
+      "Dragon",
+      "Fighting"
+    ]
+  },
+  {
+    "Num": "#783",
+    "Nome": "Hakamo-o",
+    "TamM": "1.2 m\n",
+    "PesoLb": "103.6 lbs.\n",
+    "PesoKg": "47.0 kg\n",
+    "Cor": " Gray\n",
+    "Tipos": [
+      "Dragon",
+      "Fighting"
+    ]
+  },
+  {
+    "Num": "#782",
+    "Nome": "Jangmo-o",
+    "TamM": "0.6 m\n",
+    "PesoLb": "65.5 lbs.\n",
+    "PesoKg": "29.7 kg\n",
+    "Cor": " Gray\n",
+    "Tipos": [
+      "Dragon",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#781",
+    "Nome": "Dhelmise",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Ghost",
+      "Grass"
+    ]
+  },
+  {
+    "Num": "#780",
+    "Nome": "Drampa",
+    "TamM": "3.0 m\n",
+    "PesoLb": "407.9 lbs.\n",
+    "PesoKg": "185.0 kg\n",
+    "Cor": " White\n",
+    "Tipos": [
+      "Normal",
+      "Dragon"
+    ]
+  },
+  {
+    "Num": "#779",
+    "Nome": "Bruxish",
+    "TamM": "0.9 m\n",
+    "PesoLb": "41.9 lbs.\n",
+    "PesoKg": "19.0 kg\n",
+    "Cor": " Pink\n",
+    "Tipos": [
+      "Water",
+      "Psychic"
+    ]
+  },
+  {
+    "Num": "#778",
+    "Nome": "Mimikyu",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Ghost",
+      "Fairy"
+    ]
+  },
+  {
+    "Num": "#776",
+    "Nome": "Turtonator",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Fire",
+      "Dragon"
+    ]
+  },
+  {
+    "Num": "#777",
+    "Nome": "Togedemaru",
+    "TamM": "0.3 m\n",
+    "PesoLb": "7.3 lbs.\n",
+    "PesoKg": "3.3 kg\n",
+    "Cor": " Gray\n",
+    "Tipos": [
+      "Electric",
+      "Steel"
+    ]
+  },
+  {
+    "Num": "#775",
+    "Nome": "Komala",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Normal",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#774",
+    "Nome": "Minior",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Rock",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#773",
+    "Nome": "Silvally",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Normal",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#772",
+    "Nome": "Type: Null",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Normal",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#771",
+    "Nome": "Pyukumuku",
+    "TamM": "0.3 m\n",
+    "PesoLb": "2.6 lbs.\n",
+    "PesoKg": "1.2 kg\n",
+    "Cor": " Black\n",
+    "Tipos": [
+      "Water",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#770",
+    "Nome": "Palossand",
+    "TamM": "1.3 m\n",
+    "PesoLb": "551.2 lbs.\n",
+    "PesoKg": "250.0 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Ghost",
+      "Ground"
+    ]
+  },
+  {
+    "Num": "#769",
+    "Nome": "Sandygast",
+    "TamM": "0.5 m\n",
+    "PesoLb": "154.3 lbs.\n",
+    "PesoKg": "70.0 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Ghost",
+      "Ground"
+    ]
+  },
+  {
+    "Num": "#768",
+    "Nome": "Golisopod",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Bug",
+      "Water"
+    ]
+  },
+  {
+    "Num": "#767",
+    "Nome": "Wimpod",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Bug",
+      "Water"
+    ]
+  },
+  {
+    "Num": "#766",
+    "Nome": "Passimian",
+    "TamM": "2.0 m\n",
+    "PesoLb": "182.5 lbs.\n",
+    "PesoKg": "82.8 kg\n",
+    "Cor": " White\n",
+    "Tipos": [
+      "Fighting",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#765",
+    "Nome": "Oranguru",
+    "TamM": "1.5 m\n",
+    "PesoLb": "167.6 lbs.\n",
+    "PesoKg": "76.0 kg\n",
+    "Cor": " White\n",
+    "Tipos": [
+      "Normal",
+      "Psychic"
+    ]
+  },
+  {
+    "Num": "#763",
+    "Nome": "Tsareena",
+    "TamM": "1.2 m\n",
+    "PesoLb": "47.2 lbs.\n",
+    "PesoKg": "21.4 kg\n",
+    "Cor": " Purple\n",
+    "Tipos": [
+      "Grass",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#764",
+    "Nome": "Comfey",
+    "TamM": "0.1 m\n",
+    "PesoLb": "0.7 lbs.\n",
+    "PesoKg": "0.3 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Fairy",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#762",
+    "Nome": "Steenee",
+    "TamM": "0.7 m\n",
+    "PesoLb": "18.1 lbs.\n",
+    "PesoKg": "8.2 kg\n",
+    "Cor": " Purple\n",
+    "Tipos": [
+      "Grass",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#761",
+    "Nome": "Bounsweet",
+    "TamM": "0.3 m\n",
+    "PesoLb": "7.1 lbs.\n",
+    "PesoKg": "3.2 kg\n",
+    "Cor": " Purple\n",
+    "Tipos": [
+      "Grass",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#760",
+    "Nome": "Bewear",
+    "TamM": "2.1 m\n",
+    "PesoLb": "297.6 lbs.\n",
+    "PesoKg": "135.0 kg\n",
+    "Cor": " Pink\n",
+    "Tipos": [
+      "Normal",
+      "Fighting"
+    ]
+  },
+  {
+    "Num": "#759",
+    "Nome": "Stufful",
+    "TamM": "0.5 m\n",
+    "PesoLb": "15.0 lbs.\n",
+    "PesoKg": "6.8 kg\n",
+    "Cor": " Pink\n",
+    "Tipos": [
+      "Normal",
+      "Fighting"
+    ]
+  },
+  {
+    "Num": "#758",
+    "Nome": "Salazzle",
+    "TamM": "1.2 m\n",
+    "PesoLb": "48.9 lbs.\n",
+    "PesoKg": "22.2 kg\n",
+    "Cor": " Black\n",
+    "Tipos": [
+      "Poison",
+      "Fire"
+    ]
+  },
+  {
+    "Num": "#756",
+    "Nome": "Shiinotic",
+    "TamM": "1.0 m\n",
+    "PesoLb": "25.4 lbs.\n",
+    "PesoKg": "11.5 kg\n",
+    "Cor": " Purple\n",
+    "Tipos": [
+      "Grass",
+      "Fairy"
+    ]
+  },
+  {
+    "Num": "#757",
+    "Nome": "Salandit",
+    "TamM": "0.6 m\n",
+    "PesoLb": "10.6 lbs.\n",
+    "PesoKg": "4.8 kg\n",
+    "Cor": " Black\n",
+    "Tipos": [
+      "Poison",
+      "Fire"
+    ]
+  },
+  {
+    "Num": "#755",
+    "Nome": "Morelull",
+    "TamM": "0.2 m\n",
+    "PesoLb": "3.3 lbs.\n",
+    "PesoKg": "1.5 kg\n",
+    "Cor": " Purple\n",
+    "Tipos": [
+      "Grass",
+      "Fairy"
+    ]
+  },
+  {
+    "Num": "#754",
+    "Nome": "Lurantis",
+    "TamM": "0.9 m\n",
+    "PesoLb": "40.8 lbs.\n",
+    "PesoKg": "18.5 kg\n",
+    "Cor": " Pink\n",
+    "Tipos": [
+      "Grass",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#752",
+    "Nome": "Araquanid",
+    "TamM": "1.8 m\n",
+    "PesoLb": "180.8 lbs.\n",
+    "PesoKg": "82.0 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Water",
+      "Bug"
+    ]
+  },
+  {
+    "Num": "#751",
+    "Nome": "Dewpider",
+    "TamM": "0.3 m\n",
+    "PesoLb": "8.8 lbs.\n",
+    "PesoKg": "4.0 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Water",
+      "Bug"
+    ]
+  },
+  {
+    "Num": "#753",
+    "Nome": "Fomantis",
+    "TamM": "0.3 m\n",
+    "PesoLb": "3.3 lbs.\n",
+    "PesoKg": "1.5 kg\n",
+    "Cor": " Pink\n",
+    "Tipos": [
+      "Grass",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#750",
+    "Nome": "Mudsdale",
+    "TamM": "2.5 m\n",
+    "PesoLb": "2028.3 lbs.\n",
+    "PesoKg": "920.0 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Ground",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#747",
+    "Nome": "Mareanie",
+    "TamM": "0.4 m\n",
+    "PesoLb": "17.6 lbs.\n",
+    "PesoKg": "8.0 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Poison",
+      "Water"
+    ]
+  },
+  {
+    "Num": "#748",
+    "Nome": "Toxapex",
+    "TamM": "0.7 m\n",
+    "PesoLb": "32.0 lbs.\n",
+    "PesoKg": "14.5 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Poison",
+      "Water"
+    ]
+  },
+  {
+    "Num": "#749",
+    "Nome": "Mudbray",
+    "TamM": "1.0 m\n",
+    "PesoLb": "242.5 lbs.\n",
+    "PesoKg": "110.0 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Ground",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#745",
+    "Nome": "Lycanroc",
+    "TamM": "0.8 m\n",
+    "PesoLb": "55.1 lbs.\n",
+    "PesoKg": "25.0 kg\n",
+    "Cor": " Brown",
+    "Tipos": [
+      "Rock",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#746",
+    "Nome": "Wishiwashi",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Water",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#744",
+    "Nome": "Rockruff",
+    "TamM": "0.5 m\n",
+    "PesoLb": "20.3 lbs.\n",
+    "PesoKg": "9.2 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Rock",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#743",
+    "Nome": "Ribombee",
+    "TamM": "0.2 m\n",
+    "PesoLb": "1.1 lbs.\n",
+    "PesoKg": "0.5 kg\n",
+    "Cor": " Yellow\n",
+    "Tipos": [
+      "Bug",
+      "Fairy"
+    ]
+  },
+  {
+    "Num": "#742",
+    "Nome": "Cutiefly",
+    "TamM": "0.1 m\n",
+    "PesoLb": "0.4 lbs.\n",
+    "PesoKg": "0.2 kg\n",
+    "Cor": " Yellow\n",
+    "Tipos": [
+      "Bug",
+      "Fairy"
+    ]
+  },
+  {
+    "Num": "#740",
+    "Nome": "Crabominable",
+    "TamM": "1.7 m\n",
+    "PesoLb": "396.8 lbs.\n",
+    "PesoKg": "180.0 kg\n",
+    "Cor": " White\n",
+    "Tipos": [
+      "Fighting",
+      "Ice"
+    ]
+  },
+  {
+    "Num": "#739",
+    "Nome": "Crabrawler",
+    "TamM": "0.6 m\n",
+    "PesoLb": "15.4 lbs.\n",
+    "PesoKg": "7.0 kg\n",
+    "Cor": " Purple\n",
+    "Tipos": [
+      "Fighting",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#741",
+    "Nome": "Oricorio",
+    "TamM": "0.6 m\n",
+    "PesoLb": "7.5 lbs.\n",
+    "PesoKg": "3.4 kg\n",
+    "Cor": " Red",
+    "Tipos": [
+      "Fire",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#738",
+    "Nome": "Vikavolt",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Bug",
+      "Electric"
+    ]
+  },
+  {
+    "Num": "#737",
+    "Nome": "Charjabug",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Bug",
+      "Electric"
+    ]
+  },
+  {
+    "Num": "#735",
+    "Nome": "Gumshoos",
+    "TamM": "0.7 m\n",
+    "PesoLb": "31.3 lbs.\n",
+    "PesoKg": "14.2 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Normal",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#734",
+    "Nome": "Yungoos",
+    "TamM": "0.4 m\n",
+    "PesoLb": "13.2 lbs.\n",
+    "PesoKg": "6.0 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Normal",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#736",
+    "Nome": "Grubbin",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Bug",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#733",
+    "Nome": "Toucannon",
+    "TamM": "1.1 m\n",
+    "PesoLb": "57.3 lbs.\n",
+    "PesoKg": "26.0 kg\n",
+    "Cor": " Black\n",
+    "Tipos": [
+      "Normal",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#732",
+    "Nome": "Trumbeak",
+    "TamM": "0.6 m\n",
+    "PesoLb": "32.6 lbs.\n",
+    "PesoKg": "14.8 kg\n",
+    "Cor": " Black\n",
+    "Tipos": [
+      "Normal",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#731",
+    "Nome": "Pikipek",
+    "TamM": "0.3 m\n",
+    "PesoLb": "2.6 lbs.\n",
+    "PesoKg": "1.2 kg\n",
+    "Cor": " Black\n",
+    "Tipos": [
+      "Normal",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#730",
+    "Nome": "Primarina",
+    "TamM": "1.8 m\n",
+    "PesoLb": "97.0 lbs.\n",
+    "PesoKg": "44.0 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Water",
+      "Fairy"
+    ]
+  },
+  {
+    "Num": "#729",
+    "Nome": "Brionne",
+    "TamM": "0.6 m\n",
+    "PesoLb": "38.6 lbs.\n",
+    "PesoKg": "17.5 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Water",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#728",
+    "Nome": "Popplio",
+    "TamM": "0.4 m\n",
+    "PesoLb": "16.5 lbs.\n",
+    "PesoKg": "7.5 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Water",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#726",
+    "Nome": "Torracat",
+    "TamM": "0.7 m\n",
+    "PesoLb": "55.1 lbs.\n",
+    "PesoKg": "25.0 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Fire",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#727",
+    "Nome": "Incineroar",
+    "TamM": "1.8 m\n",
+    "PesoLb": "183.0 lbs.\n",
+    "PesoKg": "83.0 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Fire",
+      "Dark"
+    ]
+  },
+  {
+    "Num": "#725",
+    "Nome": "Litten",
+    "TamM": "0.4 m\n",
+    "PesoLb": "9.5 lbs.\n",
+    "PesoKg": "4.3 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Fire",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#724",
+    "Nome": "Decidueye",
+    "TamM": "1.6 m\n",
+    "PesoLb": "80.7 lbs.\n",
+    "PesoKg": "36.6 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Grass",
+      "Ghost"
+    ]
+  },
+  {
+    "Num": "#723",
+    "Nome": "Dartrix",
+    "TamM": "0.7 m\n",
+    "PesoLb": "35.3 lbs.\n",
+    "PesoKg": "16.0 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Grass",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#722",
+    "Nome": "Rowlet",
+    "TamM": "0.3 m\n",
+    "PesoLb": "3.3 lbs.\n",
+    "PesoKg": "1.5 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Grass",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#721",
+    "Nome": "Volcanion",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Fire",
+      "Water"
+    ]
+  },
+  {
+    "Num": "#720",
+    "Nome": "Hoopa",
+    "TamM": "0.5 m\n",
+    "PesoLb": "19.8 lbs.\n",
+    "PesoKg": "9.0 kg\n",
+    "Cor": " Purple\n",
+    "Tipos": [
+      "Psychic",
+      "Ghost"
+    ]
+  },
+  {
+    "Num": "#719",
+    "Nome": "Diancie",
+    "TamM": "0.7 m\n",
+    "PesoLb": "19.4 lbs.\n",
+    "PesoKg": "8.8 kg\n",
+    "Cor": " Pink\n",
+    "Tipos": [
+      "Rock",
+      "Fairy"
+    ]
+  },
+  {
+    "Num": "#718",
+    "Nome": "Zygarde",
+    "TamM": "5.0 m\n",
+    "PesoLb": "672.4 lbs.\n",
+    "PesoKg": "305.0 kg\n",
+    "Cor": " Green",
+    "Tipos": [
+      "Dragon",
+      "Ground"
+    ]
+  },
+  {
+    "Num": "#717",
+    "Nome": "Yveltal",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Dark",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#714",
+    "Nome": "Noibat",
+    "TamM": "0.5 m\n",
+    "PesoLb": "17.6 lbs.\n",
+    "PesoKg": "8.0 kg\n",
+    "Cor": " Purple\n",
+    "Tipos": [
+      "Flying",
+      "Dragon"
+    ]
+  },
+  {
+    "Num": "#712",
+    "Nome": "Bergmite",
+    "TamM": "1.0 m\n",
+    "PesoLb": "219.4 lbs.\n",
+    "PesoKg": "99.5 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Ice",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#713",
+    "Nome": "Avalugg",
+    "TamM": "2.0 m\n",
+    "PesoLb": "1113.3 lbs.\n",
+    "PesoKg": "505.0 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Ice",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#710",
+    "Nome": "Pumpkaboo",
+    "TamM": "0.3 m\n",
+    "PesoLb": "7.7 lbs.\n",
+    "PesoKg": "3.5 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Ghost",
+      "Grass"
+    ]
+  },
+  {
+    "Num": "#715",
+    "Nome": "Noivern",
+    "TamM": "1.5 m\n",
+    "PesoLb": "187.4 lbs.\n",
+    "PesoKg": "85.0 kg\n",
+    "Cor": " Purple\n",
+    "Tipos": [
+      "Flying",
+      "Dragon"
+    ]
+  },
+  {
+    "Num": "#716",
+    "Nome": "Xerneas",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Fairy",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#711",
+    "Nome": "Gourgeist",
+    "TamM": "0.7 m\n",
+    "PesoLb": "20.9 lbs.\n",
+    "PesoKg": "9.5 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Ghost",
+      "Grass"
+    ]
+  },
+  {
+    "Num": "#708",
+    "Nome": "Phantump",
+    "TamM": "0.4 m\n",
+    "PesoLb": "15.4 lbs.\n",
+    "PesoKg": "7.0 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Ghost",
+      "Grass"
+    ]
+  },
+  {
+    "Num": "#709",
+    "Nome": "Trevenant",
+    "TamM": "1.5 m\n",
+    "PesoLb": "156.5 lbs.\n",
+    "PesoKg": "71.0 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Ghost",
+      "Grass"
+    ]
+  },
+  {
+    "Num": "#706",
+    "Nome": "Goodra",
+    "TamM": "2.0 m\n",
+    "PesoLb": "331.8 lbs.\n",
+    "PesoKg": "150.5 kg\n",
+    "Cor": " Purple\n",
+    "Tipos": [
+      "Dragon",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#707",
+    "Nome": "Klefki",
+    "TamM": "0.2 m\n",
+    "PesoLb": "6.6 lbs.\n",
+    "PesoKg": "3.0 kg\n",
+    "Cor": " Gray\n",
+    "Tipos": [
+      "Steel",
+      "Fairy"
+    ]
+  },
+  {
+    "Num": "#705",
+    "Nome": "Sliggoo",
+    "TamM": "0.8 m\n",
+    "PesoLb": "38.6 lbs.\n",
+    "PesoKg": "17.5 kg\n",
+    "Cor": " Purple\n",
+    "Tipos": [
+      "Dragon",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#704",
+    "Nome": "Goomy",
+    "TamM": "0.3 m\n",
+    "PesoLb": "6.2 lbs.\n",
+    "PesoKg": "2.8 kg\n",
+    "Cor": " Purple\n",
+    "Tipos": [
+      "Dragon",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#702",
+    "Nome": "Dedenne",
+    "TamM": "0.2 m\n",
+    "PesoLb": "4.9 lbs.\n",
+    "PesoKg": "2.2 kg\n",
+    "Cor": " Yellow\n",
+    "Tipos": [
+      "Electric",
+      "Fairy"
+    ]
+  },
+  {
+    "Num": "#703",
+    "Nome": "Carbink",
+    "TamM": "0.3 m\n",
+    "PesoLb": "12.6 lbs.\n",
+    "PesoKg": "5.7 kg\n",
+    "Cor": " Gray\n",
+    "Tipos": [
+      "Rock",
+      "Fairy"
+    ]
+  },
+  {
+    "Num": "#700",
+    "Nome": "Sylveon",
+    "TamM": "1.0 m\n",
+    "PesoLb": "51.8 lbs.\n",
+    "PesoKg": "23.5 kg\n",
+    "Cor": " Pink\n",
+    "Tipos": [
+      "Fairy",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#701",
+    "Nome": "Hawlucha",
+    "TamM": "0.8 m\n",
+    "PesoLb": "47.4 lbs.\n",
+    "PesoKg": "21.5 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Fighting",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#698",
+    "Nome": "Amaura",
+    "TamM": "1.3 m\n",
+    "PesoLb": "55.6 lbs.\n",
+    "PesoKg": "25.2 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Rock",
+      "Ice"
+    ]
+  },
+  {
+    "Num": "#699",
+    "Nome": "Aurorus",
+    "TamM": "2.7 m\n",
+    "PesoLb": "496.0 lbs.\n",
+    "PesoKg": "225.0 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Rock",
+      "Ice"
+    ]
+  },
+  {
+    "Num": "#697",
+    "Nome": "Tyrantrum",
+    "TamM": "2.5 m\n",
+    "PesoLb": "595.2 lbs.\n",
+    "PesoKg": "270.0 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Rock",
+      "Dragon"
+    ]
+  },
+  {
+    "Num": "#695",
+    "Nome": "Heliolisk",
+    "TamM": "1.0 m\n",
+    "PesoLb": "46.3 lbs.\n",
+    "PesoKg": "21.0 kg\n",
+    "Cor": " Yellow\n",
+    "Tipos": [
+      "Electric",
+      "Normal"
+    ]
+  },
+  {
+    "Num": "#696",
+    "Nome": "Tyrunt",
+    "TamM": "0.8 m\n",
+    "PesoLb": "57.3 lbs.\n",
+    "PesoKg": "26.0 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Rock",
+      "Dragon"
+    ]
+  },
+  {
+    "Num": "#694",
+    "Nome": "Helioptile",
+    "TamM": "0.5 m\n",
+    "PesoLb": "13.2 lbs.\n",
+    "PesoKg": "6.0 kg\n",
+    "Cor": " Yellow\n",
+    "Tipos": [
+      "Electric",
+      "Normal"
+    ]
+  },
+  {
+    "Num": "#693",
+    "Nome": "Clawitzer",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Water",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#692",
+    "Nome": "Clauncher",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Water",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#691",
+    "Nome": "Dragalge",
+    "TamM": "1.8 m\n",
+    "PesoLb": "179.7 lbs.\n",
+    "PesoKg": "81.5 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Poison",
+      "Dragon"
+    ]
+  },
+  {
+    "Num": "#690",
+    "Nome": "Skrelp",
+    "TamM": "0.5 m\n",
+    "PesoLb": "16.1 lbs.\n",
+    "PesoKg": "7.3 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Poison",
+      "Water"
+    ]
+  },
+  {
+    "Num": "#689",
+    "Nome": "Barbaracle",
+    "TamM": "1.3 m\n",
+    "PesoLb": "211.6 lbs.\n",
+    "PesoKg": "96.0 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Rock",
+      "Water"
+    ]
+  },
+  {
+    "Num": "#688",
+    "Nome": "Binacle",
+    "TamM": "0.5 m\n",
+    "PesoLb": "68.3 lbs.\n",
+    "PesoKg": "31.0 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Rock",
+      "Water"
+    ]
+  },
+  {
+    "Num": "#687",
+    "Nome": "Malamar",
+    "TamM": "1.5 m\n",
+    "PesoLb": "103.6 lbs.\n",
+    "PesoKg": "47.0 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Dark",
+      "Psychic"
+    ]
+  },
+  {
+    "Num": "#686",
+    "Nome": "Inkay",
+    "TamM": "0.4 m\n",
+    "PesoLb": "7.7 lbs.\n",
+    "PesoKg": "3.5 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Dark",
+      "Psychic"
+    ]
+  },
+  {
+    "Num": "#685",
+    "Nome": "Slurpuff",
+    "TamM": "0.8 m\n",
+    "PesoLb": "11.0 lbs.\n",
+    "PesoKg": "5.0 kg\n",
+    "Cor": " White\n",
+    "Tipos": [
+      "Fairy",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#684",
+    "Nome": "Swirlix",
+    "TamM": "0.4 m\n",
+    "PesoLb": "7.7 lbs.\n",
+    "PesoKg": "3.5 kg\n",
+    "Cor": " White\n",
+    "Tipos": [
+      "Fairy",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#683",
+    "Nome": "Aromatisse",
+    "TamM": "0.8 m\n",
+    "PesoLb": "34.2 lbs.\n",
+    "PesoKg": "15.5 kg\n",
+    "Cor": " Pink\n",
+    "Tipos": [
+      "Fairy",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#682",
+    "Nome": "Spritzee",
+    "TamM": "0.2 m\n",
+    "PesoLb": "1.1 lbs.\n",
+    "PesoKg": "0.5 kg\n",
+    "Cor": " Pink\n",
+    "Tipos": [
+      "Fairy",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#681",
+    "Nome": "Aegislash",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Steel",
+      "Ghost"
+    ]
+  },
+  {
+    "Num": "#680",
+    "Nome": "Doublade",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Steel",
+      "Ghost"
+    ]
+  },
+  {
+    "Num": "#678",
+    "Nome": "Meowstic",
+    "TamM": "0.6 m\n",
+    "PesoLb": "18.7 lbs.\n",
+    "PesoKg": "8.5 kg\n",
+    "Cor": " Blue",
+    "Tipos": [
+      "Psychic",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#679",
+    "Nome": "Honedge",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Steel",
+      "Ghost"
+    ]
+  },
+  {
+    "Num": "#677",
+    "Nome": "Espurr",
+    "TamM": "0.3 m\n",
+    "PesoLb": "7.7 lbs.\n",
+    "PesoKg": "3.5 kg\n",
+    "Cor": " Gray\n",
+    "Tipos": [
+      "Psychic",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#675",
+    "Nome": "Pangoro",
+    "TamM": "2.1 m\n",
+    "PesoLb": "299.8 lbs.\n",
+    "PesoKg": "136.0 kg\n",
+    "Cor": " White\n",
+    "Tipos": [
+      "Fighting",
+      "Dark"
+    ]
+  },
+  {
+    "Num": "#676",
+    "Nome": "Furfrou",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Normal",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#674",
+    "Nome": "Pancham",
+    "TamM": "0.6 m\n",
+    "PesoLb": "17.6 lbs.\n",
+    "PesoKg": "8.0 kg\n",
+    "Cor": " White\n",
+    "Tipos": [
+      "Fighting",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#673",
+    "Nome": "Gogoat",
+    "TamM": "1.7 m\n",
+    "PesoLb": "200.6 lbs.\n",
+    "PesoKg": "91.0 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Grass",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#672",
+    "Nome": "Skiddo",
+    "TamM": "0.9 m\n",
+    "PesoLb": "68.3 lbs.\n",
+    "PesoKg": "31.0 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Grass",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#671",
+    "Nome": "Florges",
+    "TamM": "1.1 m\n",
+    "PesoLb": "22.0 lbs.\n",
+    "PesoKg": "10.0 kg\n",
+    "Cor": " White\n",
+    "Tipos": [
+      "Fairy",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#670",
+    "Nome": "Floette",
+    "TamM": "0.2 m\n",
+    "PesoLb": "2.0 lbs.\n",
+    "PesoKg": "0.9 kg\n",
+    "Cor": " White\n",
+    "Tipos": [
+      "Fairy",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#669",
+    "Nome": "Flab\u00e9b\u00e9",
+    "TamM": "0.1 m\n",
+    "PesoLb": "0.2 lbs.\n",
+    "PesoKg": "0.1 kg\n",
+    "Cor": " White\n",
+    "Tipos": [
+      "Fairy",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#668",
+    "Nome": "Pyroar",
+    "TamM": "1.5 m\n",
+    "PesoLb": "179.7 lbs.\n",
+    "PesoKg": "81.5 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Fire",
+      "Normal"
+    ]
+  },
+  {
+    "Num": "#667",
+    "Nome": "Litleo",
+    "TamM": "0.6 m\n",
+    "PesoLb": "29.8 lbs.\n",
+    "PesoKg": "13.5 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Fire",
+      "Normal"
+    ]
+  },
+  {
+    "Num": "#666",
+    "Nome": "Vivillon",
+    "TamM": "1.2 m\n",
+    "PesoLb": "37.5 lbs.\n",
+    "PesoKg": "17.0 kg\n",
+    "Cor": " White",
+    "Tipos": [
+      "Bug",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#665",
+    "Nome": "Spewpa",
+    "TamM": "0.3 m\n",
+    "PesoLb": "18.5 lbs.\n",
+    "PesoKg": "8.4 kg\n",
+    "Cor": " Black\n",
+    "Tipos": [
+      "Bug",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#664",
+    "Nome": "Scatterbug",
+    "TamM": "0.3 m\n",
+    "PesoLb": "5.5 lbs.\n",
+    "PesoKg": "2.5 kg\n",
+    "Cor": " Black\n",
+    "Tipos": [
+      "Bug",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#663",
+    "Nome": "Talonflame",
+    "TamM": "1.2 m\n",
+    "PesoLb": "54.0 lbs.\n",
+    "PesoKg": "24.5 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Fire",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#662",
+    "Nome": "Fletchinder",
+    "TamM": "0.7 m\n",
+    "PesoLb": "35.3 lbs.\n",
+    "PesoKg": "16.0 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Fire",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#661",
+    "Nome": "Fletchling",
+    "TamM": "0.3 m\n",
+    "PesoLb": "3.7 lbs.\n",
+    "PesoKg": "1.7 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Normal",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#660",
+    "Nome": "Diggersby",
+    "TamM": "1.0 m\n",
+    "PesoLb": "93.5 lbs.\n",
+    "PesoKg": "42.4 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Normal",
+      "Ground"
+    ]
+  },
+  {
+    "Num": "#659",
+    "Nome": "Bunnelby",
+    "TamM": "0.4 m\n",
+    "PesoLb": "11.0 lbs.\n",
+    "PesoKg": "5.0 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Normal",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#658",
+    "Nome": "Greninja",
+    "TamM": "1.5 m\n",
+    "PesoLb": "88.2 lbs.\n",
+    "PesoKg": "40.0 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Water",
+      "Dark"
+    ]
+  },
+  {
+    "Num": "#657",
+    "Nome": "Frogadier",
+    "TamM": "0.6 m\n",
+    "PesoLb": "24.0 lbs.\n",
+    "PesoKg": "10.9 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Water",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#656",
+    "Nome": "Froakie",
+    "TamM": "0.3 m\n",
+    "PesoLb": "15.4 lbs.\n",
+    "PesoKg": "7.0 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Water",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#655",
+    "Nome": "Delphox",
+    "TamM": "1.5 m\n",
+    "PesoLb": "86.0 lbs.\n",
+    "PesoKg": "39.0 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Fire",
+      "Psychic"
+    ]
+  },
+  {
+    "Num": "#654",
+    "Nome": "Braixen",
+    "TamM": "1.0 m\n",
+    "PesoLb": "32.0 lbs.\n",
+    "PesoKg": "14.5 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Fire",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#653",
+    "Nome": "Fennekin",
+    "TamM": "0.4 m\n",
+    "PesoLb": "20.7 lbs.\n",
+    "PesoKg": "9.4 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Fire",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#652",
+    "Nome": "Chesnaught",
+    "TamM": "1.6 m\n",
+    "PesoLb": "198.4 lbs.\n",
+    "PesoKg": "90.0 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Grass",
+      "Fighting"
+    ]
+  },
+  {
+    "Num": "#651",
+    "Nome": "Quilladin",
+    "TamM": "0.7 m\n",
+    "PesoLb": "63.9 lbs.\n",
+    "PesoKg": "29.0 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Grass",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#650",
+    "Nome": "Chespin",
+    "TamM": "0.4 m\n",
+    "PesoLb": "19.8 lbs.\n",
+    "PesoKg": "9.0 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Grass",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#649",
+    "Nome": "Genesect",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Bug",
+      "Steel"
+    ]
+  },
+  {
+    "Num": "#648",
+    "Nome": "Meloetta",
+    "TamM": "0.6 m\n",
+    "PesoLb": "14.3 lbs.\n",
+    "PesoKg": "6.5 kg\n",
+    "Cor": " White\n",
+    "Tipos": [
+      "Normal",
+      "Psychic"
+    ]
+  },
+  {
+    "Num": "#647",
+    "Nome": "Keldeo",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Water",
+      "Fighting"
+    ]
+  },
+  {
+    "Num": "#646",
+    "Nome": "Kyurem",
+    "TamM": "3.0 m\n",
+    "PesoLb": "716.5 lbs.\n",
+    "PesoKg": "325.0 kg\n",
+    "Cor": " Gray\n",
+    "Tipos": [
+      "Dragon",
+      "Ice"
+    ]
+  },
+  {
+    "Num": "#645",
+    "Nome": "Landorus",
+    "TamM": "1.5 m\n",
+    "PesoLb": "149.9 lbs.\n",
+    "PesoKg": "68.0 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Ground",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#644",
+    "Nome": "Zekrom",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Dragon",
+      "Electric"
+    ]
+  },
+  {
+    "Num": "#643",
+    "Nome": "Reshiram",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Dragon",
+      "Fire"
+    ]
+  },
+  {
+    "Num": "#642",
+    "Nome": "Thundurus",
+    "TamM": "1.5 m\n",
+    "PesoLb": "134.5 lbs.\n",
+    "PesoKg": "61.0 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Electric",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#641",
+    "Nome": "Tornadus",
+    "TamM": "1.5 m\n",
+    "PesoLb": "138.9 lbs.\n",
+    "PesoKg": "63.0 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Flying",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#639",
+    "Nome": "Terrakion",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Rock",
+      "Fighting"
+    ]
+  },
+  {
+    "Num": "#640",
+    "Nome": "Virizion",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Grass",
+      "Fighting"
+    ]
+  },
+  {
+    "Num": "#638",
+    "Nome": "Cobalion",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Steel",
+      "Fighting"
+    ]
+  },
+  {
+    "Num": "#637",
+    "Nome": "Volcarona",
+    "TamM": "1.6 m\n",
+    "PesoLb": "101.4 lbs.\n",
+    "PesoKg": "46.0 kg\n",
+    "Cor": " White\n",
+    "Tipos": [
+      "Bug",
+      "Fire"
+    ]
+  },
+  {
+    "Num": "#636",
+    "Nome": "Larvesta",
+    "TamM": "1.1 m\n",
+    "PesoLb": "63.5 lbs.\n",
+    "PesoKg": "28.8 kg\n",
+    "Cor": " White\n",
+    "Tipos": [
+      "Bug",
+      "Fire"
+    ]
+  },
+  {
+    "Num": "#635",
+    "Nome": "Hydreigon",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Dark",
+      "Dragon"
+    ]
+  },
+  {
+    "Num": "#634",
+    "Nome": "Zweilous",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Dark",
+      "Dragon"
+    ]
+  },
+  {
+    "Num": "#633",
+    "Nome": "Deino",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Dark",
+      "Dragon"
+    ]
+  },
+  {
+    "Num": "#632",
+    "Nome": "Durant",
+    "TamM": "0.3 m\n",
+    "PesoLb": "72.8 lbs.\n",
+    "PesoKg": "33.0 kg\n",
+    "Cor": " Gray\n",
+    "Tipos": [
+      "Bug",
+      "Steel"
+    ]
+  },
+  {
+    "Num": "#631",
+    "Nome": "Heatmor",
+    "TamM": "1.4 m\n",
+    "PesoLb": "127.9 lbs.\n",
+    "PesoKg": "58.0 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Fire",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#630",
+    "Nome": "Mandibuzz",
+    "TamM": "1.2 m\n",
+    "PesoLb": "87.1 lbs.\n",
+    "PesoKg": "39.5 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Dark",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#629",
+    "Nome": "Vullaby",
+    "TamM": "0.5 m\n",
+    "PesoLb": "19.8 lbs.\n",
+    "PesoKg": "9.0 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Dark",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#628",
+    "Nome": "Braviary",
+    "TamM": "1.5 m\n",
+    "PesoLb": "90.4 lbs.\n",
+    "PesoKg": "41.0 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Normal",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#627",
+    "Nome": "Rufflet",
+    "TamM": "0.5 m\n",
+    "PesoLb": "23.1 lbs.\n",
+    "PesoKg": "10.5 kg\n",
+    "Cor": " White\n",
+    "Tipos": [
+      "Normal",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#626",
+    "Nome": "Bouffalant",
+    "TamM": "1.6 m\n",
+    "PesoLb": "208.6 lbs.\n",
+    "PesoKg": "94.6 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Normal",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#625",
+    "Nome": "Bisharp",
+    "TamM": "1.6 m\n",
+    "PesoLb": "154.3 lbs.\n",
+    "PesoKg": "70.0 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Dark",
+      "Steel"
+    ]
+  },
+  {
+    "Num": "#624",
+    "Nome": "Pawniard",
+    "TamM": "0.5 m\n",
+    "PesoLb": "22.5 lbs.\n",
+    "PesoKg": "10.2 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Dark",
+      "Steel"
+    ]
+  },
+  {
+    "Num": "#623",
+    "Nome": "Golurk",
+    "TamM": "2.8 m\n",
+    "PesoLb": "727.5 lbs.\n",
+    "PesoKg": "330.0 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Ground",
+      "Ghost"
+    ]
+  },
+  {
+    "Num": "#622",
+    "Nome": "Golett",
+    "TamM": "1.0 m\n",
+    "PesoLb": "202.8 lbs.\n",
+    "PesoKg": "92.0 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Ground",
+      "Ghost"
+    ]
+  },
+  {
+    "Num": "#620",
+    "Nome": "Mienshao",
+    "TamM": "1.4 m\n",
+    "PesoLb": "78.3 lbs.\n",
+    "PesoKg": "35.5 kg\n",
+    "Cor": " Purple\n",
+    "Tipos": [
+      "Fighting",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#621",
+    "Nome": "Druddigon",
+    "TamM": "1.6 m\n",
+    "PesoLb": "306.4 lbs.\n",
+    "PesoKg": "139.0 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Dragon",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#618",
+    "Nome": "Stunfisk",
+    "TamM": "0.7 m\n",
+    "PesoLb": "24.3 lbs.\n",
+    "PesoKg": "11.0 kg\n",
+    "Cor": " Brown",
+    "Tipos": [
+      "Ground",
+      "Electric"
+    ]
+  },
+  {
+    "Num": "#619",
+    "Nome": "Mienfoo",
+    "TamM": "0.9 m\n",
+    "PesoLb": "44.1 lbs.\n",
+    "PesoKg": "20.0 kg\n",
+    "Cor": " Yellow\n",
+    "Tipos": [
+      "Fighting",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#617",
+    "Nome": "Accelgor",
+    "TamM": "0.8 m\n",
+    "PesoLb": "55.8 lbs.\n",
+    "PesoKg": "25.3 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Bug",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#616",
+    "Nome": "Shelmet",
+    "TamM": "0.4 m\n",
+    "PesoLb": "17.0 lbs.\n",
+    "PesoKg": "7.7 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Bug",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#615",
+    "Nome": "Cryogonal",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Ice",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#614",
+    "Nome": "Beartic",
+    "TamM": "2.6 m\n",
+    "PesoLb": "573.2 lbs.\n",
+    "PesoKg": "260.0 kg\n",
+    "Cor": " White\n",
+    "Tipos": [
+      "Ice",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#613",
+    "Nome": "Cubchoo",
+    "TamM": "0.5 m\n",
+    "PesoLb": "18.7 lbs.\n",
+    "PesoKg": "8.5 kg\n",
+    "Cor": " White\n",
+    "Tipos": [
+      "Ice",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#612",
+    "Nome": "Haxorus",
+    "TamM": "1.8 m\n",
+    "PesoLb": "232.6 lbs.\n",
+    "PesoKg": "105.5 kg\n",
+    "Cor": " Yellow\n",
+    "Tipos": [
+      "Dragon",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#610",
+    "Nome": "Axew",
+    "TamM": "0.6 m\n",
+    "PesoLb": "39.7 lbs.\n",
+    "PesoKg": "18.0 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Dragon",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#611",
+    "Nome": "Fraxure",
+    "TamM": "1.0 m\n",
+    "PesoLb": "79.4 lbs.\n",
+    "PesoKg": "36.0 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Dragon",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#609",
+    "Nome": "Chandelure",
+    "TamM": "1.0 m\n",
+    "PesoLb": "75.6 lbs.\n",
+    "PesoKg": "34.3 kg\n",
+    "Cor": " Black\n",
+    "Tipos": [
+      "Ghost",
+      "Fire"
+    ]
+  },
+  {
+    "Num": "#608",
+    "Nome": "Lampent",
+    "TamM": "0.6 m\n",
+    "PesoLb": "28.7 lbs.\n",
+    "PesoKg": "13.0 kg\n",
+    "Cor": " Black\n",
+    "Tipos": [
+      "Ghost",
+      "Fire"
+    ]
+  },
+  {
+    "Num": "#606",
+    "Nome": "Beheeyem",
+    "TamM": "1.0 m\n",
+    "PesoLb": "76.1 lbs.\n",
+    "PesoKg": "34.5 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Psychic",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#605",
+    "Nome": "Elgyem",
+    "TamM": "0.5 m\n",
+    "PesoLb": "19.8 lbs.\n",
+    "PesoKg": "9.0 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Psychic",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#607",
+    "Nome": "Litwick",
+    "TamM": "0.3 m\n",
+    "PesoLb": "6.8 lbs.\n",
+    "PesoKg": "3.1 kg\n",
+    "Cor": " White\n",
+    "Tipos": [
+      "Ghost",
+      "Fire"
+    ]
+  },
+  {
+    "Num": "#604",
+    "Nome": "Eelektross",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Electric",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#603",
+    "Nome": "Eelektrik",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Electric",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#602",
+    "Nome": "Tynamo",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Electric",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#601",
+    "Nome": "Klinklang",
+    "TamM": "0.6 m\n",
+    "PesoLb": "178.6 lbs.\n",
+    "PesoKg": "81.0 kg\n",
+    "Cor": " Gray\n",
+    "Tipos": [
+      "Steel",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#600",
+    "Nome": "Klang",
+    "TamM": "0.6 m\n",
+    "PesoLb": "112.4 lbs.\n",
+    "PesoKg": "51.0 kg\n",
+    "Cor": " Gray\n",
+    "Tipos": [
+      "Steel",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#599",
+    "Nome": "Klink",
+    "TamM": "0.3 m\n",
+    "PesoLb": "46.3 lbs.\n",
+    "PesoKg": "21.0 kg\n",
+    "Cor": " Gray\n",
+    "Tipos": [
+      "Steel",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#598",
+    "Nome": "Ferrothorn",
+    "TamM": "1.0 m\n",
+    "PesoLb": "242.5 lbs.\n",
+    "PesoKg": "110.0 kg\n",
+    "Cor": " Gray\n",
+    "Tipos": [
+      "Grass",
+      "Steel"
+    ]
+  },
+  {
+    "Num": "#596",
+    "Nome": "Galvantula",
+    "TamM": "0.8 m\n",
+    "PesoLb": "31.5 lbs.\n",
+    "PesoKg": "14.3 kg\n",
+    "Cor": " Yellow\n",
+    "Tipos": [
+      "Bug",
+      "Electric"
+    ]
+  },
+  {
+    "Num": "#597",
+    "Nome": "Ferroseed",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Grass",
+      "Steel"
+    ]
+  },
+  {
+    "Num": "#595",
+    "Nome": "Joltik",
+    "TamM": "0.1 m\n",
+    "PesoLb": "1.3 lbs.\n",
+    "PesoKg": "0.6 kg\n",
+    "Cor": " Yellow\n",
+    "Tipos": [
+      "Bug",
+      "Electric"
+    ]
+  },
+  {
+    "Num": "#594",
+    "Nome": "Alomomola",
+    "TamM": "1.2 m\n",
+    "PesoLb": "69.7 lbs.\n",
+    "PesoKg": "31.6 kg\n",
+    "Cor": " Pink\n",
+    "Tipos": [
+      "Water",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#593",
+    "Nome": "Jellicent",
+    "TamM": "2.2 m\n",
+    "PesoLb": "297.6 lbs.\n",
+    "PesoKg": "135.0 kg\n",
+    "Cor": " White\n",
+    "Tipos": [
+      "Water",
+      "Ghost"
+    ]
+  },
+  {
+    "Num": "#592",
+    "Nome": "Frillish",
+    "TamM": "1.2 m\n",
+    "PesoLb": "72.8 lbs.\n",
+    "PesoKg": "33.0 kg\n",
+    "Cor": " White\n",
+    "Tipos": [
+      "Water",
+      "Ghost"
+    ]
+  },
+  {
+    "Num": "#591",
+    "Nome": "Amoonguss",
+    "TamM": "0.6 m\n",
+    "PesoLb": "23.1 lbs.\n",
+    "PesoKg": "10.5 kg\n",
+    "Cor": " White\n",
+    "Tipos": [
+      "Grass",
+      "Poison"
+    ]
+  },
+  {
+    "Num": "#590",
+    "Nome": "Foongus",
+    "TamM": "0.2 m\n",
+    "PesoLb": "2.2 lbs.\n",
+    "PesoKg": "1.0 kg\n",
+    "Cor": " White\n",
+    "Tipos": [
+      "Grass",
+      "Poison"
+    ]
+  },
+  {
+    "Num": "#588",
+    "Nome": "Karrablast",
+    "TamM": "0.5 m\n",
+    "PesoLb": "13.0 lbs.\n",
+    "PesoKg": "5.9 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Bug",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#589",
+    "Nome": "Escavalier",
+    "TamM": "1.0 m\n",
+    "PesoLb": "72.8 lbs.\n",
+    "PesoKg": "33.0 kg\n",
+    "Cor": " Gray\n",
+    "Tipos": [
+      "Bug",
+      "Steel"
+    ]
+  },
+  {
+    "Num": "#586",
+    "Nome": "Sawsbuck",
+    "TamM": "1.9 m\n",
+    "PesoLb": "203.9 lbs.\n",
+    "PesoKg": "92.5 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Normal",
+      "Grass"
+    ]
+  },
+  {
+    "Num": "#587",
+    "Nome": "Emolga",
+    "TamM": "0.4 m\n",
+    "PesoLb": "11.0 lbs.\n",
+    "PesoKg": "5.0 kg\n",
+    "Cor": " White\n",
+    "Tipos": [
+      "Electric",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#585",
+    "Nome": "Deerling",
+    "TamM": "0.6 m\n",
+    "PesoLb": "43.0 lbs.\n",
+    "PesoKg": "19.5 kg\n",
+    "Cor": " Pink",
+    "Tipos": [
+      "Normal",
+      "Grass"
+    ]
+  },
+  {
+    "Num": "#584",
+    "Nome": "Vanilluxe",
+    "TamM": "1.3 m\n",
+    "PesoLb": "126.8 lbs.\n",
+    "PesoKg": "57.5 kg\n",
+    "Cor": " White\n",
+    "Tipos": [
+      "Ice",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#583",
+    "Nome": "Vanillish",
+    "TamM": "1.1 m\n",
+    "PesoLb": "90.4 lbs.\n",
+    "PesoKg": "41.0 kg\n",
+    "Cor": " White\n",
+    "Tipos": [
+      "Ice",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#582",
+    "Nome": "Vanillite",
+    "TamM": "0.4 m\n",
+    "PesoLb": "12.6 lbs.\n",
+    "PesoKg": "5.7 kg\n",
+    "Cor": " White\n",
+    "Tipos": [
+      "Ice",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#581",
+    "Nome": "Swanna",
+    "TamM": "1.3 m\n",
+    "PesoLb": "53.4 lbs.\n",
+    "PesoKg": "24.2 kg\n",
+    "Cor": " White\n",
+    "Tipos": [
+      "Water",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#580",
+    "Nome": "Ducklett",
+    "TamM": "0.5 m\n",
+    "PesoLb": "12.1 lbs.\n",
+    "PesoKg": "5.5 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Water",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#579",
+    "Nome": "Reuniclus",
+    "TamM": "1.0 m\n",
+    "PesoLb": "44.3 lbs.\n",
+    "PesoKg": "20.1 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Psychic",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#578",
+    "Nome": "Duosion",
+    "TamM": "0.6 m\n",
+    "PesoLb": "17.6 lbs.\n",
+    "PesoKg": "8.0 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Psychic",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#577",
+    "Nome": "Solosis",
+    "TamM": "0.3 m\n",
+    "PesoLb": "2.2 lbs.\n",
+    "PesoKg": "1.0 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Psychic",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#576",
+    "Nome": "Gothitelle",
+    "TamM": "1.5 m\n",
+    "PesoLb": "97.0 lbs.\n",
+    "PesoKg": "44.0 kg\n",
+    "Cor": " Purple\n",
+    "Tipos": [
+      "Psychic",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#575",
+    "Nome": "Gothorita",
+    "TamM": "0.7 m\n",
+    "PesoLb": "39.7 lbs.\n",
+    "PesoKg": "18.0 kg\n",
+    "Cor": " Purple\n",
+    "Tipos": [
+      "Psychic",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#574",
+    "Nome": "Gothita",
+    "TamM": "0.4 m\n",
+    "PesoLb": "12.8 lbs.\n",
+    "PesoKg": "5.8 kg\n",
+    "Cor": " Purple\n",
+    "Tipos": [
+      "Psychic",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#573",
+    "Nome": "Cinccino",
+    "TamM": "0.5 m\n",
+    "PesoLb": "16.5 lbs.\n",
+    "PesoKg": "7.5 kg\n",
+    "Cor": " Gray\n",
+    "Tipos": [
+      "Normal",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#572",
+    "Nome": "Minccino",
+    "TamM": "0.4 m\n",
+    "PesoLb": "12.8 lbs.\n",
+    "PesoKg": "5.8 kg\n",
+    "Cor": " Gray\n",
+    "Tipos": [
+      "Normal",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#570",
+    "Nome": "Zorua",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Dark",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#571",
+    "Nome": "Zoroark",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Dark",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#569",
+    "Nome": "Garbodor",
+    "TamM": "1.9 m\n",
+    "PesoLb": "236.6 lbs.\n",
+    "PesoKg": "107.3 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Poison",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#567",
+    "Nome": "Archeops",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Rock",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#568",
+    "Nome": "Trubbish",
+    "TamM": "0.6 m\n",
+    "PesoLb": "68.3 lbs.\n",
+    "PesoKg": "31.0 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Poison",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#566",
+    "Nome": "Archen",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Rock",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#564",
+    "Nome": "Tirtouga",
+    "TamM": "0.7 m\n",
+    "PesoLb": "36.4 lbs.\n",
+    "PesoKg": "16.5 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Water",
+      "Rock"
+    ]
+  },
+  {
+    "Num": "#565",
+    "Nome": "Carracosta",
+    "TamM": "1.2 m\n",
+    "PesoLb": "178.6 lbs.\n",
+    "PesoKg": "81.0 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Water",
+      "Rock"
+    ]
+  },
+  {
+    "Num": "#563",
+    "Nome": "Cofagrigus",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Ghost",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#562",
+    "Nome": "Yamask",
+    "TamM": "0.5 m\n",
+    "PesoLb": "3.3 lbs.\n",
+    "PesoKg": "1.5 kg\n",
+    "Cor": " Black\n",
+    "Tipos": [
+      "Ghost",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#561",
+    "Nome": "Sigilyph",
+    "TamM": "1.4 m\n",
+    "PesoLb": "30.9 lbs.\n",
+    "PesoKg": "14.0 kg\n",
+    "Cor": " Black\n",
+    "Tipos": [
+      "Psychic",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#560",
+    "Nome": "Scrafty",
+    "TamM": "1.1 m\n",
+    "PesoLb": "66.1 lbs.\n",
+    "PesoKg": "30.0 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Dark",
+      "Fighting"
+    ]
+  },
+  {
+    "Num": "#559",
+    "Nome": "Scraggy",
+    "TamM": "0.6 m\n",
+    "PesoLb": "26.0 lbs.\n",
+    "PesoKg": "11.8 kg\n",
+    "Cor": " Yellow\n",
+    "Tipos": [
+      "Dark",
+      "Fighting"
+    ]
+  },
+  {
+    "Num": "#558",
+    "Nome": "Crustle",
+    "TamM": "1.4 m\n",
+    "PesoLb": "440.9 lbs.\n",
+    "PesoKg": "200.0 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Bug",
+      "Rock"
+    ]
+  },
+  {
+    "Num": "#556",
+    "Nome": "Maractus",
+    "TamM": "1.0 m\n",
+    "PesoLb": "61.7 lbs.\n",
+    "PesoKg": "28.0 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Grass",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#557",
+    "Nome": "Dwebble",
+    "TamM": "0.3 m\n",
+    "PesoLb": "32.0 lbs.\n",
+    "PesoKg": "14.5 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Bug",
+      "Rock"
+    ]
+  },
+  {
+    "Num": "#554",
+    "Nome": "Darumaka",
+    "TamM": "0.6 m\n",
+    "PesoLb": "82.7 lbs.\n",
+    "PesoKg": "37.5 kg\n",
+    "Cor": " Red",
+    "Tipos": [
+      "Fire",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#555",
+    "Nome": "Darmanitan",
+    "TamM": "1.3 m\n",
+    "PesoLb": "204.8 lbs.\n",
+    "PesoKg": "92.9 kg\n",
+    "Cor": " Red",
+    "Tipos": [
+      "Fire",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#553",
+    "Nome": "Krookodile",
+    "TamM": "1.5 m\n",
+    "PesoLb": "212.3 lbs.\n",
+    "PesoKg": "96.3 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Ground",
+      "Dark"
+    ]
+  },
+  {
+    "Num": "#552",
+    "Nome": "Krokorok",
+    "TamM": "1.0 m\n",
+    "PesoLb": "73.6 lbs.\n",
+    "PesoKg": "33.4 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Ground",
+      "Dark"
+    ]
+  },
+  {
+    "Num": "#549",
+    "Nome": "Lilligant",
+    "TamM": "1.1 m\n",
+    "PesoLb": "35.9 lbs.\n",
+    "PesoKg": "16.3 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Grass",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#550",
+    "Nome": "Basculin",
+    "TamM": "1.0 m\n",
+    "PesoLb": "39.7 lbs.\n",
+    "PesoKg": "18.0 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Water",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#547",
+    "Nome": "Whimsicott",
+    "TamM": "0.7 m\n",
+    "PesoLb": "14.6 lbs.\n",
+    "PesoKg": "6.6 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Grass",
+      "Fairy"
+    ]
+  },
+  {
+    "Num": "#548",
+    "Nome": "Petilil",
+    "TamM": "0.5 m\n",
+    "PesoLb": "14.6 lbs.\n",
+    "PesoKg": "6.6 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Grass",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#551",
+    "Nome": "Sandile",
+    "TamM": "0.7 m\n",
+    "PesoLb": "33.5 lbs.\n",
+    "PesoKg": "15.2 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Ground",
+      "Dark"
+    ]
+  },
+  {
+    "Num": "#546",
+    "Nome": "Cottonee",
+    "TamM": "0.3 m\n",
+    "PesoLb": "1.3 lbs.\n",
+    "PesoKg": "0.6 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Grass",
+      "Fairy"
+    ]
+  },
+  {
+    "Num": "#545",
+    "Nome": "Scolipede",
+    "TamM": "2.5 m\n",
+    "PesoLb": "442.0 lbs.\n",
+    "PesoKg": "200.5 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Bug",
+      "Poison"
+    ]
+  },
+  {
+    "Num": "#544",
+    "Nome": "Whirlipede",
+    "TamM": "1.2 m\n",
+    "PesoLb": "129.0 lbs.\n",
+    "PesoKg": "58.5 kg\n",
+    "Cor": " Gray\n",
+    "Tipos": [
+      "Bug",
+      "Poison"
+    ]
+  },
+  {
+    "Num": "#543",
+    "Nome": "Venipede",
+    "TamM": "0.4 m\n",
+    "PesoLb": "11.7 lbs.\n",
+    "PesoKg": "5.3 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Bug",
+      "Poison"
+    ]
+  },
+  {
+    "Num": "#542",
+    "Nome": "Leavanny",
+    "TamM": "1.2 m\n",
+    "PesoLb": "45.2 lbs.\n",
+    "PesoKg": "20.5 kg\n",
+    "Cor": " Yellow\n",
+    "Tipos": [
+      "Bug",
+      "Grass"
+    ]
+  },
+  {
+    "Num": "#540",
+    "Nome": "Sewaddle",
+    "TamM": "0.3 m\n",
+    "PesoLb": "5.5 lbs.\n",
+    "PesoKg": "2.5 kg\n",
+    "Cor": " Yellow\n",
+    "Tipos": [
+      "Bug",
+      "Grass"
+    ]
+  },
+  {
+    "Num": "#541",
+    "Nome": "Swadloon",
+    "TamM": "0.5 m\n",
+    "PesoLb": "16.1 lbs.\n",
+    "PesoKg": "7.3 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Bug",
+      "Grass"
+    ]
+  },
+  {
+    "Num": "#538",
+    "Nome": "Throh",
+    "TamM": "1.3 m\n",
+    "PesoLb": "122.4 lbs.\n",
+    "PesoKg": "55.5 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Fighting",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#539",
+    "Nome": "Sawk",
+    "TamM": "1.4 m\n",
+    "PesoLb": "112.4 lbs.\n",
+    "PesoKg": "51.0 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Fighting",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#537",
+    "Nome": "Seismitoad",
+    "TamM": "1.5 m\n",
+    "PesoLb": "136.7 lbs.\n",
+    "PesoKg": "62.0 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Water",
+      "Ground"
+    ]
+  },
+  {
+    "Num": "#536",
+    "Nome": "Palpitoad",
+    "TamM": "0.8 m\n",
+    "PesoLb": "37.5 lbs.\n",
+    "PesoKg": "17.0 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Water",
+      "Ground"
+    ]
+  },
+  {
+    "Num": "#534",
+    "Nome": "Conkeldurr",
+    "TamM": "1.4 m\n",
+    "PesoLb": "191.8 lbs.\n",
+    "PesoKg": "87.0 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Fighting",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#535",
+    "Nome": "Tympole",
+    "TamM": "0.5 m\n",
+    "PesoLb": "9.9 lbs.\n",
+    "PesoKg": "4.5 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Water",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#533",
+    "Nome": "Gurdurr",
+    "TamM": "1.2 m\n",
+    "PesoLb": "88.2 lbs.\n",
+    "PesoKg": "40.0 kg\n",
+    "Cor": " Gray\n",
+    "Tipos": [
+      "Fighting",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#532",
+    "Nome": "Timburr",
+    "TamM": "0.6 m\n",
+    "PesoLb": "27.6 lbs.\n",
+    "PesoKg": "12.5 kg\n",
+    "Cor": " Gray\n",
+    "Tipos": [
+      "Fighting",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#531",
+    "Nome": "Audino",
+    "TamM": "1.1 m\n",
+    "PesoLb": "68.3 lbs.\n",
+    "PesoKg": "31.0 kg\n",
+    "Cor": " Pink",
+    "Tipos": [
+      "Normal",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#530",
+    "Nome": "Excadrill",
+    "TamM": "0.7 m\n",
+    "PesoLb": "89.1 lbs.\n",
+    "PesoKg": "40.4 kg\n",
+    "Cor": " Gray\n",
+    "Tipos": [
+      "Ground",
+      "Steel"
+    ]
+  },
+  {
+    "Num": "#529",
+    "Nome": "Drilbur",
+    "TamM": "0.3 m\n",
+    "PesoLb": "18.7 lbs.\n",
+    "PesoKg": "8.5 kg\n",
+    "Cor": " Gray\n",
+    "Tipos": [
+      "Ground",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#528",
+    "Nome": "Swoobat",
+    "TamM": "0.9 m\n",
+    "PesoLb": "23.1 lbs.\n",
+    "PesoKg": "10.5 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Psychic",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#527",
+    "Nome": "Woobat",
+    "TamM": "0.4 m\n",
+    "PesoLb": "4.6 lbs.\n",
+    "PesoKg": "2.1 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Psychic",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#526",
+    "Nome": "Gigalith",
+    "TamM": "1.7 m\n",
+    "PesoLb": "573.2 lbs.\n",
+    "PesoKg": "260.0 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Rock",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#525",
+    "Nome": "Boldore",
+    "TamM": "0.9 m\n",
+    "PesoLb": "224.9 lbs.\n",
+    "PesoKg": "102.0 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Rock",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#523",
+    "Nome": "Zebstrika",
+    "TamM": "1.6 m\n",
+    "PesoLb": "175.3 lbs.\n",
+    "PesoKg": "79.5 kg\n",
+    "Cor": " Black\n",
+    "Tipos": [
+      "Electric",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#524",
+    "Nome": "Roggenrola",
+    "TamM": "0.4 m\n",
+    "PesoLb": "39.7 lbs.\n",
+    "PesoKg": "18.0 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Rock",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#521",
+    "Nome": "Unfezant",
+    "TamM": "1.2 m\n",
+    "PesoLb": "63.9 lbs.\n",
+    "PesoKg": "29.0 kg\n",
+    "Cor": " Gray\n",
+    "Tipos": [
+      "Normal",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#522",
+    "Nome": "Blitzle",
+    "TamM": "0.8 m\n",
+    "PesoLb": "65.7 lbs.\n",
+    "PesoKg": "29.8 kg\n",
+    "Cor": " Black\n",
+    "Tipos": [
+      "Electric",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#520",
+    "Nome": "Tranquill",
+    "TamM": "0.6 m\n",
+    "PesoLb": "33.1 lbs.\n",
+    "PesoKg": "15.0 kg\n",
+    "Cor": " Gray\n",
+    "Tipos": [
+      "Normal",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#519",
+    "Nome": "Pidove",
+    "TamM": "0.3 m\n",
+    "PesoLb": "4.6 lbs.\n",
+    "PesoKg": "2.1 kg\n",
+    "Cor": " Gray\n",
+    "Tipos": [
+      "Normal",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#518",
+    "Nome": "Musharna",
+    "TamM": "1.1 m\n",
+    "PesoLb": "133.4 lbs.\n",
+    "PesoKg": "60.5 kg\n",
+    "Cor": " Pink\n",
+    "Tipos": [
+      "Psychic",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#517",
+    "Nome": "Munna",
+    "TamM": "0.6 m\n",
+    "PesoLb": "51.3 lbs.\n",
+    "PesoKg": "23.3 kg\n",
+    "Cor": " Pink\n",
+    "Tipos": [
+      "Psychic",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#516",
+    "Nome": "Simipour",
+    "TamM": "1.0 m\n",
+    "PesoLb": "63.9 lbs.\n",
+    "PesoKg": "29.0 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Water",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#515",
+    "Nome": "Panpour",
+    "TamM": "0.6 m\n",
+    "PesoLb": "29.8 lbs.\n",
+    "PesoKg": "13.5 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Water",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#513",
+    "Nome": "Pansear",
+    "TamM": "0.6 m\n",
+    "PesoLb": "24.3 lbs.\n",
+    "PesoKg": "11.0 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Fire",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#514",
+    "Nome": "Simisear",
+    "TamM": "1.0 m\n",
+    "PesoLb": "61.7 lbs.\n",
+    "PesoKg": "28.0 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Fire",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#511",
+    "Nome": "Pansage",
+    "TamM": "0.6 m\n",
+    "PesoLb": "23.1 lbs.\n",
+    "PesoKg": "10.5 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Grass",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#512",
+    "Nome": "Simisage",
+    "TamM": "1.1 m\n",
+    "PesoLb": "67.2 lbs.\n",
+    "PesoKg": "30.5 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Grass",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#509",
+    "Nome": "Purrloin",
+    "TamM": "0.4 m\n",
+    "PesoLb": "22.3 lbs.\n",
+    "PesoKg": "10.1 kg\n",
+    "Cor": " Purple\n",
+    "Tipos": [
+      "Dark",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#510",
+    "Nome": "Liepard",
+    "TamM": "1.1 m\n",
+    "PesoLb": "82.7 lbs.\n",
+    "PesoKg": "37.5 kg\n",
+    "Cor": " Purple\n",
+    "Tipos": [
+      "Dark",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#508",
+    "Nome": "Stoutland",
+    "TamM": "1.2 m\n",
+    "PesoLb": "134.5 lbs.\n",
+    "PesoKg": "61.0 kg\n",
+    "Cor": " Gray\n",
+    "Tipos": [
+      "Normal",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#507",
+    "Nome": "Herdier",
+    "TamM": "0.9 m\n",
+    "PesoLb": "32.4 lbs.\n",
+    "PesoKg": "14.7 kg\n",
+    "Cor": " Gray\n",
+    "Tipos": [
+      "Normal",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#505",
+    "Nome": "Watchog",
+    "TamM": "1.1 m\n",
+    "PesoLb": "59.5 lbs.\n",
+    "PesoKg": "27.0 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Normal",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#506",
+    "Nome": "Lillipup",
+    "TamM": "0.4 m\n",
+    "PesoLb": "9.0 lbs.\n",
+    "PesoKg": "4.1 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Normal",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#504",
+    "Nome": "Patrat",
+    "TamM": "0.5 m\n",
+    "PesoLb": "25.6 lbs.\n",
+    "PesoKg": "11.6 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Normal",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#503",
+    "Nome": "Samurott",
+    "TamM": "1.5 m\n",
+    "PesoLb": "208.6 lbs.\n",
+    "PesoKg": "94.6 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Water",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#501",
+    "Nome": "Oshawott",
+    "TamM": "0.5 m\n",
+    "PesoLb": "13.0 lbs.\n",
+    "PesoKg": "5.9 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Water",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#502",
+    "Nome": "Dewott",
+    "TamM": "0.8 m\n",
+    "PesoLb": "54.0 lbs.\n",
+    "PesoKg": "24.5 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Water",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#499",
+    "Nome": "Pignite",
+    "TamM": "1.0 m\n",
+    "PesoLb": "122.4 lbs.\n",
+    "PesoKg": "55.5 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Fire",
+      "Fighting"
+    ]
+  },
+  {
+    "Num": "#500",
+    "Nome": "Emboar",
+    "TamM": "1.6 m\n",
+    "PesoLb": "330.7 lbs.\n",
+    "PesoKg": "150.0 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Fire",
+      "Fighting"
+    ]
+  },
+  {
+    "Num": "#497",
+    "Nome": "Serperior",
+    "TamM": "3.3 m\n",
+    "PesoLb": "138.9 lbs.\n",
+    "PesoKg": "63.0 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Grass",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#498",
+    "Nome": "Tepig",
+    "TamM": "0.5 m\n",
+    "PesoLb": "21.8 lbs.\n",
+    "PesoKg": "9.9 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Fire",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#495",
+    "Nome": "Snivy",
+    "TamM": "0.6 m\n",
+    "PesoLb": "17.9 lbs.\n",
+    "PesoKg": "8.1 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Grass",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#496",
+    "Nome": "Servine",
+    "TamM": "0.8 m\n",
+    "PesoLb": "35.3 lbs.\n",
+    "PesoKg": "16.0 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Grass",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#494",
+    "Nome": "Victini",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Psychic",
+      "Fire"
+    ]
+  },
+  {
+    "Num": "#492",
+    "Nome": "Shaymin",
+    "TamM": "0.2 m\n",
+    "PesoLb": "4.6 lbs.\n",
+    "PesoKg": "2.1 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Grass",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#493",
+    "Nome": "Arceus",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Normal",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#491",
+    "Nome": "Darkrai",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Dark",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#490",
+    "Nome": "Manaphy",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Water",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#489",
+    "Nome": "Phione",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Water",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#488",
+    "Nome": "Cresselia",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Psychic",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#487",
+    "Nome": "Giratina",
+    "TamM": "4.5 m\n",
+    "PesoLb": "1653.5 lbs.\n",
+    "PesoKg": "750.0 kg\n",
+    "Cor": " Black\n",
+    "Tipos": [
+      "Ghost",
+      "Dragon"
+    ]
+  },
+  {
+    "Num": "#481",
+    "Nome": "Mesprit",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Psychic",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#486",
+    "Nome": "Regigigas",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Normal",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#485",
+    "Nome": "Heatran",
+    "TamM": "1.7 m\n",
+    "PesoLb": "948.0 lbs.\n",
+    "PesoKg": "430.0 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Fire",
+      "Steel"
+    ]
+  },
+  {
+    "Num": "#484",
+    "Nome": "Palkia",
+    "TamM": "4.2 m\n",
+    "PesoLb": "740.8 lbs.\n",
+    "PesoKg": "336.0 kg\n",
+    "Cor": " Purple\n",
+    "Tipos": [
+      "Water",
+      "Dragon"
+    ]
+  },
+  {
+    "Num": "#483",
+    "Nome": "Dialga",
+    "TamM": "5.4 m\n",
+    "PesoLb": "1505.8 lbs.\n",
+    "PesoKg": "683.0 kg\n",
+    "Cor": " White\n",
+    "Tipos": [
+      "Steel",
+      "Dragon"
+    ]
+  },
+  {
+    "Num": "#482",
+    "Nome": "Azelf",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Psychic",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#480",
+    "Nome": "Uxie",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Psychic",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#479",
+    "Nome": "Rotom",
+    "TamM": "0.3 m\n",
+    "PesoLb": "0.7 lbs.\n",
+    "PesoKg": "0.3 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Electric",
+      "Ghost"
+    ]
+  },
+  {
+    "Num": "#478",
+    "Nome": "Froslass",
+    "TamM": "1.3 m\n",
+    "PesoLb": "58.6 lbs.\n",
+    "PesoKg": "26.6 kg\n",
+    "Cor": " White\n",
+    "Tipos": [
+      "Ice",
+      "Ghost"
+    ]
+  },
+  {
+    "Num": "#476",
+    "Nome": "Probopass",
+    "TamM": "1.4 m\n",
+    "PesoLb": "749.6 lbs.\n",
+    "PesoKg": "340.0 kg\n",
+    "Cor": " Gray\n",
+    "Tipos": [
+      "Rock",
+      "Steel"
+    ]
+  },
+  {
+    "Num": "#477",
+    "Nome": "Dusknoir",
+    "TamM": "2.2 m\n",
+    "PesoLb": "235.0 lbs.\n",
+    "PesoKg": "106.6 kg\n",
+    "Cor": " Black\n",
+    "Tipos": [
+      "Ghost",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#475",
+    "Nome": "Gallade",
+    "TamM": "1.6 m\n",
+    "PesoLb": "114.6 lbs.\n",
+    "PesoKg": "52.0 kg\n",
+    "Cor": " White\n",
+    "Tipos": [
+      "Psychic",
+      "Fighting"
+    ]
+  },
+  {
+    "Num": "#474",
+    "Nome": "Porygon-Z",
+    "TamM": "0.9 m\n",
+    "PesoLb": "75.0 lbs.\n",
+    "PesoKg": "34.0 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Normal",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#473",
+    "Nome": "Mamoswine",
+    "TamM": "2.5 m\n",
+    "PesoLb": "641.5 lbs.\n",
+    "PesoKg": "291.0 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Ice",
+      "Ground"
+    ]
+  },
+  {
+    "Num": "#472",
+    "Nome": "Gliscor",
+    "TamM": "2.0 m\n",
+    "PesoLb": "93.7 lbs.\n",
+    "PesoKg": "42.5 kg\n",
+    "Cor": " Purple\n",
+    "Tipos": [
+      "Ground",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#471",
+    "Nome": "Glaceon",
+    "TamM": "0.8 m\n",
+    "PesoLb": "57.1 lbs.\n",
+    "PesoKg": "25.9 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Ice",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#470",
+    "Nome": "Leafeon",
+    "TamM": "1.0 m\n",
+    "PesoLb": "56.2 lbs.\n",
+    "PesoKg": "25.5 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Grass",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#469",
+    "Nome": "Yanmega",
+    "TamM": "1.9 m\n",
+    "PesoLb": "113.5 lbs.\n",
+    "PesoKg": "51.5 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Bug",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#468",
+    "Nome": "Togekiss",
+    "TamM": "1.5 m\n",
+    "PesoLb": "83.8 lbs.\n",
+    "PesoKg": "38.0 kg\n",
+    "Cor": " White\n",
+    "Tipos": [
+      "Fairy",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#467",
+    "Nome": "Magmortar",
+    "TamM": "1.6 m\n",
+    "PesoLb": "149.9 lbs.\n",
+    "PesoKg": "68.0 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Fire",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#466",
+    "Nome": "Electivire",
+    "TamM": "1.8 m\n",
+    "PesoLb": "305.6 lbs.\n",
+    "PesoKg": "138.6 kg\n",
+    "Cor": " Yellow\n",
+    "Tipos": [
+      "Electric",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#465",
+    "Nome": "Tangrowth",
+    "TamM": "2.0 m\n",
+    "PesoLb": "283.5 lbs.\n",
+    "PesoKg": "128.6 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Grass",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#464",
+    "Nome": "Rhyperior",
+    "TamM": "2.4 m\n",
+    "PesoLb": "623.5 lbs.\n",
+    "PesoKg": "282.8 kg\n",
+    "Cor": " Gray\n",
+    "Tipos": [
+      "Ground",
+      "Rock"
+    ]
+  },
+  {
+    "Num": "#463",
+    "Nome": "Lickilicky",
+    "TamM": "1.7 m\n",
+    "PesoLb": "308.6 lbs.\n",
+    "PesoKg": "140.0 kg\n",
+    "Cor": " Pink\n",
+    "Tipos": [
+      "Normal",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#462",
+    "Nome": "Magnezone",
+    "TamM": "1.2 m\n",
+    "PesoLb": "396.8 lbs.\n",
+    "PesoKg": "180.0 kg\n",
+    "Cor": " Gray\n",
+    "Tipos": [
+      "Electric",
+      "Steel"
+    ]
+  },
+  {
+    "Num": "#461",
+    "Nome": "Weavile",
+    "TamM": "1.1 m\n",
+    "PesoLb": "75.0 lbs.\n",
+    "PesoKg": "34.0 kg\n",
+    "Cor": " Black\n",
+    "Tipos": [
+      "Dark",
+      "Ice"
+    ]
+  },
+  {
+    "Num": "#460",
+    "Nome": "Abomasnow",
+    "TamM": "2.2 m\n",
+    "PesoLb": "298.7 lbs.\n",
+    "PesoKg": "135.5 kg\n",
+    "Cor": " White\n",
+    "Tipos": [
+      "Grass",
+      "Ice"
+    ]
+  },
+  {
+    "Num": "#459",
+    "Nome": "Snover",
+    "TamM": "1.0 m\n",
+    "PesoLb": "111.3 lbs.\n",
+    "PesoKg": "50.5 kg\n",
+    "Cor": " White\n",
+    "Tipos": [
+      "Grass",
+      "Ice"
+    ]
+  },
+  {
+    "Num": "#458",
+    "Nome": "Mantyke",
+    "TamM": "1.0 m\n",
+    "PesoLb": "143.3 lbs.\n",
+    "PesoKg": "65.0 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Water",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#457",
+    "Nome": "Lumineon",
+    "TamM": "1.2 m\n",
+    "PesoLb": "52.9 lbs.\n",
+    "PesoKg": "24.0 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Water",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#455",
+    "Nome": "Carnivine",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Grass",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#456",
+    "Nome": "Finneon",
+    "TamM": "0.4 m\n",
+    "PesoLb": "15.4 lbs.\n",
+    "PesoKg": "7.0 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Water",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#454",
+    "Nome": "Toxicroak",
+    "TamM": "1.3 m\n",
+    "PesoLb": "97.9 lbs.\n",
+    "PesoKg": "44.4 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Poison",
+      "Fighting"
+    ]
+  },
+  {
+    "Num": "#453",
+    "Nome": "Croagunk",
+    "TamM": "0.7 m\n",
+    "PesoLb": "50.7 lbs.\n",
+    "PesoKg": "23.0 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Poison",
+      "Fighting"
+    ]
+  },
+  {
+    "Num": "#452",
+    "Nome": "Drapion",
+    "TamM": "1.3 m\n",
+    "PesoLb": "135.6 lbs.\n",
+    "PesoKg": "61.5 kg\n",
+    "Cor": " Purple\n",
+    "Tipos": [
+      "Poison",
+      "Dark"
+    ]
+  },
+  {
+    "Num": "#450",
+    "Nome": "Hippowdon",
+    "TamM": "2.0 m\n",
+    "PesoLb": "661.4 lbs.\n",
+    "PesoKg": "300.0 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Ground",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#451",
+    "Nome": "Skorupi",
+    "TamM": "0.8 m\n",
+    "PesoLb": "26.5 lbs.\n",
+    "PesoKg": "12.0 kg\n",
+    "Cor": " Purple\n",
+    "Tipos": [
+      "Poison",
+      "Bug"
+    ]
+  },
+  {
+    "Num": "#449",
+    "Nome": "Hippopotas",
+    "TamM": "0.8 m\n",
+    "PesoLb": "109.1 lbs.\n",
+    "PesoKg": "49.5 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Ground",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#447",
+    "Nome": "Riolu",
+    "TamM": "0.7 m\n",
+    "PesoLb": "44.5 lbs.\n",
+    "PesoKg": "20.2 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Fighting",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#448",
+    "Nome": "Lucario",
+    "TamM": "1.2 m\n",
+    "PesoLb": "119.0 lbs.\n",
+    "PesoKg": "54.0 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Fighting",
+      "Steel"
+    ]
+  },
+  {
+    "Num": "#446",
+    "Nome": "Munchlax",
+    "TamM": "0.6 m\n",
+    "PesoLb": "231.5 lbs.\n",
+    "PesoKg": "105.0 kg\n",
+    "Cor": " Black\n",
+    "Tipos": [
+      "Normal",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#445",
+    "Nome": "Garchomp",
+    "TamM": "1.9 m\n",
+    "PesoLb": "209.4 lbs.\n",
+    "PesoKg": "95.0 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Dragon",
+      "Ground"
+    ]
+  },
+  {
+    "Num": "#444",
+    "Nome": "Gabite",
+    "TamM": "1.4 m\n",
+    "PesoLb": "123.5 lbs.\n",
+    "PesoKg": "56.0 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Dragon",
+      "Ground"
+    ]
+  },
+  {
+    "Num": "#443",
+    "Nome": "Gible",
+    "TamM": "0.7 m\n",
+    "PesoLb": "45.2 lbs.\n",
+    "PesoKg": "20.5 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Dragon",
+      "Ground"
+    ]
+  },
+  {
+    "Num": "#442",
+    "Nome": "Spiritomb",
+    "TamM": "1.0 m\n",
+    "PesoLb": "238.1 lbs.\n",
+    "PesoKg": "108.0 kg\n",
+    "Cor": " Purple\n",
+    "Tipos": [
+      "Ghost",
+      "Dark"
+    ]
+  },
+  {
+    "Num": "#441",
+    "Nome": "Chatot",
+    "TamM": "0.5 m\n",
+    "PesoLb": "4.2 lbs.\n",
+    "PesoKg": "1.9 kg\n",
+    "Cor": " Black\n",
+    "Tipos": [
+      "Normal",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#439",
+    "Nome": "Mime Jr.",
+    "TamM": "0.6 m\n",
+    "PesoLb": "28.7 lbs.\n",
+    "PesoKg": "13.0 kg\n",
+    "Cor": " Pink\n",
+    "Tipos": [
+      "Psychic",
+      "Fairy"
+    ]
+  },
+  {
+    "Num": "#440",
+    "Nome": "Happiny",
+    "TamM": "0.6 m\n",
+    "PesoLb": "53.8 lbs.\n",
+    "PesoKg": "24.4 kg\n",
+    "Cor": " Pink\n",
+    "Tipos": [
+      "Normal",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#438",
+    "Nome": "Bonsly",
+    "TamM": "0.5 m\n",
+    "PesoLb": "33.1 lbs.\n",
+    "PesoKg": "15.0 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Rock",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#436",
+    "Nome": "Bronzor",
+    "TamM": "0.5 m\n",
+    "PesoLb": "133.4 lbs.\n",
+    "PesoKg": "60.5 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Steel",
+      "Psychic"
+    ]
+  },
+  {
+    "Num": "#437",
+    "Nome": "Bronzong",
+    "TamM": "1.3 m\n",
+    "PesoLb": "412.3 lbs.\n",
+    "PesoKg": "187.0 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Steel",
+      "Psychic"
+    ]
+  },
+  {
+    "Num": "#434",
+    "Nome": "Stunky",
+    "TamM": "0.4 m\n",
+    "PesoLb": "42.3 lbs.\n",
+    "PesoKg": "19.2 kg\n",
+    "Cor": " Purple\n",
+    "Tipos": [
+      "Poison",
+      "Dark"
+    ]
+  },
+  {
+    "Num": "#435",
+    "Nome": "Skuntank",
+    "TamM": "1.0 m\n",
+    "PesoLb": "83.8 lbs.\n",
+    "PesoKg": "38.0 kg\n",
+    "Cor": " Purple\n",
+    "Tipos": [
+      "Poison",
+      "Dark"
+    ]
+  },
+  {
+    "Num": "#433",
+    "Nome": "Chingling",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Psychic",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#431",
+    "Nome": "Glameow",
+    "TamM": "0.5 m\n",
+    "PesoLb": "8.6 lbs.\n",
+    "PesoKg": "3.9 kg\n",
+    "Cor": " Gray\n",
+    "Tipos": [
+      "Normal",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#432",
+    "Nome": "Purugly",
+    "TamM": "1.0 m\n",
+    "PesoLb": "96.6 lbs.\n",
+    "PesoKg": "43.8 kg\n",
+    "Cor": " Gray\n",
+    "Tipos": [
+      "Normal",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#430",
+    "Nome": "Honchkrow",
+    "TamM": "0.9 m\n",
+    "PesoLb": "60.2 lbs.\n",
+    "PesoKg": "27.3 kg\n",
+    "Cor": " Black\n",
+    "Tipos": [
+      "Dark",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#428",
+    "Nome": "Lopunny",
+    "TamM": "1.2 m\n",
+    "PesoLb": "73.4 lbs.\n",
+    "PesoKg": "33.3 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Normal",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#429",
+    "Nome": "Mismagius",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Ghost",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#426",
+    "Nome": "Drifblim",
+    "TamM": "1.2 m\n",
+    "PesoLb": "33.1 lbs.\n",
+    "PesoKg": "15.0 kg\n",
+    "Cor": " Purple\n",
+    "Tipos": [
+      "Ghost",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#427",
+    "Nome": "Buneary",
+    "TamM": "0.4 m\n",
+    "PesoLb": "12.1 lbs.\n",
+    "PesoKg": "5.5 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Normal",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#425",
+    "Nome": "Drifloon",
+    "TamM": "0.4 m\n",
+    "PesoLb": "2.6 lbs.\n",
+    "PesoKg": "1.2 kg\n",
+    "Cor": " Purple\n",
+    "Tipos": [
+      "Ghost",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#423",
+    "Nome": "Gastrodon",
+    "TamM": "0.9 m\n",
+    "PesoLb": "65.9 lbs.\n",
+    "PesoKg": "29.9 kg\n",
+    "Cor": " Purple",
+    "Tipos": [
+      "Water",
+      "Ground"
+    ]
+  },
+  {
+    "Num": "#424",
+    "Nome": "Ambipom",
+    "TamM": "1.2 m\n",
+    "PesoLb": "44.8 lbs.\n",
+    "PesoKg": "20.3 kg\n",
+    "Cor": " Purple\n",
+    "Tipos": [
+      "Normal",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#422",
+    "Nome": "Shellos",
+    "TamM": "0.3 m\n",
+    "PesoLb": "13.9 lbs.\n",
+    "PesoKg": "6.3 kg\n",
+    "Cor": " Purple",
+    "Tipos": [
+      "Water",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#421",
+    "Nome": "Cherrim",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Grass",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#420",
+    "Nome": "Cherubi",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Grass",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#419",
+    "Nome": "Floatzel",
+    "TamM": "1.1 m\n",
+    "PesoLb": "73.9 lbs.\n",
+    "PesoKg": "33.5 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Water",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#418",
+    "Nome": "Buizel",
+    "TamM": "0.7 m\n",
+    "PesoLb": "65.0 lbs.\n",
+    "PesoKg": "29.5 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Water",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#417",
+    "Nome": "Pachirisu",
+    "TamM": "0.4 m\n",
+    "PesoLb": "8.6 lbs.\n",
+    "PesoKg": "3.9 kg\n",
+    "Cor": " White\n",
+    "Tipos": [
+      "Electric",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#416",
+    "Nome": "Vespiquen",
+    "TamM": "1.2 m\n",
+    "PesoLb": "84.9 lbs.\n",
+    "PesoKg": "38.5 kg\n",
+    "Cor": " Yellow\n",
+    "Tipos": [
+      "Bug",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#414",
+    "Nome": "Mothim",
+    "TamM": "0.9 m\n",
+    "PesoLb": "51.4 lbs.\n",
+    "PesoKg": "23.3 kg\n",
+    "Cor": " Yellow\n",
+    "Tipos": [
+      "Bug",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#415",
+    "Nome": "Combee",
+    "TamM": "0.3 m\n",
+    "PesoLb": "12.1 lbs.\n",
+    "PesoKg": "5.5 kg\n",
+    "Cor": " Yellow\n",
+    "Tipos": [
+      "Bug",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#413",
+    "Nome": "Wormadam",
+    "TamM": "0.5 m\n",
+    "PesoLb": "14.3 lbs.\n",
+    "PesoKg": "6.5 kg\n",
+    "Cor": " Green",
+    "Tipos": [
+      "Bug",
+      "Grass"
+    ]
+  },
+  {
+    "Num": "#411",
+    "Nome": "Bastiodon",
+    "TamM": "1.3 m\n",
+    "PesoLb": "329.6 lbs.\n",
+    "PesoKg": "149.5 kg\n",
+    "Cor": " Gray\n",
+    "Tipos": [
+      "Rock",
+      "Steel"
+    ]
+  },
+  {
+    "Num": "#412",
+    "Nome": "Burmy",
+    "TamM": "0.2 m\n",
+    "PesoLb": "7.5 lbs.\n",
+    "PesoKg": "3.4 kg\n",
+    "Cor": " Green",
+    "Tipos": [
+      "Bug",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#410",
+    "Nome": "Shieldon",
+    "TamM": "0.5 m\n",
+    "PesoLb": "125.7 lbs.\n",
+    "PesoKg": "57.0 kg\n",
+    "Cor": " Gray\n",
+    "Tipos": [
+      "Rock",
+      "Steel"
+    ]
+  },
+  {
+    "Num": "#409",
+    "Nome": "Rampardos",
+    "TamM": "1.6 m\n",
+    "PesoLb": "226.0 lbs.\n",
+    "PesoKg": "102.5 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Rock",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#407",
+    "Nome": "Roserade",
+    "TamM": "0.9 m\n",
+    "PesoLb": "32.0 lbs.\n",
+    "PesoKg": "14.5 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Grass",
+      "Poison"
+    ]
+  },
+  {
+    "Num": "#408",
+    "Nome": "Cranidos",
+    "TamM": "0.9 m\n",
+    "PesoLb": "69.4 lbs.\n",
+    "PesoKg": "31.5 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Rock",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#406",
+    "Nome": "Budew",
+    "TamM": "0.2 m\n",
+    "PesoLb": "2.6 lbs.\n",
+    "PesoKg": "1.2 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Grass",
+      "Poison"
+    ]
+  },
+  {
+    "Num": "#405",
+    "Nome": "Luxray",
+    "TamM": "1.4 m\n",
+    "PesoLb": "92.6 lbs.\n",
+    "PesoKg": "42.0 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Electric",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#404",
+    "Nome": "Luxio",
+    "TamM": "0.9 m\n",
+    "PesoLb": "67.2 lbs.\n",
+    "PesoKg": "30.5 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Electric",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#403",
+    "Nome": "Shinx",
+    "TamM": "0.5 m\n",
+    "PesoLb": "20.9 lbs.\n",
+    "PesoKg": "9.5 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Electric",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#402",
+    "Nome": "Kricketune",
+    "TamM": "1.0 m\n",
+    "PesoLb": "56.2 lbs.\n",
+    "PesoKg": "25.5 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Bug",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#401",
+    "Nome": "Kricketot",
+    "TamM": "0.3 m\n",
+    "PesoLb": "4.9 lbs.\n",
+    "PesoKg": "2.2 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Bug",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#400",
+    "Nome": "Bibarel",
+    "TamM": "1.0 m\n",
+    "PesoLb": "69.4 lbs.\n",
+    "PesoKg": "31.5 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Normal",
+      "Water"
+    ]
+  },
+  {
+    "Num": "#399",
+    "Nome": "Bidoof",
+    "TamM": "0.5 m\n",
+    "PesoLb": "44.1 lbs.\n",
+    "PesoKg": "20.0 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Normal",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#398",
+    "Nome": "Staraptor",
+    "TamM": "1.2 m\n",
+    "PesoLb": "54.9 lbs.\n",
+    "PesoKg": "24.9 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Normal",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#396",
+    "Nome": "Starly",
+    "TamM": "0.3 m\n",
+    "PesoLb": "4.4 lbs.\n",
+    "PesoKg": "2.0 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Normal",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#397",
+    "Nome": "Staravia",
+    "TamM": "0.6 m\n",
+    "PesoLb": "34.2 lbs.\n",
+    "PesoKg": "15.5 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Normal",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#394",
+    "Nome": "Prinplup",
+    "TamM": "0.8 m\n",
+    "PesoLb": "50.7 lbs.\n",
+    "PesoKg": "23.0 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Water",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#395",
+    "Nome": "Empoleon",
+    "TamM": "1.7 m\n",
+    "PesoLb": "186.3 lbs.\n",
+    "PesoKg": "84.5 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Water",
+      "Steel"
+    ]
+  },
+  {
+    "Num": "#393",
+    "Nome": "Piplup",
+    "TamM": "0.4 m\n",
+    "PesoLb": "11.5 lbs.\n",
+    "PesoKg": "5.2 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Water",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#392",
+    "Nome": "Infernape",
+    "TamM": "1.2 m\n",
+    "PesoLb": "121.3 lbs.\n",
+    "PesoKg": "55.0 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Fire",
+      "Fighting"
+    ]
+  },
+  {
+    "Num": "#390",
+    "Nome": "Chimchar",
+    "TamM": "0.5 m\n",
+    "PesoLb": "13.7 lbs.\n",
+    "PesoKg": "6.2 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Fire",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#391",
+    "Nome": "Monferno",
+    "TamM": "0.9 m\n",
+    "PesoLb": "48.5 lbs.\n",
+    "PesoKg": "22.0 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Fire",
+      "Fighting"
+    ]
+  },
+  {
+    "Num": "#389",
+    "Nome": "Torterra",
+    "TamM": "2.2 m\n",
+    "PesoLb": "683.4 lbs.\n",
+    "PesoKg": "310.0 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Grass",
+      "Ground"
+    ]
+  },
+  {
+    "Num": "#388",
+    "Nome": "Grotle",
+    "TamM": "1.1 m\n",
+    "PesoLb": "213.8 lbs.\n",
+    "PesoKg": "97.0 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Grass",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#387",
+    "Nome": "Turtwig",
+    "TamM": "0.4 m\n",
+    "PesoLb": "22.5 lbs.\n",
+    "PesoKg": "10.2 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Grass",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#386",
+    "Nome": "Deoxys",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Psychic",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#385",
+    "Nome": "Jirachi",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Steel",
+      "Psychic"
+    ]
+  },
+  {
+    "Num": "#384",
+    "Nome": "Rayquaza",
+    "TamM": "7.0 m\n",
+    "PesoLb": "455.3 lbs.\n",
+    "PesoKg": "206.5 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Dragon",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#383",
+    "Nome": "Groudon",
+    "TamM": "3.5 m\n",
+    "PesoLb": "2094.4 lbs.\n",
+    "PesoKg": "950.0 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Ground",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#382",
+    "Nome": "Kyogre",
+    "TamM": "4.5 m\n",
+    "PesoLb": "776.0 lbs.\n",
+    "PesoKg": "352.0 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Water",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#380",
+    "Nome": "Latias",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Dragon",
+      "Psychic"
+    ]
+  },
+  {
+    "Num": "#381",
+    "Nome": "Latios",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Dragon",
+      "Psychic"
+    ]
+  },
+  {
+    "Num": "#379",
+    "Nome": "Registeel",
+    "TamM": "1.9 m\n",
+    "PesoLb": "451.9 lbs.\n",
+    "PesoKg": "205.0 kg\n",
+    "Cor": " Gray\n",
+    "Tipos": [
+      "Steel",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#378",
+    "Nome": "Regice",
+    "TamM": "1.8 m\n",
+    "PesoLb": "385.8 lbs.\n",
+    "PesoKg": "175.0 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Ice",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#377",
+    "Nome": "Regirock",
+    "TamM": "1.7 m\n",
+    "PesoLb": "507.1 lbs.\n",
+    "PesoKg": "230.0 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Rock",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#375",
+    "Nome": "Metang",
+    "TamM": "1.2 m\n",
+    "PesoLb": "446.4 lbs.\n",
+    "PesoKg": "202.5 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Steel",
+      "Psychic"
+    ]
+  },
+  {
+    "Num": "#376",
+    "Nome": "Metagross",
+    "TamM": "1.6 m\n",
+    "PesoLb": "1212.5 lbs.\n",
+    "PesoKg": "550.0 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Steel",
+      "Psychic"
+    ]
+  },
+  {
+    "Num": "#374",
+    "Nome": "Beldum",
+    "TamM": "0.6 m\n",
+    "PesoLb": "209.9 lbs.\n",
+    "PesoKg": "95.2 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Steel",
+      "Psychic"
+    ]
+  },
+  {
+    "Num": "#373",
+    "Nome": "Salamence",
+    "TamM": "1.5 m\n",
+    "PesoLb": "226.2 lbs.\n",
+    "PesoKg": "102.6 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Dragon",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#371",
+    "Nome": "Bagon",
+    "TamM": "0.6 m\n",
+    "PesoLb": "92.8 lbs.\n",
+    "PesoKg": "42.1 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Dragon",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#370",
+    "Nome": "Luvdisc",
+    "TamM": "0.6 m\n",
+    "PesoLb": "19.2 lbs.\n",
+    "PesoKg": "8.7 kg\n",
+    "Cor": " Pink\n",
+    "Tipos": [
+      "Water",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#372",
+    "Nome": "Shelgon",
+    "TamM": "1.1 m\n",
+    "PesoLb": "243.6 lbs.\n",
+    "PesoKg": "110.5 kg\n",
+    "Cor": " White\n",
+    "Tipos": [
+      "Dragon",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#369",
+    "Nome": "Relicanth",
+    "TamM": "1.0 m\n",
+    "PesoLb": "51.6 lbs.\n",
+    "PesoKg": "23.4 kg\n",
+    "Cor": " Gray\n",
+    "Tipos": [
+      "Water",
+      "Rock"
+    ]
+  },
+  {
+    "Num": "#368",
+    "Nome": "Gorebyss",
+    "TamM": "1.8 m\n",
+    "PesoLb": "49.8 lbs.\n",
+    "PesoKg": "22.6 kg\n",
+    "Cor": " Pink\n",
+    "Tipos": [
+      "Water",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#367",
+    "Nome": "Huntail",
+    "TamM": "1.7 m\n",
+    "PesoLb": "59.5 lbs.\n",
+    "PesoKg": "27.0 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Water",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#366",
+    "Nome": "Clamperl",
+    "TamM": "0.4 m\n",
+    "PesoLb": "115.7 lbs.\n",
+    "PesoKg": "52.5 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Water",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#365",
+    "Nome": "Walrein",
+    "TamM": "1.4 m\n",
+    "PesoLb": "332.0 lbs.\n",
+    "PesoKg": "150.6 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Ice",
+      "Water"
+    ]
+  },
+  {
+    "Num": "#364",
+    "Nome": "Sealeo",
+    "TamM": "1.1 m\n",
+    "PesoLb": "193.1 lbs.\n",
+    "PesoKg": "87.6 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Ice",
+      "Water"
+    ]
+  },
+  {
+    "Num": "#363",
+    "Nome": "Spheal",
+    "TamM": "0.8 m\n",
+    "PesoLb": "87.1 lbs.\n",
+    "PesoKg": "39.5 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Ice",
+      "Water"
+    ]
+  },
+  {
+    "Num": "#362",
+    "Nome": "Glalie",
+    "TamM": "1.5 m\n",
+    "PesoLb": "565.5 lbs.\n",
+    "PesoKg": "256.5 kg\n",
+    "Cor": " Gray\n",
+    "Tipos": [
+      "Ice",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#361",
+    "Nome": "Snorunt",
+    "TamM": "0.7 m\n",
+    "PesoLb": "37.0 lbs.\n",
+    "PesoKg": "16.8 kg\n",
+    "Cor": " Gray\n",
+    "Tipos": [
+      "Ice",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#360",
+    "Nome": "Wynaut",
+    "TamM": "0.6 m\n",
+    "PesoLb": "30.9 lbs.\n",
+    "PesoKg": "14.0 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Psychic",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#359",
+    "Nome": "Absol",
+    "TamM": "1.2 m\n",
+    "PesoLb": "103.6 lbs.\n",
+    "PesoKg": "47.0 kg\n",
+    "Cor": " White\n",
+    "Tipos": [
+      "Dark",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#358",
+    "Nome": "Chimecho",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Psychic",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#356",
+    "Nome": "Dusclops",
+    "TamM": "1.6 m\n",
+    "PesoLb": "67.5 lbs.\n",
+    "PesoKg": "30.6 kg\n",
+    "Cor": " Black\n",
+    "Tipos": [
+      "Ghost",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#357",
+    "Nome": "Tropius",
+    "TamM": "2.0 m\n",
+    "PesoLb": "220.5 lbs.\n",
+    "PesoKg": "100.0 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Grass",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#354",
+    "Nome": "Banette",
+    "TamM": "1.1 m\n",
+    "PesoLb": "27.6 lbs.\n",
+    "PesoKg": "12.5 kg\n",
+    "Cor": " Black\n",
+    "Tipos": [
+      "Ghost",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#355",
+    "Nome": "Duskull",
+    "TamM": "0.8 m\n",
+    "PesoLb": "33.1 lbs.\n",
+    "PesoKg": "15.0 kg\n",
+    "Cor": " Black\n",
+    "Tipos": [
+      "Ghost",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#353",
+    "Nome": "Shuppet",
+    "TamM": "0.6 m\n",
+    "PesoLb": "5.1 lbs.\n",
+    "PesoKg": "2.3 kg\n",
+    "Cor": " Black\n",
+    "Tipos": [
+      "Ghost",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#352",
+    "Nome": "Kecleon",
+    "TamM": "1.0 m\n",
+    "PesoLb": "48.5 lbs.\n",
+    "PesoKg": "22.0 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Normal",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#351",
+    "Nome": "Castform",
+    "TamM": "0.3 m\n",
+    "PesoLb": "1.8 lbs.\n",
+    "PesoKg": "0.8 kg\n",
+    "Cor": " Gray",
+    "Tipos": [
+      "Normal",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#350",
+    "Nome": "Milotic",
+    "TamM": "6.2 m\n",
+    "PesoLb": "357.1 lbs.\n",
+    "PesoKg": "162.0 kg\n",
+    "Cor": " Pink\n",
+    "Tipos": [
+      "Water",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#349",
+    "Nome": "Feebas",
+    "TamM": "0.6 m\n",
+    "PesoLb": "16.3 lbs.\n",
+    "PesoKg": "7.4 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Water",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#348",
+    "Nome": "Armaldo",
+    "TamM": "1.5 m\n",
+    "PesoLb": "150.4 lbs.\n",
+    "PesoKg": "68.2 kg\n",
+    "Cor": " Gray\n",
+    "Tipos": [
+      "Rock",
+      "Bug"
+    ]
+  },
+  {
+    "Num": "#347",
+    "Nome": "Anorith",
+    "TamM": "0.7 m\n",
+    "PesoLb": "27.6 lbs.\n",
+    "PesoKg": "12.5 kg\n",
+    "Cor": " Gray\n",
+    "Tipos": [
+      "Rock",
+      "Bug"
+    ]
+  },
+  {
+    "Num": "#346",
+    "Nome": "Cradily",
+    "TamM": "1.5 m\n",
+    "PesoLb": "133.2 lbs.\n",
+    "PesoKg": "60.4 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Rock",
+      "Grass"
+    ]
+  },
+  {
+    "Num": "#345",
+    "Nome": "Lileep",
+    "TamM": "1.0 m\n",
+    "PesoLb": "52.5 lbs.\n",
+    "PesoKg": "23.8 kg\n",
+    "Cor": " Purple\n",
+    "Tipos": [
+      "Rock",
+      "Grass"
+    ]
+  },
+  {
+    "Num": "#344",
+    "Nome": "Claydol",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Ground",
+      "Psychic"
+    ]
+  },
+  {
+    "Num": "#342",
+    "Nome": "Crawdaunt",
+    "TamM": "1.1 m\n",
+    "PesoLb": "72.3 lbs.\n",
+    "PesoKg": "32.8 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Water",
+      "Dark"
+    ]
+  },
+  {
+    "Num": "#343",
+    "Nome": "Baltoy",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Ground",
+      "Psychic"
+    ]
+  },
+  {
+    "Num": "#340",
+    "Nome": "Whiscash",
+    "TamM": "0.9 m\n",
+    "PesoLb": "52.0 lbs.\n",
+    "PesoKg": "23.6 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Water",
+      "Ground"
+    ]
+  },
+  {
+    "Num": "#341",
+    "Nome": "Corphish",
+    "TamM": "0.6 m\n",
+    "PesoLb": "25.4 lbs.\n",
+    "PesoKg": "11.5 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Water",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#338",
+    "Nome": "Solrock",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Rock",
+      "Psychic"
+    ]
+  },
+  {
+    "Num": "#339",
+    "Nome": "Barboach",
+    "TamM": "0.4 m\n",
+    "PesoLb": "4.2 lbs.\n",
+    "PesoKg": "1.9 kg\n",
+    "Cor": " Gray\n",
+    "Tipos": [
+      "Water",
+      "Ground"
+    ]
+  },
+  {
+    "Num": "#337",
+    "Nome": "Lunatone",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Rock",
+      "Psychic"
+    ]
+  },
+  {
+    "Num": "#336",
+    "Nome": "Seviper",
+    "TamM": "2.7 m\n",
+    "PesoLb": "115.7 lbs.\n",
+    "PesoKg": "52.5 kg\n",
+    "Cor": " Black\n",
+    "Tipos": [
+      "Poison",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#335",
+    "Nome": "Zangoose",
+    "TamM": "1.3 m\n",
+    "PesoLb": "88.8 lbs.\n",
+    "PesoKg": "40.3 kg\n",
+    "Cor": " White\n",
+    "Tipos": [
+      "Normal",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#334",
+    "Nome": "Altaria",
+    "TamM": "1.1 m\n",
+    "PesoLb": "45.4 lbs.\n",
+    "PesoKg": "20.6 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Dragon",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#333",
+    "Nome": "Swablu",
+    "TamM": "0.4 m\n",
+    "PesoLb": "2.6 lbs.\n",
+    "PesoKg": "1.2 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Normal",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#332",
+    "Nome": "Cacturne",
+    "TamM": "1.3 m\n",
+    "PesoLb": "170.6 lbs.\n",
+    "PesoKg": "77.4 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Grass",
+      "Dark"
+    ]
+  },
+  {
+    "Num": "#331",
+    "Nome": "Cacnea",
+    "TamM": "0.4 m\n",
+    "PesoLb": "113.1 lbs.\n",
+    "PesoKg": "51.3 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Grass",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#330",
+    "Nome": "Flygon",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Ground",
+      "Dragon"
+    ]
+  },
+  {
+    "Num": "#329",
+    "Nome": "Vibrava",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Ground",
+      "Dragon"
+    ]
+  },
+  {
+    "Num": "#328",
+    "Nome": "Trapinch",
+    "TamM": "0.7 m\n",
+    "PesoLb": "33.1 lbs.\n",
+    "PesoKg": "15.0 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Ground",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#326",
+    "Nome": "Grumpig",
+    "TamM": "0.9 m\n",
+    "PesoLb": "157.6 lbs.\n",
+    "PesoKg": "71.5 kg\n",
+    "Cor": " Purple\n",
+    "Tipos": [
+      "Psychic",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#327",
+    "Nome": "Spinda",
+    "TamM": "1.1 m\n",
+    "PesoLb": "11.0 lbs.\n",
+    "PesoKg": "5.0 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Normal",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#324",
+    "Nome": "Torkoal",
+    "TamM": "0.5 m\n",
+    "PesoLb": "177.3 lbs.\n",
+    "PesoKg": "80.4 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Fire",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#325",
+    "Nome": "Spoink",
+    "TamM": "0.7 m\n",
+    "PesoLb": "67.5 lbs.\n",
+    "PesoKg": "30.6 kg\n",
+    "Cor": " Black\n",
+    "Tipos": [
+      "Psychic",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#322",
+    "Nome": "Numel",
+    "TamM": "0.7 m\n",
+    "PesoLb": "52.9 lbs.\n",
+    "PesoKg": "24.0 kg\n",
+    "Cor": " Yellow\n",
+    "Tipos": [
+      "Fire",
+      "Ground"
+    ]
+  },
+  {
+    "Num": "#323",
+    "Nome": "Camerupt",
+    "TamM": "1.9 m\n",
+    "PesoLb": "485.0 lbs.\n",
+    "PesoKg": "220.0 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Fire",
+      "Ground"
+    ]
+  },
+  {
+    "Num": "#321",
+    "Nome": "Wailord",
+    "TamM": "14.5 m\n",
+    "PesoLb": "877.4 lbs.\n",
+    "PesoKg": "398.0 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Water",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#319",
+    "Nome": "Sharpedo",
+    "TamM": "1.8 m\n",
+    "PesoLb": "195.8 lbs.\n",
+    "PesoKg": "88.8 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Water",
+      "Dark"
+    ]
+  },
+  {
+    "Num": "#320",
+    "Nome": "Wailmer",
+    "TamM": "2.0 m\n",
+    "PesoLb": "286.6 lbs.\n",
+    "PesoKg": "130.0 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Water",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#318",
+    "Nome": "Carvanha",
+    "TamM": "0.8 m\n",
+    "PesoLb": "45.9 lbs.\n",
+    "PesoKg": "20.8 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Water",
+      "Dark"
+    ]
+  },
+  {
+    "Num": "#317",
+    "Nome": "Swalot",
+    "TamM": "1.7 m\n",
+    "PesoLb": "176.4 lbs.\n",
+    "PesoKg": "80.0 kg\n",
+    "Cor": " Purple\n",
+    "Tipos": [
+      "Poison",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#316",
+    "Nome": "Gulpin",
+    "TamM": "0.4 m\n",
+    "PesoLb": "22.7 lbs.\n",
+    "PesoKg": "10.3 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Poison",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#315",
+    "Nome": "Roselia",
+    "TamM": "0.3 m\n",
+    "PesoLb": "4.4 lbs.\n",
+    "PesoKg": "2.0 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Grass",
+      "Poison"
+    ]
+  },
+  {
+    "Num": "#314",
+    "Nome": "Illumise",
+    "TamM": "0.6 m\n",
+    "PesoLb": "39.0 lbs.\n",
+    "PesoKg": "17.7 kg\n",
+    "Cor": " Purple\n",
+    "Tipos": [
+      "Bug",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#313",
+    "Nome": "Volbeat",
+    "TamM": "0.7 m\n",
+    "PesoLb": "39.0 lbs.\n",
+    "PesoKg": "17.7 kg\n",
+    "Cor": " Gray\n",
+    "Tipos": [
+      "Bug",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#312",
+    "Nome": "Minun",
+    "TamM": "0.4 m\n",
+    "PesoLb": "9.3 lbs.\n",
+    "PesoKg": "4.2 kg\n",
+    "Cor": " Yellow\n",
+    "Tipos": [
+      "Electric",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#310",
+    "Nome": "Manectric",
+    "TamM": "1.5 m\n",
+    "PesoLb": "88.6 lbs.\n",
+    "PesoKg": "40.2 kg\n",
+    "Cor": " Yellow\n",
+    "Tipos": [
+      "Electric",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#311",
+    "Nome": "Plusle",
+    "TamM": "0.4 m\n",
+    "PesoLb": "9.3 lbs.\n",
+    "PesoKg": "4.2 kg\n",
+    "Cor": " Yellow\n",
+    "Tipos": [
+      "Electric",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#309",
+    "Nome": "Electrike",
+    "TamM": "0.6 m\n",
+    "PesoLb": "33.5 lbs.\n",
+    "PesoKg": "15.2 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Electric",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#307",
+    "Nome": "Meditite",
+    "TamM": "0.6 m\n",
+    "PesoLb": "24.7 lbs.\n",
+    "PesoKg": "11.2 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Fighting",
+      "Psychic"
+    ]
+  },
+  {
+    "Num": "#308",
+    "Nome": "Medicham",
+    "TamM": "1.3 m\n",
+    "PesoLb": "69.4 lbs.\n",
+    "PesoKg": "31.5 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Fighting",
+      "Psychic"
+    ]
+  },
+  {
+    "Num": "#306",
+    "Nome": "Aggron",
+    "TamM": "2.1 m\n",
+    "PesoLb": "793.7 lbs.\n",
+    "PesoKg": "360.0 kg\n",
+    "Cor": " Gray\n",
+    "Tipos": [
+      "Steel",
+      "Rock"
+    ]
+  },
+  {
+    "Num": "#305",
+    "Nome": "Lairon",
+    "TamM": "0.9 m\n",
+    "PesoLb": "264.6 lbs.\n",
+    "PesoKg": "120.0 kg\n",
+    "Cor": " Gray\n",
+    "Tipos": [
+      "Steel",
+      "Rock"
+    ]
+  },
+  {
+    "Num": "#303",
+    "Nome": "Mawile",
+    "TamM": "0.6 m\n",
+    "PesoLb": "25.4 lbs.\n",
+    "PesoKg": "11.5 kg\n",
+    "Cor": " Black\n",
+    "Tipos": [
+      "Steel",
+      "Fairy"
+    ]
+  },
+  {
+    "Num": "#304",
+    "Nome": "Aron",
+    "TamM": "0.4 m\n",
+    "PesoLb": "132.3 lbs.\n",
+    "PesoKg": "60.0 kg\n",
+    "Cor": " Gray\n",
+    "Tipos": [
+      "Steel",
+      "Rock"
+    ]
+  },
+  {
+    "Num": "#302",
+    "Nome": "Sableye",
+    "TamM": "0.5 m\n",
+    "PesoLb": "24.3 lbs.\n",
+    "PesoKg": "11.0 kg\n",
+    "Cor": " Purple\n",
+    "Tipos": [
+      "Dark",
+      "Ghost"
+    ]
+  },
+  {
+    "Num": "#300",
+    "Nome": "Skitty",
+    "TamM": "0.6 m\n",
+    "PesoLb": "24.3 lbs.\n",
+    "PesoKg": "11.0 kg\n",
+    "Cor": " Pink\n",
+    "Tipos": [
+      "Normal",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#301",
+    "Nome": "Delcatty",
+    "TamM": "1.1 m\n",
+    "PesoLb": "71.9 lbs.\n",
+    "PesoKg": "32.6 kg\n",
+    "Cor": " Purple\n",
+    "Tipos": [
+      "Normal",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#299",
+    "Nome": "Nosepass",
+    "TamM": "1.0 m\n",
+    "PesoLb": "213.8 lbs.\n",
+    "PesoKg": "97.0 kg\n",
+    "Cor": " Gray\n",
+    "Tipos": [
+      "Rock",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#298",
+    "Nome": "Azurill",
+    "TamM": "0.2 m\n",
+    "PesoLb": "4.4 lbs.\n",
+    "PesoKg": "2.0 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Normal",
+      "Fairy"
+    ]
+  },
+  {
+    "Num": "#297",
+    "Nome": "Hariyama",
+    "TamM": "2.3 m\n",
+    "PesoLb": "559.5 lbs.\n",
+    "PesoKg": "253.8 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Fighting",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#296",
+    "Nome": "Makuhita",
+    "TamM": "1.0 m\n",
+    "PesoLb": "190.5 lbs.\n",
+    "PesoKg": "86.4 kg\n",
+    "Cor": " Yellow\n",
+    "Tipos": [
+      "Fighting",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#295",
+    "Nome": "Exploud",
+    "TamM": "1.5 m\n",
+    "PesoLb": "185.2 lbs.\n",
+    "PesoKg": "84.0 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Normal",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#294",
+    "Nome": "Loudred",
+    "TamM": "1.0 m\n",
+    "PesoLb": "89.3 lbs.\n",
+    "PesoKg": "40.5 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Normal",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#292",
+    "Nome": "Shedinja",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Bug",
+      "Ghost"
+    ]
+  },
+  {
+    "Num": "#293",
+    "Nome": "Whismur",
+    "TamM": "0.6 m\n",
+    "PesoLb": "35.9 lbs.\n",
+    "PesoKg": "16.3 kg\n",
+    "Cor": " Pink\n",
+    "Tipos": [
+      "Normal",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#291",
+    "Nome": "Ninjask",
+    "TamM": "0.8 m\n",
+    "PesoLb": "26.5 lbs.\n",
+    "PesoKg": "12.0 kg\n",
+    "Cor": " Yellow\n",
+    "Tipos": [
+      "Bug",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#290",
+    "Nome": "Nincada",
+    "TamM": "0.5 m\n",
+    "PesoLb": "12.1 lbs.\n",
+    "PesoKg": "5.5 kg\n",
+    "Cor": " Gray\n",
+    "Tipos": [
+      "Bug",
+      "Ground"
+    ]
+  },
+  {
+    "Num": "#289",
+    "Nome": "Slaking",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Normal",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#288",
+    "Nome": "Vigoroth",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Normal",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#287",
+    "Nome": "Slakoth",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Normal",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#286",
+    "Nome": "Breloom",
+    "TamM": "1.2 m\n",
+    "PesoLb": "86.4 lbs.\n",
+    "PesoKg": "39.2 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Grass",
+      "Fighting"
+    ]
+  },
+  {
+    "Num": "#285",
+    "Nome": "Shroomish",
+    "TamM": "0.4 m\n",
+    "PesoLb": "9.9 lbs.\n",
+    "PesoKg": "4.5 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Grass",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#284",
+    "Nome": "Masquerain",
+    "TamM": "0.8 m\n",
+    "PesoLb": "7.9 lbs.\n",
+    "PesoKg": "3.6 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Bug",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#282",
+    "Nome": "Gardevoir",
+    "TamM": "1.6 m\n",
+    "PesoLb": "106.7 lbs.\n",
+    "PesoKg": "48.4 kg\n",
+    "Cor": " White\n",
+    "Tipos": [
+      "Psychic",
+      "Fairy"
+    ]
+  },
+  {
+    "Num": "#283",
+    "Nome": "Surskit",
+    "TamM": "0.5 m\n",
+    "PesoLb": "3.7 lbs.\n",
+    "PesoKg": "1.7 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Bug",
+      "Water"
+    ]
+  },
+  {
+    "Num": "#281",
+    "Nome": "Kirlia",
+    "TamM": "0.8 m\n",
+    "PesoLb": "44.5 lbs.\n",
+    "PesoKg": "20.2 kg\n",
+    "Cor": " White\n",
+    "Tipos": [
+      "Psychic",
+      "Fairy"
+    ]
+  },
+  {
+    "Num": "#280",
+    "Nome": "Ralts",
+    "TamM": "0.4 m\n",
+    "PesoLb": "14.6 lbs.\n",
+    "PesoKg": "6.6 kg\n",
+    "Cor": " White\n",
+    "Tipos": [
+      "Psychic",
+      "Fairy"
+    ]
+  },
+  {
+    "Num": "#279",
+    "Nome": "Pelipper",
+    "TamM": "1.2 m\n",
+    "PesoLb": "61.7 lbs.\n",
+    "PesoKg": "28.0 kg\n",
+    "Cor": " Yellow\n",
+    "Tipos": [
+      "Water",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#278",
+    "Nome": "Wingull",
+    "TamM": "0.6 m\n",
+    "PesoLb": "20.9 lbs.\n",
+    "PesoKg": "9.5 kg\n",
+    "Cor": " White\n",
+    "Tipos": [
+      "Water",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#276",
+    "Nome": "Taillow",
+    "TamM": "0.3 m\n",
+    "PesoLb": "5.1 lbs.\n",
+    "PesoKg": "2.3 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Normal",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#277",
+    "Nome": "Swellow",
+    "TamM": "0.7 m\n",
+    "PesoLb": "43.7 lbs.\n",
+    "PesoKg": "19.8 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Normal",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#275",
+    "Nome": "Shiftry",
+    "TamM": "1.3 m\n",
+    "PesoLb": "131.4 lbs.\n",
+    "PesoKg": "59.6 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Grass",
+      "Dark"
+    ]
+  },
+  {
+    "Num": "#274",
+    "Nome": "Nuzleaf",
+    "TamM": "1.0 m\n",
+    "PesoLb": "61.7 lbs.\n",
+    "PesoKg": "28.0 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Grass",
+      "Dark"
+    ]
+  },
+  {
+    "Num": "#273",
+    "Nome": "Seedot",
+    "TamM": "0.5 m\n",
+    "PesoLb": "8.8 lbs.\n",
+    "PesoKg": "4.0 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Grass",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#272",
+    "Nome": "Ludicolo",
+    "TamM": "1.5 m\n",
+    "PesoLb": "121.3 lbs.\n",
+    "PesoKg": "55.0 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Water",
+      "Grass"
+    ]
+  },
+  {
+    "Num": "#271",
+    "Nome": "Lombre",
+    "TamM": "1.2 m\n",
+    "PesoLb": "71.7 lbs.\n",
+    "PesoKg": "32.5 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Water",
+      "Grass"
+    ]
+  },
+  {
+    "Num": "#270",
+    "Nome": "Lotad",
+    "TamM": "0.5 m\n",
+    "PesoLb": "5.7 lbs.\n",
+    "PesoKg": "2.6 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Water",
+      "Grass"
+    ]
+  },
+  {
+    "Num": "#268",
+    "Nome": "Cascoon",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Bug",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#269",
+    "Nome": "Dustox",
+    "TamM": "1.2 m\n",
+    "PesoLb": "69.7 lbs.\n",
+    "PesoKg": "31.6 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Bug",
+      "Poison"
+    ]
+  },
+  {
+    "Num": "#267",
+    "Nome": "Beautifly",
+    "TamM": "1.0 m\n",
+    "PesoLb": "62.6 lbs.\n",
+    "PesoKg": "28.4 kg\n",
+    "Cor": " Yellow\n",
+    "Tipos": [
+      "Bug",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#266",
+    "Nome": "Silcoon",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Bug",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#265",
+    "Nome": "Wurmple",
+    "TamM": "0.3 m\n",
+    "PesoLb": "7.9 lbs.\n",
+    "PesoKg": "3.6 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Bug",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#264",
+    "Nome": "Linoone",
+    "TamM": "0.5 m\n",
+    "PesoLb": "71.7 lbs.\n",
+    "PesoKg": "32.5 kg\n",
+    "Cor": " White\n",
+    "Tipos": [
+      "Normal",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#263",
+    "Nome": "Zigzagoon",
+    "TamM": "0.4 m\n",
+    "PesoLb": "38.6 lbs.\n",
+    "PesoKg": "17.5 kg\n",
+    "Cor": " Brown",
+    "Tipos": [
+      "Normal",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#262",
+    "Nome": "Mightyena",
+    "TamM": "1.0 m\n",
+    "PesoLb": "81.6 lbs.\n",
+    "PesoKg": "37.0 kg\n",
+    "Cor": " Gray\n",
+    "Tipos": [
+      "Dark",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#261",
+    "Nome": "Poochyena",
+    "TamM": "0.5 m\n",
+    "PesoLb": "30.0 lbs.\n",
+    "PesoKg": "13.6 kg\n",
+    "Cor": " Gray\n",
+    "Tipos": [
+      "Dark",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#260",
+    "Nome": "Swampert",
+    "TamM": "1.5 m\n",
+    "PesoLb": "180.6 lbs.\n",
+    "PesoKg": "81.9 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Water",
+      "Ground"
+    ]
+  },
+  {
+    "Num": "#259",
+    "Nome": "Marshtomp",
+    "TamM": "0.7 m\n",
+    "PesoLb": "61.7 lbs.\n",
+    "PesoKg": "28.0 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Water",
+      "Ground"
+    ]
+  },
+  {
+    "Num": "#258",
+    "Nome": "Mudkip",
+    "TamM": "0.4 m\n",
+    "PesoLb": "16.8 lbs.\n",
+    "PesoKg": "7.6 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Water",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#257",
+    "Nome": "Blaziken",
+    "TamM": "1.9 m\n",
+    "PesoLb": "114.6 lbs.\n",
+    "PesoKg": "52.0 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Fire",
+      "Fighting"
+    ]
+  },
+  {
+    "Num": "#256",
+    "Nome": "Combusken",
+    "TamM": "0.9 m\n",
+    "PesoLb": "43.0 lbs.\n",
+    "PesoKg": "19.5 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Fire",
+      "Fighting"
+    ]
+  },
+  {
+    "Num": "#255",
+    "Nome": "Torchic",
+    "TamM": "0.4 m\n",
+    "PesoLb": "5.5 lbs.\n",
+    "PesoKg": "2.5 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Fire",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#254",
+    "Nome": "Sceptile",
+    "TamM": "1.7 m\n",
+    "PesoLb": "115.1 lbs.\n",
+    "PesoKg": "52.2 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Grass",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#253",
+    "Nome": "Grovyle",
+    "TamM": "0.9 m\n",
+    "PesoLb": "47.6 lbs.\n",
+    "PesoKg": "21.6 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Grass",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#252",
+    "Nome": "Treecko",
+    "TamM": "0.5 m\n",
+    "PesoLb": "11.0 lbs.\n",
+    "PesoKg": "5.0 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Grass",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#251",
+    "Nome": "Celebi",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Psychic",
+      "Grass"
+    ]
+  },
+  {
+    "Num": "#250",
+    "Nome": "Ho-Oh",
+    "TamM": "3.8 m\n",
+    "PesoLb": "438.7 lbs.\n",
+    "PesoKg": "199.0 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Fire",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#249",
+    "Nome": "Lugia",
+    "TamM": "5.2 m\n",
+    "PesoLb": "476.2 lbs.\n",
+    "PesoKg": "216.0 kg\n",
+    "Cor": " White\n",
+    "Tipos": [
+      "Psychic",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#248",
+    "Nome": "Tyranitar",
+    "TamM": "2.0 m\n",
+    "PesoLb": "445.3 lbs.\n",
+    "PesoKg": "202.0 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Rock",
+      "Dark"
+    ]
+  },
+  {
+    "Num": "#247",
+    "Nome": "Pupitar",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Rock",
+      "Ground"
+    ]
+  },
+  {
+    "Num": "#246",
+    "Nome": "Larvitar",
+    "TamM": "0.6 m\n",
+    "PesoLb": "158.7 lbs.\n",
+    "PesoKg": "72.0 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Rock",
+      "Ground"
+    ]
+  },
+  {
+    "Num": "#245",
+    "Nome": "Suicune",
+    "TamM": "2.0 m\n",
+    "PesoLb": "412.3 lbs.\n",
+    "PesoKg": "187.0 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Water",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#244",
+    "Nome": "Entei",
+    "TamM": "2.1 m\n",
+    "PesoLb": "436.5 lbs.\n",
+    "PesoKg": "198.0 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Fire",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#243",
+    "Nome": "Raikou",
+    "TamM": "1.9 m\n",
+    "PesoLb": "392.4 lbs.\n",
+    "PesoKg": "178.0 kg\n",
+    "Cor": " Yellow\n",
+    "Tipos": [
+      "Electric",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#242",
+    "Nome": "Blissey",
+    "TamM": "1.5 m\n",
+    "PesoLb": "103.2 lbs.\n",
+    "PesoKg": "46.8 kg\n",
+    "Cor": " Pink\n",
+    "Tipos": [
+      "Normal",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#241",
+    "Nome": "Miltank",
+    "TamM": "1.2 m\n",
+    "PesoLb": "166.4 lbs.\n",
+    "PesoKg": "75.5 kg\n",
+    "Cor": " Pink\n",
+    "Tipos": [
+      "Normal",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#240",
+    "Nome": "Magby",
+    "TamM": "0.7 m\n",
+    "PesoLb": "47.2 lbs.\n",
+    "PesoKg": "21.4 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Fire",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#239",
+    "Nome": "Elekid",
+    "TamM": "0.6 m\n",
+    "PesoLb": "51.8 lbs.\n",
+    "PesoKg": "23.5 kg\n",
+    "Cor": " Yellow\n",
+    "Tipos": [
+      "Electric",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#238",
+    "Nome": "Smoochum",
+    "TamM": "0.4 m\n",
+    "PesoLb": "13.2 lbs.\n",
+    "PesoKg": "6.0 kg\n",
+    "Cor": " Pink\n",
+    "Tipos": [
+      "Ice",
+      "Psychic"
+    ]
+  },
+  {
+    "Num": "#237",
+    "Nome": "Hitmontop",
+    "TamM": "1.4 m\n",
+    "PesoLb": "105.8 lbs.\n",
+    "PesoKg": "48.0 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Fighting",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#236",
+    "Nome": "Tyrogue",
+    "TamM": "0.7 m\n",
+    "PesoLb": "46.3 lbs.\n",
+    "PesoKg": "21.0 kg\n",
+    "Cor": " Purple\n",
+    "Tipos": [
+      "Fighting",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#235",
+    "Nome": "Smeargle",
+    "TamM": "1.2 m\n",
+    "PesoLb": "127.9 lbs.\n",
+    "PesoKg": "58.0 kg\n",
+    "Cor": " White\n",
+    "Tipos": [
+      "Normal",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#234",
+    "Nome": "Stantler",
+    "TamM": "1.4 m\n",
+    "PesoLb": "157.0 lbs.\n",
+    "PesoKg": "71.2 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Normal",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#233",
+    "Nome": "Porygon2",
+    "TamM": "0.6 m\n",
+    "PesoLb": "71.7 lbs.\n",
+    "PesoKg": "32.5 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Normal",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#232",
+    "Nome": "Donphan",
+    "TamM": "1.1 m\n",
+    "PesoLb": "264.6 lbs.\n",
+    "PesoKg": "120.0 kg\n",
+    "Cor": " Gray\n",
+    "Tipos": [
+      "Ground",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#231",
+    "Nome": "Phanpy",
+    "TamM": "0.5 m\n",
+    "PesoLb": "73.9 lbs.\n",
+    "PesoKg": "33.5 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Ground",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#230",
+    "Nome": "Kingdra",
+    "TamM": "1.8 m\n",
+    "PesoLb": "335.1 lbs.\n",
+    "PesoKg": "152.0 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Water",
+      "Dragon"
+    ]
+  },
+  {
+    "Num": "#229",
+    "Nome": "Houndoom",
+    "TamM": "1.4 m\n",
+    "PesoLb": "77.2 lbs.\n",
+    "PesoKg": "35.0 kg\n",
+    "Cor": " Black\n",
+    "Tipos": [
+      "Dark",
+      "Fire"
+    ]
+  },
+  {
+    "Num": "#228",
+    "Nome": "Houndour",
+    "TamM": "0.6 m\n",
+    "PesoLb": "23.8 lbs.\n",
+    "PesoKg": "10.8 kg\n",
+    "Cor": " Black\n",
+    "Tipos": [
+      "Dark",
+      "Fire"
+    ]
+  },
+  {
+    "Num": "#227",
+    "Nome": "Skarmory",
+    "TamM": "1.7 m\n",
+    "PesoLb": "111.3 lbs.\n",
+    "PesoKg": "50.5 kg\n",
+    "Cor": " Gray\n",
+    "Tipos": [
+      "Steel",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#226",
+    "Nome": "Mantine",
+    "TamM": "2.1 m\n",
+    "PesoLb": "485.0 lbs.\n",
+    "PesoKg": "220.0 kg\n",
+    "Cor": " Purple\n",
+    "Tipos": [
+      "Water",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#225",
+    "Nome": "Delibird",
+    "TamM": "0.9 m\n",
+    "PesoLb": "35.3 lbs.\n",
+    "PesoKg": "16.0 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Ice",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#223",
+    "Nome": "Remoraid",
+    "TamM": "0.6 m\n",
+    "PesoLb": "26.5 lbs.\n",
+    "PesoKg": "12.0 kg\n",
+    "Cor": " Gray\n",
+    "Tipos": [
+      "Water",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#224",
+    "Nome": "Octillery",
+    "TamM": "0.9 m\n",
+    "PesoLb": "62.8 lbs.\n",
+    "PesoKg": "28.5 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Water",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#222",
+    "Nome": "Corsola",
+    "TamM": "0.6 m\n",
+    "PesoLb": "11.0 lbs.\n",
+    "PesoKg": "5.0 kg\n",
+    "Cor": " Pink",
+    "Tipos": [
+      "Water",
+      "Rock"
+    ]
+  },
+  {
+    "Num": "#221",
+    "Nome": "Piloswine",
+    "TamM": "1.1 m\n",
+    "PesoLb": "123.0 lbs.\n",
+    "PesoKg": "55.8 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Ice",
+      "Ground"
+    ]
+  },
+  {
+    "Num": "#218",
+    "Nome": "Slugma",
+    "TamM": "0.7 m\n",
+    "PesoLb": "77.2 lbs.\n",
+    "PesoKg": "35.0 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Fire",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#220",
+    "Nome": "Swinub",
+    "TamM": "0.4 m\n",
+    "PesoLb": "14.3 lbs.\n",
+    "PesoKg": "6.5 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Ice",
+      "Ground"
+    ]
+  },
+  {
+    "Num": "#219",
+    "Nome": "Magcargo",
+    "TamM": "0.8 m\n",
+    "PesoLb": "121.3 lbs.\n",
+    "PesoKg": "55.0 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Fire",
+      "Rock"
+    ]
+  },
+  {
+    "Num": "#217",
+    "Nome": "Ursaring",
+    "TamM": "1.8 m\n",
+    "PesoLb": "277.3 lbs.\n",
+    "PesoKg": "125.8 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Normal",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#216",
+    "Nome": "Teddiursa",
+    "TamM": "0.6 m\n",
+    "PesoLb": "19.4 lbs.\n",
+    "PesoKg": "8.8 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Normal",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#215",
+    "Nome": "Sneasel",
+    "TamM": "0.9 m\n",
+    "PesoLb": "61.7 lbs.\n",
+    "PesoKg": "28.0 kg\n",
+    "Cor": " Black\n",
+    "Tipos": [
+      "Dark",
+      "Ice"
+    ]
+  },
+  {
+    "Num": "#214",
+    "Nome": "Heracross",
+    "TamM": "1.5 m\n",
+    "PesoLb": "119.0 lbs.\n",
+    "PesoKg": "54.0 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Bug",
+      "Fighting"
+    ]
+  },
+  {
+    "Num": "#213",
+    "Nome": "Shuckle",
+    "TamM": "0.6 m\n",
+    "PesoLb": "45.2 lbs.\n",
+    "PesoKg": "20.5 kg\n",
+    "Cor": " Yellow\n",
+    "Tipos": [
+      "Bug",
+      "Rock"
+    ]
+  },
+  {
+    "Num": "#212",
+    "Nome": "Scizor",
+    "TamM": "1.8 m\n",
+    "PesoLb": "260.1 lbs.\n",
+    "PesoKg": "118.0 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Bug",
+      "Steel"
+    ]
+  },
+  {
+    "Num": "#211",
+    "Nome": "Qwilfish",
+    "TamM": "0.5 m\n",
+    "PesoLb": "8.6 lbs.\n",
+    "PesoKg": "3.9 kg\n",
+    "Cor": " Gray\n",
+    "Tipos": [
+      "Water",
+      "Poison"
+    ]
+  },
+  {
+    "Num": "#210",
+    "Nome": "Granbull",
+    "TamM": "1.4 m\n",
+    "PesoLb": "107.4 lbs.\n",
+    "PesoKg": "48.7 kg\n",
+    "Cor": " Purple\n",
+    "Tipos": [
+      "Fairy",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#209",
+    "Nome": "Snubbull",
+    "TamM": "0.6 m\n",
+    "PesoLb": "17.2 lbs.\n",
+    "PesoKg": "7.8 kg\n",
+    "Cor": " Pink\n",
+    "Tipos": [
+      "Fairy",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#208",
+    "Nome": "Steelix",
+    "TamM": "9.2 m\n",
+    "PesoLb": "881.8 lbs.\n",
+    "PesoKg": "400.0 kg\n",
+    "Cor": " Gray\n",
+    "Tipos": [
+      "Steel",
+      "Ground"
+    ]
+  },
+  {
+    "Num": "#207",
+    "Nome": "Gligar",
+    "TamM": "1.1 m\n",
+    "PesoLb": "142.9 lbs.\n",
+    "PesoKg": "64.8 kg\n",
+    "Cor": " Purple\n",
+    "Tipos": [
+      "Ground",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#206",
+    "Nome": "Dunsparce",
+    "TamM": "1.5 m\n",
+    "PesoLb": "30.9 lbs.\n",
+    "PesoKg": "14.0 kg\n",
+    "Cor": " Yellow\n",
+    "Tipos": [
+      "Normal",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#205",
+    "Nome": "Forretress",
+    "TamM": "1.2 m\n",
+    "PesoLb": "277.3 lbs.\n",
+    "PesoKg": "125.8 kg\n",
+    "Cor": " Purple\n",
+    "Tipos": [
+      "Bug",
+      "Steel"
+    ]
+  },
+  {
+    "Num": "#204",
+    "Nome": "Pineco",
+    "TamM": "0.6 m\n",
+    "PesoLb": "15.9 lbs.\n",
+    "PesoKg": "7.2 kg\n",
+    "Cor": " Gray\n",
+    "Tipos": [
+      "Bug",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#203",
+    "Nome": "Girafarig",
+    "TamM": "1.5 m\n",
+    "PesoLb": "91.5 lbs.\n",
+    "PesoKg": "41.5 kg\n",
+    "Cor": " Yellow\n",
+    "Tipos": [
+      "Normal",
+      "Psychic"
+    ]
+  },
+  {
+    "Num": "#202",
+    "Nome": "Wobbuffet",
+    "TamM": "1.3 m\n",
+    "PesoLb": "62.8 lbs.\n",
+    "PesoKg": "28.5 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Psychic",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#201",
+    "Nome": "Unown",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Psychic",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#200",
+    "Nome": "Misdreavus",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Ghost",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#199",
+    "Nome": "Slowking",
+    "TamM": "2.0 m\n",
+    "PesoLb": "175.3 lbs.\n",
+    "PesoKg": "79.5 kg\n",
+    "Cor": " Pink\n",
+    "Tipos": [
+      "Water",
+      "Psychic"
+    ]
+  },
+  {
+    "Num": "#198",
+    "Nome": "Murkrow",
+    "TamM": "0.5 m\n",
+    "PesoLb": "4.6 lbs.\n",
+    "PesoKg": "2.1 kg\n",
+    "Cor": " Black\n",
+    "Tipos": [
+      "Dark",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#196",
+    "Nome": "Espeon",
+    "TamM": "0.9 m\n",
+    "PesoLb": "58.4 lbs.\n",
+    "PesoKg": "26.5 kg\n",
+    "Cor": " Purple\n",
+    "Tipos": [
+      "Psychic",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#197",
+    "Nome": "Umbreon",
+    "TamM": "1.0 m\n",
+    "PesoLb": "59.5 lbs.\n",
+    "PesoKg": "27.0 kg\n",
+    "Cor": " Black\n",
+    "Tipos": [
+      "Dark",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#194",
+    "Nome": "Wooper",
+    "TamM": "0.4 m\n",
+    "PesoLb": "18.7 lbs.\n",
+    "PesoKg": "8.5 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Water",
+      "Ground"
+    ]
+  },
+  {
+    "Num": "#195",
+    "Nome": "Quagsire",
+    "TamM": "1.4 m\n",
+    "PesoLb": "165.3 lbs.\n",
+    "PesoKg": "75.0 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Water",
+      "Ground"
+    ]
+  },
+  {
+    "Num": "#193",
+    "Nome": "Yanma",
+    "TamM": "1.2 m\n",
+    "PesoLb": "83.8 lbs.\n",
+    "PesoKg": "38.0 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Bug",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#192",
+    "Nome": "Sunflora",
+    "TamM": "0.8 m\n",
+    "PesoLb": "18.7 lbs.\n",
+    "PesoKg": "8.5 kg\n",
+    "Cor": " Yellow\n",
+    "Tipos": [
+      "Grass",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#191",
+    "Nome": "Sunkern",
+    "TamM": "0.3 m\n",
+    "PesoLb": "4.0 lbs.\n",
+    "PesoKg": "1.8 kg\n",
+    "Cor": " Yellow\n",
+    "Tipos": [
+      "Grass",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#190",
+    "Nome": "Aipom",
+    "TamM": "0.8 m\n",
+    "PesoLb": "25.4 lbs.\n",
+    "PesoKg": "11.5 kg\n",
+    "Cor": " Purple\n",
+    "Tipos": [
+      "Normal",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#189",
+    "Nome": "Jumpluff",
+    "TamM": "0.8 m\n",
+    "PesoLb": "6.6 lbs.\n",
+    "PesoKg": "3.0 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Grass",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#188",
+    "Nome": "Skiploom",
+    "TamM": "0.6 m\n",
+    "PesoLb": "2.2 lbs.\n",
+    "PesoKg": "1.0 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Grass",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#187",
+    "Nome": "Hoppip",
+    "TamM": "0.4 m\n",
+    "PesoLb": "1.1 lbs.\n",
+    "PesoKg": "0.5 kg\n",
+    "Cor": " Pink\n",
+    "Tipos": [
+      "Grass",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#186",
+    "Nome": "Politoed",
+    "TamM": "1.1 m\n",
+    "PesoLb": "74.7 lbs.\n",
+    "PesoKg": "33.9 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Water",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#185",
+    "Nome": "Sudowoodo",
+    "TamM": "1.2 m\n",
+    "PesoLb": "83.8 lbs.\n",
+    "PesoKg": "38.0 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Rock",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#184",
+    "Nome": "Azumarill",
+    "TamM": "0.8 m\n",
+    "PesoLb": "62.8 lbs.\n",
+    "PesoKg": "28.5 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Water",
+      "Fairy"
+    ]
+  },
+  {
+    "Num": "#183",
+    "Nome": "Marill",
+    "TamM": "0.4 m\n",
+    "PesoLb": "18.7 lbs.\n",
+    "PesoKg": "8.5 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Water",
+      "Fairy"
+    ]
+  },
+  {
+    "Num": "#182",
+    "Nome": "Bellossom",
+    "TamM": "0.4 m\n",
+    "PesoLb": "12.8 lbs.\n",
+    "PesoKg": "5.8 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Grass",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#181",
+    "Nome": "Ampharos",
+    "TamM": "1.4 m\n",
+    "PesoLb": "135.6 lbs.\n",
+    "PesoKg": "61.5 kg\n",
+    "Cor": " Yellow\n",
+    "Tipos": [
+      "Electric",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#180",
+    "Nome": "Flaaffy",
+    "TamM": "0.8 m\n",
+    "PesoLb": "29.3 lbs.\n",
+    "PesoKg": "13.3 kg\n",
+    "Cor": " Pink\n",
+    "Tipos": [
+      "Electric",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#179",
+    "Nome": "Mareep",
+    "TamM": "0.6 m\n",
+    "PesoLb": "17.2 lbs.\n",
+    "PesoKg": "7.8 kg\n",
+    "Cor": " White\n",
+    "Tipos": [
+      "Electric",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#178",
+    "Nome": "Xatu",
+    "TamM": "1.5 m\n",
+    "PesoLb": "33.1 lbs.\n",
+    "PesoKg": "15.0 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Psychic",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#177",
+    "Nome": "Natu",
+    "TamM": "0.2 m\n",
+    "PesoLb": "4.4 lbs.\n",
+    "PesoKg": "2.0 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Psychic",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#176",
+    "Nome": "Togetic",
+    "TamM": "0.6 m\n",
+    "PesoLb": "7.1 lbs.\n",
+    "PesoKg": "3.2 kg\n",
+    "Cor": " White\n",
+    "Tipos": [
+      "Fairy",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#175",
+    "Nome": "Togepi",
+    "TamM": "0.3 m\n",
+    "PesoLb": "3.3 lbs.\n",
+    "PesoKg": "1.5 kg\n",
+    "Cor": " White\n",
+    "Tipos": [
+      "Fairy",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#174",
+    "Nome": "Igglybuff",
+    "TamM": "0.3 m\n",
+    "PesoLb": "2.2 lbs.\n",
+    "PesoKg": "1.0 kg\n",
+    "Cor": " Pink\n",
+    "Tipos": [
+      "Normal",
+      "Fairy"
+    ]
+  },
+  {
+    "Num": "#173",
+    "Nome": "Cleffa",
+    "TamM": "0.3 m\n",
+    "PesoLb": "6.6 lbs.\n",
+    "PesoKg": "3.0 kg\n",
+    "Cor": " Pink\n",
+    "Tipos": [
+      "Fairy",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#171",
+    "Nome": "Lanturn",
+    "TamM": "1.2 m\n",
+    "PesoLb": "49.6 lbs.\n",
+    "PesoKg": "22.5 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Water",
+      "Electric"
+    ]
+  },
+  {
+    "Num": "#172",
+    "Nome": "Pichu",
+    "TamM": "0.3 m\n",
+    "PesoLb": "4.4 lbs.\n",
+    "PesoKg": "2.0 kg\n",
+    "Cor": " Yellow\n",
+    "Tipos": [
+      "Electric",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#170",
+    "Nome": "Chinchou",
+    "TamM": "0.5 m\n",
+    "PesoLb": "26.5 lbs.\n",
+    "PesoKg": "12.0 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Water",
+      "Electric"
+    ]
+  },
+  {
+    "Num": "#169",
+    "Nome": "Crobat",
+    "TamM": "1.8 m\n",
+    "PesoLb": "165.3 lbs.\n",
+    "PesoKg": "75.0 kg\n",
+    "Cor": " Purple\n",
+    "Tipos": [
+      "Poison",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#168",
+    "Nome": "Ariados",
+    "TamM": "1.1 m\n",
+    "PesoLb": "73.9 lbs.\n",
+    "PesoKg": "33.5 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Bug",
+      "Poison"
+    ]
+  },
+  {
+    "Num": "#167",
+    "Nome": "Spinarak",
+    "TamM": "0.5 m\n",
+    "PesoLb": "18.7 lbs.\n",
+    "PesoKg": "8.5 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Bug",
+      "Poison"
+    ]
+  },
+  {
+    "Num": "#166",
+    "Nome": "Ledian",
+    "TamM": "1.4 m\n",
+    "PesoLb": "78.5 lbs.\n",
+    "PesoKg": "35.6 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Bug",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#165",
+    "Nome": "Ledyba",
+    "TamM": "1.0 m\n",
+    "PesoLb": "23.8 lbs.\n",
+    "PesoKg": "10.8 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Bug",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#164",
+    "Nome": "Noctowl",
+    "TamM": "1.6 m\n",
+    "PesoLb": "89.9 lbs.\n",
+    "PesoKg": "40.8 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Normal",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#163",
+    "Nome": "Hoothoot",
+    "TamM": "0.7 m\n",
+    "PesoLb": "46.7 lbs.\n",
+    "PesoKg": "21.2 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Normal",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#162",
+    "Nome": "Furret",
+    "TamM": "1.8 m\n",
+    "PesoLb": "71.7 lbs.\n",
+    "PesoKg": "32.5 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Normal",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#161",
+    "Nome": "Sentret",
+    "TamM": "0.8 m\n",
+    "PesoLb": "13.2 lbs.\n",
+    "PesoKg": "6.0 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Normal",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#160",
+    "Nome": "Feraligatr",
+    "TamM": "2.3 m\n",
+    "PesoLb": "195.8 lbs.\n",
+    "PesoKg": "88.8 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Water",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#159",
+    "Nome": "Croconaw",
+    "TamM": "1.1 m\n",
+    "PesoLb": "55.1 lbs.\n",
+    "PesoKg": "25.0 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Water",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#158",
+    "Nome": "Totodile",
+    "TamM": "0.6 m\n",
+    "PesoLb": "20.9 lbs.\n",
+    "PesoKg": "9.5 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Water",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#157",
+    "Nome": "Typhlosion",
+    "TamM": "1.7 m\n",
+    "PesoLb": "175.3 lbs.\n",
+    "PesoKg": "79.5 kg\n",
+    "Cor": " Yellow\n",
+    "Tipos": [
+      "Fire",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#155",
+    "Nome": "Cyndaquil",
+    "TamM": "0.5 m\n",
+    "PesoLb": "17.4 lbs.\n",
+    "PesoKg": "7.9 kg\n",
+    "Cor": " Yellow\n",
+    "Tipos": [
+      "Fire",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#154",
+    "Nome": "Meganium",
+    "TamM": "1.8 m\n",
+    "PesoLb": "221.6 lbs.\n",
+    "PesoKg": "100.5 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Grass",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#156",
+    "Nome": "Quilava",
+    "TamM": "0.9 m\n",
+    "PesoLb": "41.9 lbs.\n",
+    "PesoKg": "19.0 kg\n",
+    "Cor": " Yellow\n",
+    "Tipos": [
+      "Fire",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#153",
+    "Nome": "Bayleef",
+    "TamM": "1.2 m\n",
+    "PesoLb": "34.8 lbs.\n",
+    "PesoKg": "15.8 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Grass",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#152",
+    "Nome": "Chikorita",
+    "TamM": "0.9 m\n",
+    "PesoLb": "14.1 lbs.\n",
+    "PesoKg": "6.4 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Grass",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#150",
+    "Nome": "Mewtwo",
+    "TamM": "2.0 m\n",
+    "PesoLb": "269.0 lbs.\n",
+    "PesoKg": "122.0 kg\n",
+    "Cor": " Purple\n",
+    "Tipos": [
+      "Psychic",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#151",
+    "Nome": "Mew",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Psychic",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#149",
+    "Nome": "Dragonite",
+    "TamM": "2.2 m\n",
+    "PesoLb": "463.0 lbs.\n",
+    "PesoKg": "210.0 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Dragon",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#148",
+    "Nome": "Dragonair",
+    "TamM": "4.0 m\n",
+    "PesoLb": "36.4 lbs.\n",
+    "PesoKg": "16.5 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Dragon",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#147",
+    "Nome": "Dratini",
+    "TamM": "1.8 m\n",
+    "PesoLb": "7.3 lbs.\n",
+    "PesoKg": "3.3 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Dragon",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#146",
+    "Nome": "Moltres",
+    "TamM": "2.0 m\n",
+    "PesoLb": "132.3 lbs.\n",
+    "PesoKg": "60.0 kg\n",
+    "Cor": " Yellow",
+    "Tipos": [
+      "Fire",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#145",
+    "Nome": "Zapdos",
+    "TamM": "1.6 m\n",
+    "PesoLb": "116.0 lbs.\n",
+    "PesoKg": "52.6 kg\n",
+    "Cor": " Yellow\n",
+    "Tipos": [
+      "Electric",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#144",
+    "Nome": "Articuno",
+    "TamM": "1.7 m\n",
+    "PesoLb": "122.1 lbs.\n",
+    "PesoKg": "55.4 kg\n",
+    "Cor": " Blue",
+    "Tipos": [
+      "Ice",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#143",
+    "Nome": "Snorlax",
+    "TamM": "2.1 m\n",
+    "PesoLb": "1014.1 lbs.\n",
+    "PesoKg": "460.0 kg\n",
+    "Cor": " Black\n",
+    "Tipos": [
+      "Normal",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#142",
+    "Nome": "Aerodactyl",
+    "TamM": "1.8 m\n",
+    "PesoLb": "130.1 lbs.\n",
+    "PesoKg": "59.0 kg\n",
+    "Cor": " Purple\n",
+    "Tipos": [
+      "Rock",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#141",
+    "Nome": "Kabutops",
+    "TamM": "1.3 m\n",
+    "PesoLb": "89.3 lbs.\n",
+    "PesoKg": "40.5 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Rock",
+      "Water"
+    ]
+  },
+  {
+    "Num": "#140",
+    "Nome": "Kabuto",
+    "TamM": "0.5 m\n",
+    "PesoLb": "25.4 lbs.\n",
+    "PesoKg": "11.5 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Rock",
+      "Water"
+    ]
+  },
+  {
+    "Num": "#139",
+    "Nome": "Omastar",
+    "TamM": "1.0 m\n",
+    "PesoLb": "77.2 lbs.\n",
+    "PesoKg": "35.0 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Rock",
+      "Water"
+    ]
+  },
+  {
+    "Num": "#138",
+    "Nome": "Omanyte",
+    "TamM": "0.4 m\n",
+    "PesoLb": "16.5 lbs.\n",
+    "PesoKg": "7.5 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Rock",
+      "Water"
+    ]
+  },
+  {
+    "Num": "#137",
+    "Nome": "Porygon",
+    "TamM": "0.8 m\n",
+    "PesoLb": "80.5 lbs.\n",
+    "PesoKg": "36.5 kg\n",
+    "Cor": " Pink\n",
+    "Tipos": [
+      "Normal",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#136",
+    "Nome": "Flareon",
+    "TamM": "0.9 m\n",
+    "PesoLb": "55.1 lbs.\n",
+    "PesoKg": "25.0 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Fire",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#135",
+    "Nome": "Jolteon",
+    "TamM": "0.8 m\n",
+    "PesoLb": "54.0 lbs.\n",
+    "PesoKg": "24.5 kg\n",
+    "Cor": " Yellow\n",
+    "Tipos": [
+      "Electric",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#128",
+    "Nome": "Tauros",
+    "TamM": "1.4 m\n",
+    "PesoLb": "194.9 lbs.\n",
+    "PesoKg": "88.4 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Normal",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#134",
+    "Nome": "Vaporeon",
+    "TamM": "1.0 m\n",
+    "PesoLb": "63.9 lbs.\n",
+    "PesoKg": "29.0 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Water",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#132",
+    "Nome": "Ditto",
+    "TamM": "0.3 m\n",
+    "PesoLb": "8.8 lbs.\n",
+    "PesoKg": "4.0 kg\n",
+    "Cor": " Purple\n",
+    "Tipos": [
+      "Normal",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#131",
+    "Nome": "Lapras",
+    "TamM": "2.5 m\n",
+    "PesoLb": "485.0 lbs.\n",
+    "PesoKg": "220.0 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Water",
+      "Ice"
+    ]
+  },
+  {
+    "Num": "#127",
+    "Nome": "Pinsir",
+    "TamM": "1.5 m\n",
+    "PesoLb": "121.3 lbs.\n",
+    "PesoKg": "55.0 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Bug",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#133",
+    "Nome": "Eevee",
+    "TamM": "0.3 m\n",
+    "PesoLb": "14.3 lbs.\n",
+    "PesoKg": "6.5 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Normal",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#130",
+    "Nome": "Gyarados",
+    "TamM": "6.5 m\n",
+    "PesoLb": "518.1 lbs.\n",
+    "PesoKg": "235.0 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Water",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#129",
+    "Nome": "Magikarp",
+    "TamM": "0.9 m\n",
+    "PesoLb": "22.0 lbs.\n",
+    "PesoKg": "10.0 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Water",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#126",
+    "Nome": "Magmar",
+    "TamM": "1.3 m\n",
+    "PesoLb": "98.1 lbs.\n",
+    "PesoKg": "44.5 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Fire",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#125",
+    "Nome": "Electabuzz",
+    "TamM": "1.1 m\n",
+    "PesoLb": "66.1 lbs.\n",
+    "PesoKg": "30.0 kg\n",
+    "Cor": " Yellow\n",
+    "Tipos": [
+      "Electric",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#124",
+    "Nome": "Jynx",
+    "TamM": "1.4 m\n",
+    "PesoLb": "89.5 lbs.\n",
+    "PesoKg": "40.6 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Ice",
+      "Psychic"
+    ]
+  },
+  {
+    "Num": "#123",
+    "Nome": "Scyther",
+    "TamM": "1.5 m\n",
+    "PesoLb": "123.5 lbs.\n",
+    "PesoKg": "56.0 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Bug",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#119",
+    "Nome": "Seaking",
+    "TamM": "1.3 m\n",
+    "PesoLb": "86.0 lbs.\n",
+    "PesoKg": "39.0 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Water",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#122",
+    "Nome": "Mr. Mime",
+    "TamM": "1.3 m\n",
+    "PesoLb": "120.2 lbs.\n",
+    "PesoKg": "54.5 kg\n",
+    "Cor": " Pink",
+    "Tipos": [
+      "Psychic",
+      "Fairy"
+    ]
+  },
+  {
+    "Num": "#120",
+    "Nome": "Staryu",
+    "TamM": "0.8 m\n",
+    "PesoLb": "76.1 lbs.\n",
+    "PesoKg": "34.5 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Water",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#121",
+    "Nome": "Starmie",
+    "TamM": "1.1 m\n",
+    "PesoLb": "176.4 lbs.\n",
+    "PesoKg": "80.0 kg\n",
+    "Cor": " Purple\n",
+    "Tipos": [
+      "Water",
+      "Psychic"
+    ]
+  },
+  {
+    "Num": "#118",
+    "Nome": "Goldeen",
+    "TamM": "0.6 m\n",
+    "PesoLb": "33.1 lbs.\n",
+    "PesoKg": "15.0 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Water",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#117",
+    "Nome": "Seadra",
+    "TamM": "1.2 m\n",
+    "PesoLb": "55.1 lbs.\n",
+    "PesoKg": "25.0 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Water",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#116",
+    "Nome": "Horsea",
+    "TamM": "0.4 m\n",
+    "PesoLb": "17.6 lbs.\n",
+    "PesoKg": "8.0 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Water",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#115",
+    "Nome": "Kangaskhan",
+    "TamM": "2.2 m\n",
+    "PesoLb": "176.4 lbs.\n",
+    "PesoKg": "80.0 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Normal",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#114",
+    "Nome": "Tangela",
+    "TamM": "1.0 m\n",
+    "PesoLb": "77.2 lbs.\n",
+    "PesoKg": "35.0 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Grass",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": null,
+    "Nome": "Chansey",
+    "TamM": null,
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": null,
+    "Tipos": [
+      null,
+      null
+    ]
+  },
+  {
+    "Num": "#112",
+    "Nome": "Rhydon",
+    "TamM": "1.9 m\n",
+    "PesoLb": "264.6 lbs.\n",
+    "PesoKg": "120.0 kg\n",
+    "Cor": " Gray\n",
+    "Tipos": [
+      "Ground",
+      "Rock"
+    ]
+  },
+  {
+    "Num": "#111",
+    "Nome": "Rhyhorn",
+    "TamM": "1.0 m\n",
+    "PesoLb": "253.5 lbs.\n",
+    "PesoKg": "115.0 kg\n",
+    "Cor": " Gray\n",
+    "Tipos": [
+      "Ground",
+      "Rock"
+    ]
+  },
+  {
+    "Num": "#110",
+    "Nome": "Weezing",
+    "TamM": "1.2 m\n",
+    "PesoLb": "20.9 lbs.\n",
+    "PesoKg": "9.5 kg\n",
+    "Cor": " Purple",
+    "Tipos": [
+      "Poison",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#109",
+    "Nome": "Koffing",
+    "TamM": "0.6 m\n",
+    "PesoLb": "2.2 lbs.\n",
+    "PesoKg": "1.0 kg\n",
+    "Cor": " Purple\n",
+    "Tipos": [
+      "Poison",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#108",
+    "Nome": "Lickitung",
+    "TamM": "1.2 m\n",
+    "PesoLb": "144.4 lbs.\n",
+    "PesoKg": "65.5 kg\n",
+    "Cor": " Pink\n",
+    "Tipos": [
+      "Normal",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#106",
+    "Nome": "Hitmonlee",
+    "TamM": "1.5 m\n",
+    "PesoLb": "109.8 lbs.\n",
+    "PesoKg": "49.8 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Fighting",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#107",
+    "Nome": "Hitmonchan",
+    "TamM": "1.4 m\n",
+    "PesoLb": "110.7 lbs.\n",
+    "PesoKg": "50.2 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Fighting",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#105",
+    "Nome": "Marowak",
+    "TamM": "1.0 m\n",
+    "PesoLb": "99.2 lbs.\n",
+    "PesoKg": "45.0 kg\n",
+    "Cor": " Brown",
+    "Tipos": [
+      "Ground",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#103",
+    "Nome": "Exeggutor",
+    "TamM": "2.0 m\n",
+    "PesoLb": "264.6 lbs.\n",
+    "PesoKg": "120.0 kg\n",
+    "Cor": " Yellow\n",
+    "Tipos": [
+      "Grass",
+      "Psychic"
+    ]
+  },
+  {
+    "Num": "#104",
+    "Nome": "Cubone",
+    "TamM": "0.4 m\n",
+    "PesoLb": "14.3 lbs.\n",
+    "PesoKg": "6.5 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Ground",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#102",
+    "Nome": "Exeggcute",
+    "TamM": "0.4 m\n",
+    "PesoLb": "5.5 lbs.\n",
+    "PesoKg": "2.5 kg\n",
+    "Cor": " Pink\n",
+    "Tipos": [
+      "Grass",
+      "Psychic"
+    ]
+  },
+  {
+    "Num": "#101",
+    "Nome": "Electrode",
+    "TamM": "1.2 m\n",
+    "PesoLb": "146.8 lbs.\n",
+    "PesoKg": "66.6 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Electric",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#100",
+    "Nome": "Voltorb",
+    "TamM": "0.5 m\n",
+    "PesoLb": "22.9 lbs.\n",
+    "PesoKg": "10.4 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Electric",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#099",
+    "Nome": "Kingler",
+    "TamM": "1.3 m\n",
+    "PesoLb": "132.3 lbs.\n",
+    "PesoKg": "60.0 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Water",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#097",
+    "Nome": "Hypno",
+    "TamM": "1.6 m\n",
+    "PesoLb": "166.7 lbs.\n",
+    "PesoKg": "75.6 kg\n",
+    "Cor": " Yellow\n",
+    "Tipos": [
+      "Psychic",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#098",
+    "Nome": "Krabby",
+    "TamM": "0.4 m\n",
+    "PesoLb": "14.3 lbs.\n",
+    "PesoKg": "6.5 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Water",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#096",
+    "Nome": "Drowzee",
+    "TamM": "1.0 m\n",
+    "PesoLb": "71.4 lbs.\n",
+    "PesoKg": "32.4 kg\n",
+    "Cor": " Yellow\n",
+    "Tipos": [
+      "Psychic",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#095",
+    "Nome": "Onix",
+    "TamM": "8.8 m\n",
+    "PesoLb": "463.0 lbs.\n",
+    "PesoKg": "210.0 kg\n",
+    "Cor": " Gray\n",
+    "Tipos": [
+      "Rock",
+      "Ground"
+    ]
+  },
+  {
+    "Num": "#093",
+    "Nome": "Haunter",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Ghost",
+      "Poison"
+    ]
+  },
+  {
+    "Num": "#091",
+    "Nome": "Cloyster",
+    "TamM": "1.5 m\n",
+    "PesoLb": "292.1 lbs.\n",
+    "PesoKg": "132.5 kg\n",
+    "Cor": " Purple\n",
+    "Tipos": [
+      "Water",
+      "Ice"
+    ]
+  },
+  {
+    "Num": "#092",
+    "Nome": "Gastly",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Ghost",
+      "Poison"
+    ]
+  },
+  {
+    "Num": "#090",
+    "Nome": "Shellder",
+    "TamM": "0.3 m\n",
+    "PesoLb": "8.8 lbs.\n",
+    "PesoKg": "4.0 kg\n",
+    "Cor": " Purple\n",
+    "Tipos": [
+      "Water",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#089",
+    "Nome": "Muk",
+    "TamM": "1.2 m\n",
+    "PesoLb": "66.1 lbs.\n",
+    "PesoKg": "30.0 kg\n",
+    "Cor": " Purple",
+    "Tipos": [
+      "Poison",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#094",
+    "Nome": "Gengar",
+    "TamM": "1.5 m\n",
+    "PesoLb": "89.3 lbs.\n",
+    "PesoKg": "40.5 kg\n",
+    "Cor": " Purple\n",
+    "Tipos": [
+      "Ghost",
+      "Poison"
+    ]
+  },
+  {
+    "Num": "#087",
+    "Nome": "Dewgong",
+    "TamM": "1.7 m\n",
+    "PesoLb": "264.6 lbs.\n",
+    "PesoKg": "120.0 kg\n",
+    "Cor": " White\n",
+    "Tipos": [
+      "Water",
+      "Ice"
+    ]
+  },
+  {
+    "Num": "#086",
+    "Nome": "Seel",
+    "TamM": "1.1 m\n",
+    "PesoLb": "198.4 lbs.\n",
+    "PesoKg": "90.0 kg\n",
+    "Cor": " White\n",
+    "Tipos": [
+      "Water",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#084",
+    "Nome": "Doduo",
+    "TamM": "1.4 m\n",
+    "PesoLb": "86.4 lbs.\n",
+    "PesoKg": "39.2 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Normal",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#088",
+    "Nome": "Grimer",
+    "TamM": "0.9 m\n",
+    "PesoLb": "66.1 lbs.\n",
+    "PesoKg": "30.0 kg\n",
+    "Cor": " Purple",
+    "Tipos": [
+      "Poison",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#085",
+    "Nome": "Dodrio",
+    "TamM": "1.8 m\n",
+    "PesoLb": "187.8 lbs.\n",
+    "PesoKg": "85.2 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Normal",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#083",
+    "Nome": "Farfetch'd",
+    "TamM": "0.8 m\n",
+    "PesoLb": "33.1 lbs.\n",
+    "PesoKg": "15.0 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Normal",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#082",
+    "Nome": "Magneton",
+    "TamM": "1.0 m\n",
+    "PesoLb": "132.3 lbs.\n",
+    "PesoKg": "60.0 kg\n",
+    "Cor": " Gray\n",
+    "Tipos": [
+      "Electric",
+      "Steel"
+    ]
+  },
+  {
+    "Num": "#081",
+    "Nome": "Magnemite",
+    "TamM": "0.3 m\n",
+    "PesoLb": "13.2 lbs.\n",
+    "PesoKg": "6.0 kg\n",
+    "Cor": " Gray\n",
+    "Tipos": [
+      "Electric",
+      "Steel"
+    ]
+  },
+  {
+    "Num": "#080",
+    "Nome": "Slowbro",
+    "TamM": "1.6 m\n",
+    "PesoLb": "173.1 lbs.\n",
+    "PesoKg": "78.5 kg\n",
+    "Cor": " Pink\n",
+    "Tipos": [
+      "Water",
+      "Psychic"
+    ]
+  },
+  {
+    "Num": "#079",
+    "Nome": "Slowpoke",
+    "TamM": "1.2 m\n",
+    "PesoLb": "79.4 lbs.\n",
+    "PesoKg": "36.0 kg\n",
+    "Cor": " Pink\n",
+    "Tipos": [
+      "Water",
+      "Psychic"
+    ]
+  },
+  {
+    "Num": "#077",
+    "Nome": "Ponyta",
+    "TamM": "1.0 m\n",
+    "PesoLb": "66.1 lbs.\n",
+    "PesoKg": "30.0 kg\n",
+    "Cor": " Yellow",
+    "Tipos": [
+      "Fire",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#078",
+    "Nome": "Rapidash",
+    "TamM": "1.7 m\n",
+    "PesoLb": "209.4 lbs.\n",
+    "PesoKg": "95.0 kg\n",
+    "Cor": " Yellow",
+    "Tipos": [
+      "Fire",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#076",
+    "Nome": "Golem",
+    "TamM": "1.4 m\n",
+    "PesoLb": "661.4 lbs.\n",
+    "PesoKg": "300.0 kg\n",
+    "Cor": " Brown",
+    "Tipos": [
+      "Rock",
+      "Ground"
+    ]
+  },
+  {
+    "Num": "#075",
+    "Nome": "Graveler",
+    "TamM": "1.0 m\n",
+    "PesoLb": "231.5 lbs.\n",
+    "PesoKg": "105.0 kg\n",
+    "Cor": " Brown",
+    "Tipos": [
+      "Rock",
+      "Ground"
+    ]
+  },
+  {
+    "Num": "#074",
+    "Nome": "Geodude",
+    "TamM": "0.4 m\n",
+    "PesoLb": "44.1 lbs.\n",
+    "PesoKg": "20.0 kg\n",
+    "Cor": " Brown",
+    "Tipos": [
+      "Rock",
+      "Ground"
+    ]
+  },
+  {
+    "Num": "#073",
+    "Nome": "Tentacruel",
+    "TamM": "1.6 m\n",
+    "PesoLb": "121.3 lbs.\n",
+    "PesoKg": "55.0 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Water",
+      "Poison"
+    ]
+  },
+  {
+    "Num": "#072",
+    "Nome": "Tentacool",
+    "TamM": "0.9 m\n",
+    "PesoLb": "100.3 lbs.\n",
+    "PesoKg": "45.5 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Water",
+      "Poison"
+    ]
+  },
+  {
+    "Num": "#071",
+    "Nome": "Victreebel",
+    "TamM": "1.7 m\n",
+    "PesoLb": "34.2 lbs.\n",
+    "PesoKg": "15.5 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Grass",
+      "Poison"
+    ]
+  },
+  {
+    "Num": "#069",
+    "Nome": "Bellsprout",
+    "TamM": "0.7 m\n",
+    "PesoLb": "8.8 lbs.\n",
+    "PesoKg": "4.0 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Grass",
+      "Poison"
+    ]
+  },
+  {
+    "Num": "#070",
+    "Nome": "Weepinbell",
+    "TamM": "1.0 m\n",
+    "PesoLb": "14.1 lbs.\n",
+    "PesoKg": "6.4 kg\n",
+    "Cor": " Green\n",
+    "Tipos": [
+      "Grass",
+      "Poison"
+    ]
+  },
+  {
+    "Num": "#068",
+    "Nome": "Machamp",
+    "TamM": "1.6 m\n",
+    "PesoLb": "286.6 lbs.\n",
+    "PesoKg": "130.0 kg\n",
+    "Cor": " Gray\n",
+    "Tipos": [
+      "Fighting",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#067",
+    "Nome": "Machoke",
+    "TamM": "1.5 m\n",
+    "PesoLb": "155.4 lbs.\n",
+    "PesoKg": "70.5 kg\n",
+    "Cor": " Gray\n",
+    "Tipos": [
+      "Fighting",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#066",
+    "Nome": "Machop",
+    "TamM": "0.8 m\n",
+    "PesoLb": "43.0 lbs.\n",
+    "PesoKg": "19.5 kg\n",
+    "Cor": " Gray\n",
+    "Tipos": [
+      "Fighting",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#065",
+    "Nome": "Alakazam",
+    "TamM": "1.5 m\n",
+    "PesoLb": "105.8 lbs.\n",
+    "PesoKg": "48.0 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Psychic",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#064",
+    "Nome": "Kadabra",
+    "TamM": "1.3 m\n",
+    "PesoLb": "124.6 lbs.\n",
+    "PesoKg": "56.5 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Psychic",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#063",
+    "Nome": "Abra",
+    "TamM": "0.9 m\n",
+    "PesoLb": "43.0 lbs.\n",
+    "PesoKg": "19.5 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Psychic",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#062",
+    "Nome": "Poliwrath",
+    "TamM": "1.3 m\n",
+    "PesoLb": "119.0 lbs.\n",
+    "PesoKg": "54.0 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Water",
+      "Fighting"
+    ]
+  },
+  {
+    "Num": "#061",
+    "Nome": "Poliwhirl",
+    "TamM": "1.0 m\n",
+    "PesoLb": "44.1 lbs.\n",
+    "PesoKg": "20.0 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Water",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#060",
+    "Nome": "Poliwag",
+    "TamM": "0.6 m\n",
+    "PesoLb": "27.3 lbs.\n",
+    "PesoKg": "12.4 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Water",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#059",
+    "Nome": "Arcanine",
+    "TamM": "1.9 m\n",
+    "PesoLb": "341.7 lbs.\n",
+    "PesoKg": "155.0 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Fire",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#058",
+    "Nome": "Growlithe",
+    "TamM": "0.7 m\n",
+    "PesoLb": "41.9 lbs.\n",
+    "PesoKg": "19.0 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Fire",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#057",
+    "Nome": "Primeape",
+    "TamM": "1.0 m\n",
+    "PesoLb": "70.5 lbs.\n",
+    "PesoKg": "32.0 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Fighting",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#056",
+    "Nome": "Mankey",
+    "TamM": "0.5 m\n",
+    "PesoLb": "61.7 lbs.\n",
+    "PesoKg": "28.0 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Fighting",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#055",
+    "Nome": "Golduck",
+    "TamM": "1.7 m\n",
+    "PesoLb": "168.9 lbs.\n",
+    "PesoKg": "76.6 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Water",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#054",
+    "Nome": "Psyduck",
+    "TamM": "0.8 m\n",
+    "PesoLb": "43.2 lbs.\n",
+    "PesoKg": "19.6 kg\n",
+    "Cor": " Yellow\n",
+    "Tipos": [
+      "Water",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#051",
+    "Nome": "Dugtrio",
+    "TamM": "0.7 m\n",
+    "PesoLb": "73.4 lbs.\n",
+    "PesoKg": "33.3 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Ground",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#053",
+    "Nome": "Persian",
+    "TamM": "1.0 m\n",
+    "PesoLb": "70.5 lbs.\n",
+    "PesoKg": "32.0 kg\n",
+    "Cor": " Yellow",
+    "Tipos": [
+      "Normal",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#050",
+    "Nome": "Diglett",
+    "TamM": "0.2 m\n",
+    "PesoLb": "1.8 lbs.\n",
+    "PesoKg": "0.8 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Ground",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#049",
+    "Nome": "Venomoth",
+    "TamM": "1.5 m\n",
+    "PesoLb": "27.6 lbs.\n",
+    "PesoKg": "12.5 kg\n",
+    "Cor": " Purple\n",
+    "Tipos": [
+      "Bug",
+      "Poison"
+    ]
+  },
+  {
+    "Num": "#048",
+    "Nome": "Venonat",
+    "TamM": "1.0 m\n",
+    "PesoLb": "66.1 lbs.\n",
+    "PesoKg": "30.0 kg\n",
+    "Cor": " Purple\n",
+    "Tipos": [
+      "Bug",
+      "Poison"
+    ]
+  },
+  {
+    "Num": "#052",
+    "Nome": "Meowth",
+    "TamM": "0.4 m\n",
+    "PesoLb": "9.3 lbs.\n",
+    "PesoKg": "4.2 kg\n",
+    "Cor": " Yellow",
+    "Tipos": [
+      "Normal",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#047",
+    "Nome": "Parasect",
+    "TamM": "1.0 m\n",
+    "PesoLb": "65.0 lbs.\n",
+    "PesoKg": "29.5 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Bug",
+      "Grass"
+    ]
+  },
+  {
+    "Num": "#046",
+    "Nome": "Paras",
+    "TamM": "0.3 m\n",
+    "PesoLb": "11.9 lbs.\n",
+    "PesoKg": "5.4 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Bug",
+      "Grass"
+    ]
+  },
+  {
+    "Num": "#044",
+    "Nome": "Gloom",
+    "TamM": "0.8 m\n",
+    "PesoLb": "19.0 lbs.\n",
+    "PesoKg": "8.6 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Grass",
+      "Poison"
+    ]
+  },
+  {
+    "Num": "#045",
+    "Nome": "Vileplume",
+    "TamM": "1.2 m\n",
+    "PesoLb": "41.0 lbs.\n",
+    "PesoKg": "18.6 kg\n",
+    "Cor": " Red\n",
+    "Tipos": [
+      "Grass",
+      "Poison"
+    ]
+  },
+  {
+    "Num": "#043",
+    "Nome": "Oddish",
+    "TamM": "0.5 m\n",
+    "PesoLb": "11.9 lbs.\n",
+    "PesoKg": "5.4 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Grass",
+      "Poison"
+    ]
+  },
+  {
+    "Num": "#042",
+    "Nome": "Golbat",
+    "TamM": "1.6 m\n",
+    "PesoLb": "121.3 lbs.\n",
+    "PesoKg": "55.0 kg\n",
+    "Cor": " Purple\n",
+    "Tipos": [
+      "Poison",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#040",
+    "Nome": "Wigglytuff",
+    "TamM": "1.0 m\n",
+    "PesoLb": "26.5 lbs.\n",
+    "PesoKg": "12.0 kg\n",
+    "Cor": " Pink\n",
+    "Tipos": [
+      "Normal",
+      "Fairy"
+    ]
+  },
+  {
+    "Num": "#041",
+    "Nome": "Zubat",
+    "TamM": "0.8 m\n",
+    "PesoLb": "16.5 lbs.\n",
+    "PesoKg": "7.5 kg\n",
+    "Cor": " Purple\n",
+    "Tipos": [
+      "Poison",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#039",
+    "Nome": "Jigglypuff",
+    "TamM": "0.5 m\n",
+    "PesoLb": "12.1 lbs.\n",
+    "PesoKg": "5.5 kg\n",
+    "Cor": " Pink\n",
+    "Tipos": [
+      "Normal",
+      "Fairy"
+    ]
+  },
+  {
+    "Num": "#038",
+    "Nome": "Ninetales",
+    "TamM": "1.1 m\n",
+    "PesoLb": "43.9 lbs.\n",
+    "PesoKg": "19.9 kg\n",
+    "Cor": " Yellow",
+    "Tipos": [
+      "Fire",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#037",
+    "Nome": "Vulpix",
+    "TamM": "0.6 m\n",
+    "PesoLb": "21.8 lbs.\n",
+    "PesoKg": "9.9 kg\n",
+    "Cor": " Brown",
+    "Tipos": [
+      "Fire",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#036",
+    "Nome": "Clefable",
+    "TamM": "1.3 m\n",
+    "PesoLb": "88.2 lbs.\n",
+    "PesoKg": "40.0 kg\n",
+    "Cor": " Pink\n",
+    "Tipos": [
+      "Fairy",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#035",
+    "Nome": "Clefairy",
+    "TamM": "0.6 m\n",
+    "PesoLb": "16.5 lbs.\n",
+    "PesoKg": "7.5 kg\n",
+    "Cor": " Pink\n",
+    "Tipos": [
+      "Fairy",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#029",
+    "Nome": "Nidoran\u2640",
+    "TamM": "0.4 m\n",
+    "PesoLb": "15.4 lbs.\n",
+    "PesoKg": "7.0 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Poison",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#030",
+    "Nome": "Nidorina",
+    "TamM": "0.8 m\n",
+    "PesoLb": "44.1 lbs.\n",
+    "PesoKg": "20.0 kg\n",
+    "Cor": " Blue\n",
+    "Tipos": [
+      "Poison",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#028",
+    "Nome": "Sandslash",
+    "TamM": "1.0 m\n",
+    "PesoLb": "65.0 lbs.\n",
+    "PesoKg": "29.5 kg\n",
+    "Cor": " Yellow",
+    "Tipos": [
+      "Ground",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#024",
+    "Nome": "Arbok",
+    "TamM": "3.5 m\n",
+    "PesoLb": "143.3 lbs.\n",
+    "PesoKg": "65.0 kg\n",
+    "Cor": " Purple\n",
+    "Tipos": [
+      "Poison",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#027",
+    "Nome": "Sandshrew",
+    "TamM": "0.6 m\n",
+    "PesoLb": "26.5 lbs.\n",
+    "PesoKg": "12.0 kg\n",
+    "Cor": " Yellow",
+    "Tipos": [
+      "Ground",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#023",
+    "Nome": "Ekans",
+    "TamM": "2.0 m\n",
+    "PesoLb": "15.2 lbs.\n",
+    "PesoKg": "6.9 kg\n",
+    "Cor": " Purple\n",
+    "Tipos": [
+      "Poison",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#026",
+    "Nome": "Raichu",
+    "TamM": "0.8 m\n",
+    "PesoLb": "66.1 lbs.\n",
+    "PesoKg": "30.0 kg\n",
+    "Cor": " Yellow",
+    "Tipos": [
+      "Electric",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#022",
+    "Nome": "Fearow",
+    "TamM": "1.2 m\n",
+    "PesoLb": "83.8 lbs.\n",
+    "PesoKg": "38.0 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Normal",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#021",
+    "Nome": "Spearow",
+    "TamM": "0.3 m\n",
+    "PesoLb": "4.4 lbs.\n",
+    "PesoKg": "2.0 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Normal",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#025",
+    "Nome": "Pikachu",
+    "TamM": "0.4 m\n",
+    "PesoLb": "13.2 lbs.\n",
+    "PesoKg": "6.0 kg\n",
+    "Cor": " Yellow\n",
+    "Tipos": [
+      "Electric",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#020",
+    "Nome": "Raticate",
+    "TamM": "0.7 m\n",
+    "PesoLb": "40.8 lbs.\n",
+    "PesoKg": "18.5 kg\n",
+    "Cor": " Brown",
+    "Tipos": [
+      "Normal",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#019",
+    "Nome": "Rattata",
+    "TamM": "0.3 m\n",
+    "PesoLb": "7.7 lbs.\n",
+    "PesoKg": "3.5 kg\n",
+    "Cor": " Purple",
+    "Tipos": [
+      "Normal",
+      "Unknown"
+    ]
+  },
+  {
+    "Num": "#018",
+    "Nome": "Pidgeot",
+    "TamM": "1.5 m\n",
+    "PesoLb": "87.1 lbs.\n",
+    "PesoKg": "39.5 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Normal",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#017",
+    "Nome": "Pidgeotto",
+    "TamM": "1.1 m\n",
+    "PesoLb": "66.1 lbs.\n",
+    "PesoKg": "30.0 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Normal",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#016",
+    "Nome": "Pidgey",
+    "TamM": "0.3 m\n",
+    "PesoLb": "4.0 lbs.\n",
+    "PesoKg": "1.8 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Normal",
+      "Flying"
+    ]
+  },
+  {
+    "Num": "#015",
+    "Nome": "Beedrill",
+    "TamM": "1.0 m\n",
+    "PesoLb": "65.0 lbs.\n",
+    "PesoKg": "29.5 kg\n",
+    "Cor": " Yellow\n",
+    "Tipos": [
+      "Bug",
+      "Poison"
+    ]
+  },
+  {
+    "Num": "#014",
+    "Nome": "Kakuna",
+    "TamM": "[[|",
+    "PesoLb": null,
+    "PesoKg": null,
+    "Cor": "\n",
+    "Tipos": [
+      "Bug",
+      "Poison"
+    ]
+  },
+  {
+    "Num": "#013",
+    "Nome": "Weedle",
+    "TamM": "0.3 m\n",
+    "PesoLb": "7.1 lbs.\n",
+    "PesoKg": "3.2 kg\n",
+    "Cor": " Brown\n",
+    "Tipos": [
+      "Bug",
+      "Poison"
+    ]
+  },
+  {
+    "Num": "#012",
+    "Nome": "Butterfree",
+    "TamM": "1.1 m\n",
+    "PesoLb": "70.5 lbs.\n",
+    "PesoKg": "32.0 kg\n",
+    "Cor": " White\n",
+    "Tipos": [
+      "Bug",
+      "Flying"
+    ]
+  }
+]
